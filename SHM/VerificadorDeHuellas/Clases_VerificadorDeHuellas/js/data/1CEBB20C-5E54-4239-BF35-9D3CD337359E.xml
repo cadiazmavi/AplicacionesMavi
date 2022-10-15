@@ -1,0 +1,17 @@
+tocTab[tocTab.length] = new Array("0.1.10:1", "", "venta_vales", "EARoot/EA1/EA10/EA182.htm", "175.png", "148", "0", "", "Logical diagram0","{271F7D9B-7EA4-4e51-92FC-24E08AE4D418}");
+tocTab[tocTab.length] = new Array("0.1.10:2", "", "DC_ClieAtteConfigListOpc", "EARoot/EA1/EA10/EA185.htm", "5.png", "E2497", "0", "", "Class0","{0F0E6DBA-EB71-48e1-8E96-08A822C551F4}");
+tocTab[tocTab.length] = new Array("0.1.10:3", "", "DC_Cliente", "EARoot/EA1/EA10/EA186.htm", "5.png", "E2498", "0", "", "Class0","{8C98C723-3B7F-4201-A8D9-AFFFEB054339}");
+tocTab[tocTab.length] = new Array("0.1.10:4", "", "DC_CodigoRecomendador", "EARoot/EA1/EA10/EA187.htm", "5.png", "E2499", "0", "", "Class0","{8314757D-BEFD-4fb4-A0AD-3D4455E1A71A}");
+tocTab[tocTab.length] = new Array("0.1.10:5", "", "DC_Credenciales", "EARoot/EA1/EA10/EA188.htm", "5.png", "E2500", "0", "", "Class0","{89DB4C4A-0CF7-4ccd-91B5-D0E9D86E8854}");
+tocTab[tocTab.length] = new Array("0.1.10:6", "", "DC_CteFingerSHM", "EARoot/EA1/EA10/EA189.htm", "5.png", "E2501", "0", "", "Class0","{D5A40446-90C2-42ac-AE98-38BA12277D3C}");
+tocTab[tocTab.length] = new Array("0.1.10:7", "", "DC_DatosRecibos", "EARoot/EA1/EA10/EA190.htm", "5.png", "E2502", "0", "", "Class0","{35A3E0F3-C0EA-490d-90FC-372C7248001E}");
+tocTab[tocTab.length] = new Array("0.1.10:8", "", "DC_DatosValera", "EARoot/EA1/EA10/EA191.htm", "5.png", "E2503", "0", "", "Class0","{3694458A-5B39-48d6-A06C-1A224F31B3F6}");
+tocTab[tocTab.length] = new Array("0.1.10:9", "", "DC_EditClientAttentionModel", "EARoot/EA1/EA10/EA192.htm", "5.png", "E2504", "0", "", "Class0","{6516A363-66D8-47cd-90CB-9A7B6D904205}");
+tocTab[tocTab.length] = new Array("0.1.10:10", "", "DC_EncabezadoEstCta", "EARoot/EA1/EA10/EA193.htm", "5.png", "E2505", "0", "", "Class0","{67F17C1D-B220-4157-B451-ACF5D6D81E73}");
+tocTab[tocTab.length] = new Array("0.1.10:11", "", "DC_EstadoCuenta", "EARoot/EA1/EA10/EA194.htm", "5.png", "E2506", "0", "", "Class0","{3AADC90B-EEA3-4469-B947-0D05103D4426}");
+tocTab[tocTab.length] = new Array("0.1.10:12", "", "DC_FiltrosReporteGeneralVales", "EARoot/EA1/EA10/EA195.htm", "5.png", "E2507", "0", "", "Class0","{1CFC0F32-DE49-4a28-9AA8-688E2FCFA430}");
+tocTab[tocTab.length] = new Array("0.1.10:13", "", "DC_FolioCalzado", "EARoot/EA1/EA10/EA196.htm", "5.png", "E2508", "0", "", "Class0","{17D0F3E8-01F6-4f9e-8C03-FDED0182F232}");
+tocTab[tocTab.length] = new Array("0.1.10:14", "", "DC_MaximoVales", "EARoot/EA1/EA10/EA197.htm", "5.png", "E2509", "0", "", "Class0","{28A46DB7-F8B9-4e9c-9215-CF796371BAFD}");
+tocTab[tocTab.length] = new Array("0.1.10:15", "", "DC_RecibosPagos", "EARoot/EA1/EA10/EA198.htm", "5.png", "E2510", "0", "", "Class0","{68D633F1-0E97-4fe0-A18B-396417552343}");
+tocTab[tocTab.length] = new Array("0.1.10:16", "", "DC_Telefono", "EARoot/EA1/EA10/EA199.htm", "5.png", "E2511", "0", "", "Class0","{E6AC84D1-3D5C-45ea-8805-D4D8FDE49514}");
+tocTab[tocTab.length] = new Array("0.1.10:17", "", "M_Falla_Huella", "EARoot/EA1/EA10/EA200.htm", "5.png", "E2512", "0", "", "Class0","{B2B51732-02BC-4aab-859F-F181477BCC1D}");

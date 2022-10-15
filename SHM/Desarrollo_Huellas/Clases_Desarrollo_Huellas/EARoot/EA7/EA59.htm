@@ -1,0 +1,375 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>SHM</title>
+<link href="../../css/ea.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="../../js/displayToc.js" type="text/javascript"></script>
+<script>
+
+  function switchProjectProperties() {
+			if (document.getElementById("proj00").style.display == "none") {
+				document.getElementById("proj00").style.display = "revert";
+				document.getElementById("proj01").style.display = "revert";
+				document.getElementById("proj02").style.display = "revert";
+				document.getElementById("proj03").style.display = "revert";
+				document.getElementById("proj04").style.display = "revert";
+				document.getElementById("proj05").style.display = "revert";
+			} else {
+				document.getElementById("proj00").style.display = "none";
+				document.getElementById("proj01").style.display = "none";
+				document.getElementById("proj02").style.display = "none";
+				document.getElementById("proj03").style.display = "none";
+				document.getElementById("proj04").style.display = "none";
+				document.getElementById("proj05").style.display = "none";
+			}
+}
+
+		function switchAdvancedProperties(){
+
+			if (document.getElementById("adv00").style.display == "none") {;
+				document.getElementById("adv00").style.display = "revert";
+				document.getElementById("adv01").style.display = "revert";
+			} else {
+				document.getElementById("adv00").style.display = "none";
+				document.getElementById("adv01").style.display = "none";
+			}
+		}
+		function initPage()
+        {			
+			var divs = document.getElementsByClassName("ObjectDetailsNotes");
+			for (var j = 0; j < divs.length; j++) {
+				var tmpStr = divs[j].innerHTML;
+				tmpStr = tmpStr.replace(/&gt;/g, ">");
+				tmpStr = tmpStr.replace(/&lt;/g, "<");
+
+				tmpStr = tmpStr.replace(/#gt;/g, "&gt;");
+				tmpStr = tmpStr.replace(/#lt;/g, "&lt;");
+
+				divs[j].innerHTML = tmpStr;
+			}
+
+            if (document.getElementById('TableGroup') != null)
+            {
+                toggleItem(document.getElementById('TableGroup').getElementsByTagName('li')[0].id.replace("Title", ""));
+            }
+
+        }
+</script>
+<style>
+
+</style>
+</head>
+<body onload="initPage();">
+<div class="section group" >
+
+		<div class="col span_2_of_2 header_frame">
+			<h1> SHM </h1>
+			<!-- <img class="header_image" src="../../images/ea-banner.png" align="right" alt="Header Image" />-->
+			<img class="header_image" src="../../images/ea-banner.png" align="right" alt="Header Image" />
+		</div>
+		<div class="col span_2_of_2 breadcrumb_frame">
+			<p><a href="../EA3.htm">Desarrollo_Huellas</a> / <a href="EA61.htm">SHM</a> / <a href="EA59.htm">SHM</a></p>
+		</div>
+			
+		<table class="contentmaintable">
+			<!-- <tfoot>
+				<tr>
+					<td>foot1</td>
+					<td>foot2</td>
+				</tr>
+			</tfoot> -->
+			<tbody>
+				<tr>
+					<td class="indexcell">
+						<div class="projectBrowserTitle">Project: </div>
+						<ul>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA1/EA201.htm">BuroDigital</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA2/EA300.htm">Capacitacion</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA3/EA311.htm">CapaDatos</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA4/EA317.htm">CapaNegocio</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA5/EA341.htm">CapaPresentacion</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA6/EA368.htm">CargaDocMovimientos</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA7/EA372.htm">CargaDocs</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA8/EA395.htm">Clientes_Finales</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA9/EA494.htm">Cobranza</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA10/EA503.htm">ComercializadoraDataSetTableAdapters</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA11/EA510.htm">Configuracion</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA12/EA547.htm">ControlCamaraAdjuntar</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA13/EA555.htm">ControlCamaraFoto</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA14/EA561.htm">Herramientas</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA15/EA569.htm">INTL</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA16/EA583.htm">Personal</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA17/EA596.htm">PreguntasDeSeguridad</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA18/EA611.htm">PreguntasSeguridad</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA19/EA616.htm">Promotores</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA20/EA629.htm">Properties</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA21/EA634.htm">Reportes</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA22/EA647.htm">ServiceReference1</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA23/EA653.htm">ServicioDispersiones</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA24/EA688.htm">UtileriasDEV</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA25/EA694.htm">venta_vales</a></li>
+<li><img src="../../images/175.png" alt="Diagram"/> <a href="EA59.htm">SHM</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA63.htm">AccesoControl</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA64.htm">ACTUALIZAR</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA67.htm">Buscar</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA68.htm">BusquedaMultiple</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA77.htm">ComercializadoraDataSet</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA79.htm">conexion</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA80.htm">Conexiones</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA82.htm">configure_xml</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA83.htm">ConfigVPN</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA84.htm">CONTROL_CAMARA</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA85.htm">ControlCamara4</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA88.htm">CrearImagen</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA89.htm">DatagridViewCheckBoxHeaderCell</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA90.htm">DatagridViewCheckBoxHeaderCell</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA91.htm">DataGridViewCheckBoxHeaderCellEventArgs</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA92.htm">DataGridViewCheckBoxHeaderCellEventArgs</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA93.htm">DataGridViewColumnSelector</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA94.htm">DataGridViewColumnSelector</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA95.htm">DataSetHojaVerde</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA96.htm">DataSetHojaVerde</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA97.htm">DatosDomicilio</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA98.htm">DatosDomicilio</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA99.htm">Encriptador</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA100.htm">Excel</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA101.htm">Foto4</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA102.htm">FRM_ACCESO_DENEGADO</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA103.htm">FRM_ACCESO_DENEGADO</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA104.htm">FRM_ACCESO_NOMINA</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA105.htm">FRM_ACCESO_NOMINA</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA106.htm">FRM_CAMBIOS_DOMICILIO</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA107.htm">FRM_CAMBIOS_DOMICILIO</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA108.htm">FRM_CAPTURA</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA109.htm">FRM_CAPTURA</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA110.htm">FRM_CARGANDO</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA111.htm">FRM_CARGANDO</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA112.htm">FRM_DOCS_CAMBIO_DOMICILIO</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA113.htm">FRM_DOCS_CAMBIO_DOMICILIO</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA114.htm">FRM_GESTOR_CORREOS</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA115.htm">FRM_GESTOR_CORREOS</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA116.htm">FRM_HUELLAS_ILEGIBLES</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA117.htm">FRM_HUELLAS_ILEGIBLES</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA118.htm">FRM_MAIN</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA119.htm">FRM_MAIN</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA120.htm">FRM_NOMINA</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA121.htm">FRM_NOMINA</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA122.htm">FRM_PRINTHOJAVERDE</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA123.htm">FRM_PRINTHOJAVERDE</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA124.htm">FRM_REPORTE_CAMBIOS_DOMICILIO</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA125.htm">FRM_REPORTE_CAMBIOS_DOMICILIO</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA126.htm">FRM_VERIFICADORES</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA127.htm">FRM_VERIFICADORES</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA128.htm">FRM_VisualizarRotacion</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA129.htm">FRM_VisualizarRotacion</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA130.htm">FrmMensajePersonalizado</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA131.htm">FrmMensajePersonalizado</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA132.htm">FUNCIONES</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA133.htm">GridViewCheckBoxColumn</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA134.htm">GridViewCheckBoxColumn</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA137.htm">IFotosControl4</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA138.htm">IFotosControl4</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA139.htm">Initial</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA141.htm">KillProcess</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA142.htm">LabelMachine</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA143.htm">LabelMachine</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA144.htm">listas</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA145.htm">Obj_Adjuntar</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA146.htm">Obj_Adjuntar</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA147.htm">Obj_AdjuntarCancelaSeg</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA148.htm">Obj_AdjuntarCancelaSeg</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA149.htm">Obj_AdjuntarCD</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA150.htm">Obj_AdjuntarCD</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA151.htm">Obj_Adjunto</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA152.htm">Obj_AdjuntoCancelaSeg</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA153.htm">Obj_AdjuntoCD</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA154.htm">Obj_PreguntaSeguridad1</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA155.htm">Obj_PreguntaSeguridad1</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA156.htm">Obj_PreguntaSeguridad2</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA157.htm">Obj_PreguntaSeguridad2</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA158.htm">Obj_PreguntaSeguridad3</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA159.htm">Obj_PreguntaSeguridad3</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA160.htm">ObjDateTimePicker</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA161.htm">ObjDateTimePicker</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA163.htm">PictureButton</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA164.htm">PictureButton</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA167.htm">Program</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA169.htm">promotores</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA176.htm">ToggleButton</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA177.htm">ToggleButton</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA178.htm">ToggleSwitch</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA179.htm">ToggleSwitch</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA180.htm">usr_work</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA181.htm">usuario</a></li>
+<li><img src="../../images/8.png" alt="Interface"/> <a href="EA136.htm">IFoto4</a></li>
+<li><img src="../../images/247.png" alt="Enumeration"/> <a href="EA62.htm">ACCESO</a></li>
+<li><img src="../../images/247.png" alt="Enumeration"/> <a href="EA65.htm">bases</a></li>
+<li><img src="../../images/247.png" alt="Enumeration"/> <a href="EA174.htm">sql_funcion</a></li>
+<li><img src="../../images/247.png" alt="Enumeration"/> <a href="EA175.htm">Status</a></li>
+<li><img src="../../images/247.png" alt="Enumeration"/> <a href="EA183.htm">ValidacionTarjeta</a></li>
+</ul>
+
+					</td>
+					<td class="contentcell"><div class="PageBody">
+	<div class=diagram_image> 
+<img src="EA60.png" usemap="#EA60" border="0" />
+
+<MAP NAME="EA60">
+<area shape="rect" coords="2488,19854,2725,19969" href="EA179.htm" target="_self">
+<area shape="rect" coords="2516,19717,2696,19816" href="EA178.htm" target="_self">
+<area shape="rect" coords="2488,19592,2725,19670" href="EA177.htm" target="_self">
+<area shape="rect" coords="2564,19481,2648,19565" href="EA198.htm" target="_self">
+<area shape="rect" coords="2509,4422,2705,4623" href="EA176.htm" target="_self">
+<area shape="rect" coords="2554,19293,2660,19443" href="EA183.htm" target="_self">
+<area shape="rect" coords="2505,3941,2708,4007" href="EA144.htm" target="_self">
+<area shape="rect" coords="2552,19110,2661,19251" href="EA169.htm" target="_self">
+<area shape="rect" coords="2552,1337,2661,1587" href="EA82.htm" target="_self">
+<area shape="rect" coords="2515,1216,2697,1296" href="EA79.htm" target="_self">
+<area shape="rect" coords="2564,18991,2648,19071" href="EA180.htm" target="_self">
+<area shape="rect" coords="2564,398,2648,463" href="EA181.htm" target="_self">
+<area shape="rect" coords="2557,18849,2656,18949" href="EA63.htm" target="_self">
+<area shape="rect" coords="2560,18606,2653,18818" href="EA83.htm" target="_self">
+<area shape="rect" coords="2463,17462,2750,18575" href="EA62.htm" target="_self">
+<area shape="rect" coords="2564,17330,2648,17431" href="EA175.htm" target="_self">
+<area shape="rect" coords="2564,17205,2648,17294" href="EA65.htm" target="_self">
+<area shape="rect" coords="2564,17074,2648,17163" href="EA174.htm" target="_self">
+<area shape="rect" coords="2548,16973,2664,17038" href="EA167.htm" target="_self">
+<area shape="rect" coords="2488,16842,2725,16944" href="EA164.htm" target="_self">
+<area shape="rect" coords="2490,5248,2723,5522" href="EA163.htm" target="_self">
+<area shape="rect" coords="2488,16686,2725,16800" href="EA159.htm" target="_self">
+<area shape="rect" coords="2564,16544,2648,16643" href="EA197.htm" target="_self">
+<area shape="rect" coords="2521,16312,2693,16508" href="EA158.htm" target="_self">
+<area shape="rect" coords="2488,16167,2725,16269" href="EA157.htm" target="_self">
+<area shape="rect" coords="2564,16038,2648,16136" href="EA196.htm" target="_self">
+<area shape="rect" coords="2533,15843,2679,16003" href="EA156.htm" target="_self">
+<area shape="rect" coords="2488,15698,2725,15801" href="EA155.htm" target="_self">
+<area shape="rect" coords="2487,15493,2725,15678" href="EA154.htm" target="_self">
+<area shape="rect" coords="2488,15336,2725,15450" href="EA150.htm" target="_self">
+<area shape="rect" coords="2564,15194,2648,15293" href="EA195.htm" target="_self">
+<area shape="rect" coords="1636,6111,1890,6348" href="EA149.htm" target="_self">
+<area shape="rect" coords="2564,6173,2648,6277" href="EA153.htm" target="_self">
+<area shape="rect" coords="2488,14999,2725,15150" href="EA148.htm" target="_self">
+<area shape="rect" coords="1086,2380,1315,2727" href="EA147.htm" target="_self">
+<area shape="rect" coords="2557,2535,2656,2639" href="EA152.htm" target="_self">
+<area shape="rect" coords="2488,14824,2725,14950" href="EA146.htm" target="_self">
+<area shape="rect" coords="1654,5716,1872,6067" href="EA145.htm" target="_self">
+<area shape="rect" coords="2564,5828,2648,5945" href="EA151.htm" target="_self">
+<area shape="rect" coords="2483,14692,2730,14782" href="EA161.htm" target="_self">
+<area shape="rect" coords="2488,14591,2725,14657" href="EA160.htm" target="_self">
+<area shape="rect" coords="2488,14461,2725,14563" href="EA143.htm" target="_self">
+<area shape="rect" coords="2512,14266,2702,14430" href="EA142.htm" target="_self">
+<area shape="rect" coords="2564,14160,2648,14226" href="EA141.htm" target="_self">
+<area shape="rect" coords="663,357,951,850" href="EA139.htm" target="_self">
+<area shape="rect" coords="2488,13999,2725,14125" href="EA138.htm" target="_self">
+<area shape="rect" coords="2470,2676,2743,2958" href="EA137.htm" target="_self">
+<area shape="rect" coords="2489,3230,2724,3368" href="EA136.htm" target="_self">
+<area shape="rect" coords="2564,13868,2648,13957" href="EA194.htm" target="_self">
+<area shape="rect" coords="2433,13205,2780,13831" href="EA132.htm" target="_self">
+<area shape="rect" coords="2488,13048,2725,13163" href="EA129.htm" target="_self">
+<area shape="rect" coords="2483,12908,2730,13013" href="EA128.htm" target="_self">
+<area shape="rect" coords="2466,12446,2747,12865" href="EA127.htm" target="_self">
+<area shape="rect" coords="2558,12305,2655,12406" href="EA193.htm" target="_self">
+<area shape="rect" coords="9,1707,254,2200" href="EA126.htm" target="_self">
+<area shape="rect" coords="1597,4869,1929,5630" href="EA125.htm" target="_self">
+<area shape="rect" coords="2409,11988,2803,12282" href="EA124.htm" target="_self">
+<area shape="rect" coords="2472,11855,2741,11957" href="EA123.htm" target="_self">
+<area shape="rect" coords="2492,11736,2721,11823" href="EA122.htm" target="_self">
+<area shape="rect" coords="2488,11561,2725,11688" href="EA121.htm" target="_self">
+<area shape="rect" coords="1607,42,1919,340" href="EA120.htm" target="_self">
+<area shape="rect" coords="2473,11207,2739,11516" href="EA119.htm" target="_self">
+<area shape="rect" coords="313,1009,569,1587" href="EA118.htm" target="_self">
+<area shape="rect" coords="2488,10968,2725,11155" href="EA117.htm" target="_self">
+<area shape="rect" coords="2513,10755,2699,10928" href="EA116.htm" target="_self">
+<area shape="rect" coords="2469,10586,2744,10713" href="EA115.htm" target="_self">
+<area shape="rect" coords="2439,10387,2773,10547" href="EA114.htm" target="_self">
+<area shape="rect" coords="2488,10248,2725,10338" href="EA113.htm" target="_self">
+<area shape="rect" coords="2504,10073,2709,10222" href="EA112.htm" target="_self">
+<area shape="rect" coords="2488,9948,2725,10038" href="EA111.htm" target="_self">
+<area shape="rect" coords="2564,9823,2648,9900" href="EA192.htm" target="_self">
+<area shape="rect" coords="1115,1482,1285,1939" href="EA110.htm" target="_self">
+<area shape="rect" coords="1644,4057,1882,4793" href="EA107.htm" target="_self">
+<area shape="rect" coords="2564,9682,2648,9780" href="EA191.htm" target="_self">
+<area shape="rect" coords="2465,9289,2748,9656" href="EA106.htm" target="_self">
+<area shape="rect" coords="2488,9093,2725,9244" href="EA105.htm" target="_self">
+<area shape="rect" coords="2491,8885,2722,9049" href="EA104.htm" target="_self">
+<area shape="rect" coords="2488,8754,2725,8832" href="EA103.htm" target="_self">
+<area shape="rect" coords="2541,8648,2672,8713" href="EA102.htm" target="_self">
+<area shape="rect" coords="2488,8480,2725,8618" href="EA131.htm" target="_self">
+<area shape="rect" coords="2488,8285,2725,8449" href="EA130.htm" target="_self">
+<area shape="rect" coords="1083,2949,1318,3161" href="EA101.htm" target="_self">
+<area shape="rect" coords="2551,8150,2663,8236" href="EA100.htm" target="_self">
+<area shape="rect" coords="2473,7820,2739,8117" href="EA98.htm" target="_self">
+<area shape="rect" coords="2432,7513,2781,7795" href="EA97.htm" target="_self">
+<area shape="rect" coords="2351,7198,2862,7472" href="EA96.htm" target="_self">
+<area shape="rect" coords="2564,7091,2648,7157" href="EA95.htm" target="_self">
+<area shape="rect" coords="2526,6998,2687,7063" href="EA88.htm" target="_self">
+<area shape="rect" coords="2508,6791,2705,6970" href="EA84.htm" target="_self">
+<area shape="rect" coords="2481,6670,2732,6753" href="EA99.htm" target="_self">
+<area shape="rect" coords="2427,2999,2786,3196" href="EA85.htm" target="_self">
+<area shape="rect" coords="1428,433,2097,1441" href="EA80.htm" target="_self">
+<area shape="rect" coords="2335,2078,2877,2505" href="EA188.htm" target="_self">
+<area shape="rect" coords="1640,2390,1885,2493" href="EA189.htm" target="_self">
+<area shape="rect" coords="1013,2209,1388,2336" href="EA190.htm" target="_self">
+<area shape="rect" coords="1495,2036,2031,2359" href="EA77.htm" target="_self">
+<area shape="rect" coords="2489,6318,2724,6619" href="EA68.htm" target="_self">
+<area shape="rect" coords="2505,5691,2708,5783" href="EA187.htm" target="_self">
+<area shape="rect" coords="1661,3599,1864,3937" href="EA67.htm" target="_self">
+<area shape="rect" coords="2564,3398,2648,3500" href="EA186.htm" target="_self">
+<area shape="rect" coords="1661,3362,1865,3537" href="EA64.htm" target="_self">
+<area shape="rect" coords="2488,5567,2725,5645" href="EA109.htm" target="_self">
+<area shape="rect" coords="2564,5080,2648,5194" href="EA185.htm" target="_self">
+<area shape="rect" coords="1049,375,1352,1283" href="EA108.htm" target="_self">
+<area shape="rect" coords="2443,4860,2769,5039" href="EA94.htm" target="_self">
+<area shape="rect" coords="2156,4659,3056,4836" href="EA90.htm" target="_self">
+<area shape="rect" coords="2494,4283,2719,4387" href="EA92.htm" target="_self">
+<area shape="rect" coords="2465,4035,2748,4101" href="EA134.htm" target="_self">
+<area shape="rect" coords="2443,3735,2769,3914" href="EA93.htm" target="_self">
+<area shape="rect" coords="2156,3534,3056,3711" href="EA89.htm" target="_self">
+<area shape="rect" coords="2494,154,2719,257" href="EA91.htm" target="_self">
+<area shape="rect" coords="2465,60,2748,126" href="EA133.htm" target="_self">
+</MAP>
+ </div>
+	<div class="ObjectTitle">SHM : Class diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">14/10/2022 08:07:27 p. m.</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">14/10/2022 08:08:14 p. m.</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchProjectProperties()"><img src="../../images/plus03.gif" align="absmiddle" id="proj" /></button>Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">cadiaz</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchAdvancedProperties()"><img src="../../images/plus03.gif" align="absmiddle" id="adv" /></button>Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{F16C0476-D854-460e-945A-5313D85C75C1}</td>
+		</tr>
+	</table>
+	
+</div>
+
+ </td>
+				</tr>
+			</tbody>
+		</table>
+		
+</div>
+</body>
+</html>
+

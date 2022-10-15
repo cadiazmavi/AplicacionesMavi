@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.1:1", "", "BarCodeEan13", "EARoot/EA1/EA14.htm", "175.png", "123", "0", "", "Logical diagram0","{7D76EE84-7039-424b-9C67-FE938BCD913A}");
+tocTab[tocTab.length] = new Array("0.1:2", "", "ClassEan13", "EARoot/EA1/EA17.htm", "5.png", "E1889", "0", "", "Class0","{2D587E4D-9E3B-4c42-9CF8-760DD7D2F70D}");
+tocTab[tocTab.length] = new Array("0.1:3", "", "Ean13", "EARoot/EA1/EA18.htm", "5.png", "E1887", "0", "", "Class0","{5FD543F2-3B6A-402e-9E42-F3805D040595}");
+tocTab[tocTab.length] = new Array("0.1:4", "", "Ean13Settings", "EARoot/EA1/EA19.htm", "5.png", "E1888", "0", "", "Class0","{2DC1BEAB-F322-43ab-A1F7-7DDA361958BC}");
+tocTab[tocTab.length] = new Array("0.1:5", "", "Parity", "EARoot/EA1/EA20.htm", "5.png", "E1886", "E1887", "", "Class0","{FE4CBD62-AACF-47c0-978B-5A0DD4A44F4B}");
+tocTab[tocTab.length] = new Array("0.1:6", "", "Pattern", "EARoot/EA1/EA21.htm", "5.png", "E1885", "E1887", "", "Class0","{A694B053-8CFA-4c2e-AC19-8DC0A83AD395}");

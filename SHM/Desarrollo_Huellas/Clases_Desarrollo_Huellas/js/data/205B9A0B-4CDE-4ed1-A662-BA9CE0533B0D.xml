@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.7.2:1", "", "Capacitacion", "EARoot/EA7/EA2/EA298.htm", "175.png", "84", "0", "", "Logical diagram0","{727FEEC2-5770-45da-AF1F-89E3A66AEFB5}");
+tocTab[tocTab.length] = new Array("0.7.2:2", "", "CAPACITACION_VERIFICAR", "EARoot/EA7/EA2/EA301.htm", "5.png", "E1497", "0", "", "Class0","{34EFBB0F-E5EF-425d-B0C7-CF6054DFAD66}");
+tocTab[tocTab.length] = new Array("0.7.2:3", "", "FRM_AGT_CURSO", "EARoot/EA7/EA2/EA302.htm", "5.png", "E1498", "0", "", "Class0","{1D2F2187-E7AA-4d2b-9BA6-FBD8810F04CC}");
+tocTab[tocTab.length] = new Array("0.7.2:4", "", "FRM_CFG_CHECADAS", "EARoot/EA7/EA2/EA303.htm", "5.png", "E1499", "0", "", "Class0","{7432AA72-9204-4e87-83CB-4A5A114CB781}");
+tocTab[tocTab.length] = new Array("0.7.2:5", "", "FRM_CSV", "EARoot/EA7/EA2/EA304.htm", "5.png", "E1500", "0", "", "Class0","{1EC6F3F5-189D-4e34-8528-E2BCFB9AADBD}");
+tocTab[tocTab.length] = new Array("0.7.2:6", "", "FRM_CURSOS", "EARoot/EA7/EA2/EA305.htm", "5.png", "E1501", "0", "", "Class0","{EB0C82C9-BDAF-478b-80AB-AF46BEB4FF4A}");
+tocTab[tocTab.length] = new Array("0.7.2:7", "", "FRM_CURSOS", "EARoot/EA7/EA2/EA306.htm", "5.png", "E1502", "0", "", "Class0","{F2F4646F-083E-4052-A2AF-AF6F89914837}");
+tocTab[tocTab.length] = new Array("0.7.2:8", "", "FRM_ELIMINAR_AGT_CURSO", "EARoot/EA7/EA2/EA307.htm", "5.png", "E1503", "0", "", "Class0","{621A004D-B4FD-4e9b-B48C-F4AB4AAA4A71}");
+tocTab[tocTab.length] = new Array("0.7.2:9", "", "FRM_HORARIOS", "EARoot/EA7/EA2/EA308.htm", "5.png", "E1504", "0", "", "Class0","{29D4E77E-06E8-4684-AD53-FF054D71DA20}");
+tocTab[tocTab.length] = new Array("0.7.2:10", "", "FRM_HORARIOS", "EARoot/EA7/EA2/EA309.htm", "5.png", "E1505", "0", "", "Class0","{F3436D1A-3FCE-49bc-A6B2-3C156D069673}");
+tocTab[tocTab.length] = new Array("0.7.2:11", "", "FRM_MOTIVOS", "EARoot/EA7/EA2/EA310.htm", "5.png", "E1506", "0", "", "Class0","{D3FABD16-F358-40ee-8849-1FF6BAE906B7}");

@@ -1,0 +1,2460 @@
+Folder PATH listing
+Volume serial number is 2EFD-B616
+C:.
+|   .editorconfig
+|   debug.log
+|   Desarrollo_Huellas.ndproj
+|   Desarrollo_Huellas.sln
+|   Desarrollo_Huellas.v11.suo
+|   Desarrollo_Huellas.v12.suo
+|   Desarrollo_Huellas.vssscc
+|   tee.txt
+|   
++---.vs
+|   \---Desarrollo_Huellas
+|       +---config
+|       |       applicationhost.config
+|       |       
+|       +---v15
+|       |   |   .suo
+|       |   |   
+|       |   \---Server
+|       |       \---sqlite3
+|       |               db.lock
+|       |               storage.ide
+|       |               storage.ide-shm
+|       |               storage.ide-wal
+|       |               
+|       \---v16
+|           |   .suo
+|           |   .suo.orig
+|           |   
+|           \---Server
+|               \---sqlite3
+|                       db.lock
+|                       storage.ide
+|                       storage.ide-shm.orig
+|                       storage.ide-wal.orig
+|                       
++---Desarrollo_Huellas
+|   |   ACTUALIZAR.cs
+|   |   app.config
+|   |   Buscar.cs
+|   |   BusquedaMultriple.cs
+|   |   ClassDiagram1.cd
+|   |   ClassDiagram2.cd
+|   |   ClassDiagram3.cd
+|   |   ComercializadoraDataSet.Designer.cs
+|   |   ComercializadoraDataSet.xsc
+|   |   ComercializadoraDataSet.xsd
+|   |   ComercializadoraDataSet.xss
+|   |   Conexiones.cs
+|   |   configure.xml
+|   |   ControlCamara4.cs
+|   |   ControlDePassword.cs
+|   |   CONTROL_CAMARA.cs
+|   |   CrearImagen.cs
+|   |   DataSetHojaVerde.cs
+|   |   DataSetHojaVerde.Designer.cs
+|   |   DataSetHojaVerde.xsc
+|   |   DataSetHojaVerde.xsd
+|   |   DataSetHojaVerde.xss
+|   |   DatosDomicilio.cs
+|   |   DatosDomicilio.Designer.cs
+|   |   DatosDomicilio.resx
+|   |   dbxadapter30.dll
+|   |   dbxmss.dll
+|   |   dbxmss30.dll
+|   |   Desarrollo_Huellas.csproj
+|   |   Desarrollo_Huellas.csproj.user
+|   |   Desarrollo_Huellas.csproj.vspscc
+|   |   Desarrollo_Huellas_ClaveTemporal.pfx
+|   |   Excel.cs
+|   |   finger.ico
+|   |   FormatoImpresion.rdlc
+|   |   Foto4.cs
+|   |   FrmMensajePersonalizado.cs
+|   |   FrmMensajePersonalizado.Designer.cs
+|   |   FrmMensajePersonalizado.resx
+|   |   FRM_ACCESO_DENEGADO.cs
+|   |   FRM_ACCESO_DENEGADO.Designer.cs
+|   |   FRM_ACCESO_DENEGADO.resx
+|   |   FRM_ACCESO_NOMINA.cs
+|   |   FRM_ACCESO_NOMINA.Designer.cs
+|   |   FRM_ACCESO_NOMINA.resx
+|   |   FRM_CAMBIOS_DOMICILIO.cs
+|   |   FRM_CAMBIOS_DOMICILIO.Designer.cs
+|   |   FRM_CAMBIOS_DOMICILIO.resx
+|   |   FRM_CARGANDO.cs
+|   |   FRM_CARGANDO.Designer.cs
+|   |   FRM_CARGANDO.resx
+|   |   FRM_DOCS_CAMBIO_DOMICILIO.cs
+|   |   FRM_DOCS_CAMBIO_DOMICILIO.Designer.cs
+|   |   FRM_DOCS_CAMBIO_DOMICILIO.resx
+|   |   FRM_GESTOR_CORREOS.cs
+|   |   FRM_GESTOR_CORREOS.Designer.cs
+|   |   FRM_GESTOR_CORREOS.resx
+|   |   FRM_HOJA_VERDE.cs
+|   |   FRM_HOJA_VERDE.designer.cs
+|   |   FRM_HOJA_VERDE.resx
+|   |   FRM_HUELLAS_ILEGIBLES.cs
+|   |   FRM_HUELLAS_ILEGIBLES.Designer.cs
+|   |   FRM_HUELLAS_ILEGIBLES.resx
+|   |   FRM_MAIN.cs
+|   |   FRM_MAIN.Designer.cs
+|   |   FRM_MAIN.resx
+|   |   FRM_NOMINA.cs
+|   |   FRM_NOMINA.Designer.cs
+|   |   FRM_Nomina.resx
+|   |   FRM_PreguntasSeguridad.cs
+|   |   FRM_PreguntasSeguridad.designer.cs
+|   |   FRM_PreguntasSeguridad.resx
+|   |   FRM_PRINTHOJAVERDE.cs
+|   |   FRM_PRINTHOJAVERDE.Designer.cs
+|   |   FRM_PRINTHOJAVERDE.resx
+|   |   FRM_REPORTES_DOCUMENTOS.cs
+|   |   FRM_REPORTES_DOCUMENTOS.Designer.cs
+|   |   FRM_REPORTES_DOCUMENTOS.resx
+|   |   FRM_REPORTE_CAMBIOS_DOMICILIO.cs
+|   |   FRM_REPORTE_CAMBIOS_DOMICILIO.Designer.cs
+|   |   FRM_REPORTE_CAMBIOS_DOMICILIO.resx
+|   |   FRM_VERIFICADORES.cs
+|   |   FRM_VERIFICADORES.Designer.cs
+|   |   FRM_VERIFICADORES.resx
+|   |   FRM_VisualizarRotacion.cs
+|   |   FRM_VisualizarRotacion.Designer.cs
+|   |   FRM_VisualizarRotacion.resx
+|   |   FUNCIONES.cs
+|   |   GlobalSuppressions.cs
+|   |   IFoto4.cs
+|   |   IFotosControl4.cs
+|   |   IFotosControl4.Designer.cs
+|   |   IFotosControl4.resx
+|   |   Initial.cs
+|   |   KillProcess.cs
+|   |   LabelMachine.cs
+|   |   LabelMachine.designer.cs
+|   |   LabelMachine.resx
+|   |   MetroFramework.txt
+|   |   midas.dll
+|   |   MySql.Data.dll
+|   |   ObjDateTimePicker.cs
+|   |   ObjDateTimePicker.Designer.cs
+|   |   ObjDateTimePicker.resx
+|   |   Obj_Adjuntar.cs
+|   |   Obj_Adjuntar.Designer.cs
+|   |   Obj_Adjuntar.resx
+|   |   Obj_AdjuntarCancelaSeg.cs
+|   |   Obj_AdjuntarCancelaSeg.Designer.cs
+|   |   Obj_AdjuntarCancelaSeg.resx
+|   |   Obj_AdjuntarCD.cs
+|   |   Obj_AdjuntarCD.Designer.cs
+|   |   Obj_AdjuntarCD.resx
+|   |   Obj_PreguntaSeguridad1.cs
+|   |   Obj_PreguntaSeguridad1.Designer.cs
+|   |   Obj_PreguntaSeguridad1.resx
+|   |   Obj_PreguntaSeguridad2.cs
+|   |   Obj_PreguntaSeguridad2.Designer.cs
+|   |   Obj_PreguntaSeguridad2.resx
+|   |   Obj_PreguntaSeguridad3.cs
+|   |   Obj_PreguntaSeguridad3.Designer.cs
+|   |   Obj_PreguntaSeguridad3.resx
+|   |   packages.config
+|   |   PictureButton.cs
+|   |   PictureButton.Designer.cs
+|   |   PictureButton.resx
+|   |   PreguntasSeguridadCliente.exe
+|   |   PreguntasSeguridadCliente.ini
+|   |   Program.cs
+|   |   ReporteHojaVerde.rdlc
+|   |   SID.snk
+|   |   struct_enum.cs
+|   |   ToggleButton.cs
+|   |   ToggleButton.Designer.cs
+|   |   ToggleSwitch.cs
+|   |   ToggleSwitch.Designer.cs
+|   |   ToggleSwitch.resx
+|   |   
+|   +---bin
+|   |   +---Debug
+|   |   |   |   AForge.Controls.dll
+|   |   |   |   AForge.dll
+|   |   |   |   AForge.Imaging.dll
+|   |   |   |   AForge.Math.dll
+|   |   |   |   AForge.Video.DirectShow.dll
+|   |   |   |   AForge.Video.dll
+|   |   |   |   AxInterop.AcroPDFLib.dll
+|   |   |   |   configure.xml
+|   |   |   |   dbxadapter30.dll
+|   |   |   |   dbxmss.dll
+|   |   |   |   dbxmss30.dll
+|   |   |   |   Demonio.exe
+|   |   |   |   Demonio.xml
+|   |   |   |   DiffieHellman.dll
+|   |   |   |   DPCtlUruNet.dll
+|   |   |   |   DPUruNet.dll
+|   |   |   |   EPPlus.dll
+|   |   |   |   fnPassword.dll
+|   |   |   |   Interop.AcroPDFLib.dll
+|   |   |   |   Interop.IWshRuntimeLibrary.dll
+|   |   |   |   itextsharp.dll
+|   |   |   |   itextsharp.pdfa.dll
+|   |   |   |   MessagingToolkit.QRCode.dll
+|   |   |   |   MetroFramework.Design.dll
+|   |   |   |   MetroFramework.dll
+|   |   |   |   MetroFramework.Fonts.dll
+|   |   |   |   Microsoft.ReportViewer.Common.dll
+|   |   |   |   Microsoft.ReportViewer.DataVisualization.DLL
+|   |   |   |   Microsoft.ReportViewer.ProcessingObjectModel.DLL
+|   |   |   |   Microsoft.ReportViewer.WebForms.DLL
+|   |   |   |   Microsoft.ReportViewer.WinForms.DLL
+|   |   |   |   Microsoft.SqlServer.Types.dll
+|   |   |   |   Microsoft.Threading.Tasks.dll
+|   |   |   |   Microsoft.Threading.Tasks.Extensions.Desktop.dll
+|   |   |   |   Microsoft.Threading.Tasks.Extensions.Desktop.xml
+|   |   |   |   Microsoft.Threading.Tasks.Extensions.dll
+|   |   |   |   Microsoft.Threading.Tasks.Extensions.xml
+|   |   |   |   Microsoft.Threading.Tasks.xml
+|   |   |   |   Microsoft.VisualBasic.PowerPacks.Vs.dll
+|   |   |   |   midas.dll
+|   |   |   |   MySql.Data.dll
+|   |   |   |   Nini.dll
+|   |   |   |   ObjectSHM.dll
+|   |   |   |   ObjectSHM.dll.config
+|   |   |   |   ObjectSHM.pdb
+|   |   |   |   Org.Mentalis.Security.dll
+|   |   |   |   preguntasSeguridad.rar
+|   |   |   |   PreguntasSeguridadCliente.exe
+|   |   |   |   PreguntasSeguridadCliente.ini
+|   |   |   |   SHM.application
+|   |   |   |   SHM.exe
+|   |   |   |   SHM.exe.config
+|   |   |   |   SHM.exe.manifest
+|   |   |   |   SHM.lnk
+|   |   |   |   SHM.pdb
+|   |   |   |   System.IO.dll
+|   |   |   |   System.IO.xml
+|   |   |   |   System.Runtime.dll
+|   |   |   |   System.Runtime.xml
+|   |   |   |   System.Threading.Tasks.dll
+|   |   |   |   System.Threading.Tasks.xml
+|   |   |   |   Tamir.SharpSSH.dll
+|   |   |   |   TFielLib.dll
+|   |   |   |   VisualPlus.dll
+|   |   |   |   
+|   |   |   +---app.publish
+|   |   |   |       SHM.exe
+|   |   |   |       
+|   |   |   +---de
+|   |   |   |       Microsoft.SqlServer.Types.resources.dll
+|   |   |   |       
+|   |   |   +---Demonio
+|   |   |   |       Demonio.exe
+|   |   |   |       Demonio.xml
+|   |   |   |       
+|   |   |   +---Doc
+|   |   |   |   |   1.jpg
+|   |   |   |   |   
+|   |   |   |   +---ACTUALIZACION_DE_DATOS
+|   |   |   |   |       1.jpg
+|   |   |   |   |       
+|   |   |   |   \---BOLETA
+|   |   |   |           1.jpg
+|   |   |   |           
+|   |   |   +---es
+|   |   |   |       Microsoft.SqlServer.Types.resources.dll
+|   |   |   |       
+|   |   |   +---fr
+|   |   |   |       Microsoft.SqlServer.Types.resources.dll
+|   |   |   |       
+|   |   |   +---ImgCte
+|   |   |   |       Cte.jpg
+|   |   |   |       
+|   |   |   +---ImgsVale
+|   |   |   |   \---pdf
+|   |   |   |           1.pdf
+|   |   |   |           
+|   |   |   +---it
+|   |   |   |       Microsoft.SqlServer.Types.resources.dll
+|   |   |   |       
+|   |   |   +---ja
+|   |   |   |       Microsoft.SqlServer.Types.resources.dll
+|   |   |   |       
+|   |   |   +---ko
+|   |   |   |       Microsoft.SqlServer.Types.resources.dll
+|   |   |   |       
+|   |   |   +---pt
+|   |   |   |       Microsoft.SqlServer.Types.resources.dll
+|   |   |   |       
+|   |   |   +---ru
+|   |   |   |       Microsoft.SqlServer.Types.resources.dll
+|   |   |   |       
+|   |   |   +---zh-Hans
+|   |   |   |       Microsoft.SqlServer.Types.resources.dll
+|   |   |   |       
+|   |   |   \---zh-Hant
+|   |   |           Microsoft.SqlServer.Types.resources.dll
+|   |   |           
+|   |   +---Release
+|   |   |       SHM.exe.config
+|   |   |       SHM.vshost.exe
+|   |   |       SHM.vshost.exe.config
+|   |   |       
+|   |   \---x86
+|   |       \---Debug
+|   |               Microsoft.ReportViewer.Common.dll
+|   |               Microsoft.ReportViewer.ProcessingObjectModel.DLL
+|   |               
+|   +---BuroDigital
+|   |   |   .FormNewClient.cs.swp
+|   |   |   CONSULTAS.cs
+|   |   |   DialogListAvance.cs
+|   |   |   ENVIAR.cs
+|   |   |   FormNewClient.cs
+|   |   |   FormNewClient.Designer.cs
+|   |   |   FormNewClient.resx
+|   |   |   FRM_ACTUALIZAR.cs
+|   |   |   FRM_ACTUALIZAR.Designer.cs
+|   |   |   FRM_ACTUALIZAR.resx
+|   |   |   FRM_ACTUALIZAR_INTL.cs
+|   |   |   FRM_ADJUNTAR.cs
+|   |   |   FRM_ADJUNTAR.designer.cs
+|   |   |   FRM_ADJUNTAR.resx
+|   |   |   FRM_AUTORIZA_SUPER.cs
+|   |   |   FRM_AUTORIZA_SUPER.Designer.cs
+|   |   |   FRM_AUTORIZA_SUPER.resx
+|   |   |   FRM_CANCELAR_MOVS.cs
+|   |   |   FRM_CARGA_MOVIMIENTOS_VENTA.cs
+|   |   |   FRM_CARGA_MOVIMIENTOS_VENTA.Designer.cs
+|   |   |   FRM_CARGA_MOVIMIENTOS_VENTA.resx
+|   |   |   FRM_CODIGO_QR.cs
+|   |   |   FRM_CODIGO_QR.Designer.cs
+|   |   |   FRM_CODIGO_QR.resx
+|   |   |   FRM_CONSULTAS.cs
+|   |   |   FRM_CONSULTAS.Designer.cs
+|   |   |   FRM_CONSULTAS.resx
+|   |   |   Frm_HistoricoAcceso.cs
+|   |   |   Frm_HistoricoAcceso.Designer.cs
+|   |   |   Frm_HistoricoAcceso.resx
+|   |   |   FRM_HISTORICO_ACTUALIZACION_DOCS.cs
+|   |   |   FRM_HISTORICO_ACTUALIZACION_DOCS.Designer.cs
+|   |   |   FRM_HISTORICO_ACTUALIZACION_DOCS.resx
+|   |   |   FRM_HISTORICO_VAL_DOCS.cs
+|   |   |   FRM_HISTORICO_VAL_DOCS.Designer.cs
+|   |   |   FRM_HISTORICO_VAL_DOCS.resx
+|   |   |   FRM_HISTORICO_VAL_DOCS_140311.cs
+|   |   |   FRM_HISTORICO_VAL_DOCS_140311.Designer.cs
+|   |   |   FRM_HISTORICO_VAL_DOCS_140311.resx
+|   |   |   FRM_HISTORICO_VAL_DOCS_141103.cs
+|   |   |   FRM_HISTORICO_VAL_DOCS_141103.Designer.cs
+|   |   |   FRM_HISTORICO_VAL_DOCS_141103.resx
+|   |   |   FRM_HOJAVERDE.cs
+|   |   |   FRM_HOJAVERDE.designer.cs
+|   |   |   FRM_HOJAVERDE.resx
+|   |   |   FRM_HUELLAS_EN_CAJA.cs
+|   |   |   FRM_HUELLAS_EN_CAJA.Designer.cs
+|   |   |   FRM_HUELLAS_EN_CAJA.resx
+|   |   |   FRM_MACH_HUELLA.cs
+|   |   |   FRM_MACH_HUELLA.Designer.cs
+|   |   |   FRM_MACH_HUELLA.resx
+|   |   |   FRM_MATCH_DIMA.cs
+|   |   |   FRM_MATCH_DIMA.Designer.cs
+|   |   |   FRM_MATCH_DIMA.resx
+|   |   |   FRM_MOVIMIENTOS_VTA_CARGADOS.cs
+|   |   |   FRM_MOVIMIENTOS_VTA_CARGADOS.Designer.cs
+|   |   |   FRM_MOVIMIENTOS_VTA_CARGADOS.resx
+|   |   |   FRM_NUEVO_CLIENTE.cs
+|   |   |   FRM_REPORTE.cs
+|   |   |   FRM_REPORTES_DOCUMENTOS.cs
+|   |   |   FRM_REPORTES_DOCUMENTOS.Designer.cs
+|   |   |   FRM_REPORTES_DOCUMENTOS.resx
+|   |   |   FRM_REPORTE_CAMBIO_EST.cs
+|   |   |   FRM_REPORTE_CAMBIO_EST.Designer.cs
+|   |   |   FRM_REPORTE_CAMBIO_EST.resx
+|   |   |   FRM_REPORTE_CAMBIO_ESTATUS_HUELLA.cs
+|   |   |   FRM_REPORTE_CAMBIO_ESTATUS_HUELLA.Designer.cs
+|   |   |   FRM_REPORTE_CAMBIO_ESTATUS_HUELLA.resx
+|   |   |   FRM_REPORTE_MOVIMIENTOS_VENTA.cs
+|   |   |   FRM_REPORTE_MOVIMIENTOS_VENTA.Designer.cs
+|   |   |   FRM_REPORTE_MOVIMIENTOS_VENTA.resx
+|   |   |   FRM_VALIDA_POR_FALLA_HUELLA.cs
+|   |   |   FRM_VALIDA_POR_FALLA_HUELLA.Designer.cs
+|   |   |   FRM_VALIDA_POR_FALLA_HUELLA.resx
+|   |   |   FRM_VERIFICA_DIMA.cs
+|   |   |   FRM_VERIFICA_DIMA.Designer.cs
+|   |   |   FRM_VERIFICA_DIMA.resx
+|   |   |   FRM_VisorDocs.cs
+|   |   |   FRM_VisorDocs.Designer.cs
+|   |   |   FRM_VisorDocs.resx
+|   |   |   IFormNewClient.cs
+|   |   |   ItemComparer.cs
+|   |   |   New_Hoja_Verde.cs
+|   |   |   New_Hoja_Verde.Designer.cs
+|   |   |   New_Hoja_Verde.resx
+|   |   |   RespaldoCliente.zip
+|   |   |   Ruta_Adjunto.cs
+|   |   |   Servicio.cs
+|   |   |   TipoDocs.cs
+|   |   |   TipoDocs.Designer.cs
+|   |   |   TipoDocs.resx
+|   |   |   
+|   |   +---Act_Por_Cobro
+|   |   |       Frm_Datos.cs
+|   |   |       Frm_Datos.designer.cs
+|   |   |       Frm_Datos.resx
+|   |   |       Frm_ListaHuellaPosible.cs
+|   |   |       Frm_ListaHuellaPosible.designer.cs
+|   |   |       Frm_ListaHuellaPosible.resx
+|   |   |       Obciones.cs
+|   |   |       Obciones.designer.cs
+|   |   |       Obciones.resx
+|   |   |       
+|   |   +---FolderNewClient
+|   |   |       CyberLogic.cs
+|   |   |       Dibujo.cs
+|   |   |       HuellaControl.cs
+|   |   |       Movimientos.cs
+|   |   |       WSQ.cs
+|   |   |       
+|   |   \---Models
+|   |           DataCustomer.cs
+|   |           FotosDesdeApp.cs
+|   |           ImagenAgrupada.cs
+|   |           
+|   +---Capacitacion
+|   |       CAPACITACION_VERIFICAR.cs
+|   |       FRM_AGT_CURSO.cs
+|   |       FRM_CFG_CHECADAS.cs
+|   |       FRM_CSV.cs
+|   |       FRM_CURSOS.cs
+|   |       FRM_CURSOS.Designer.cs
+|   |       FRM_CURSOS.resx
+|   |       FRM_ELIMINAR_AGT_CURSO.cs
+|   |       FRM_HORARIOS.cs
+|   |       FRM_HORARIOS.Designer.cs
+|   |       FRM_HORARIOS.resx
+|   |       FRM_MOTIVOS.cs
+|   |       
+|   +---CapaDatos
+|   |   \---Clientes_Finales
+|   |           CF_Aval.cs
+|   |           
+|   +---CapaNegocio
+|   |   +---UtileriasDEV
+|   |   |       DEV_ArchivosYCarpetas.cs
+|   |   |       DEV_Conver.cs
+|   |   |       DEV_Form.cs
+|   |   |       DEV_Huella.cs
+|   |   |       DEV_Huella.cs.orig
+|   |   |       DEV_Imagen.cs
+|   |   |       DEV_Telefono.cs
+|   |   |       DEV_Texto.cs
+|   |   |       
+|   |   \---UtileriasSHM
+|   |           SHM_ClienteFinal.cs
+|   |           SHM_Documento.cs
+|   |           SHM_Domicilio.cs
+|   |           SHM_Formularios.cs
+|   |           SHM_Persona.cs
+|   |           SHM_Tarjeta.cs
+|   |           SHM_Telefono.cs
+|   |           
+|   +---CapaPresentacion
+|   |   +---BuroDigital
+|   |   |       FrmActuCuentCLABE.cs
+|   |   |       FrmActuCuentCLABE.Designer.cs
+|   |   |       FrmActuCuentCLABE.resx
+|   |   |       FrmValidaCuentaCLABE.cs
+|   |   |       FrmValidaCuentaCLABE.Designer.cs
+|   |   |       FrmValidaCuentaCLABE.resx
+|   |   |       
+|   |   +---Clientes_Finales
+|   |   |       FrmCapturaAvalBF.cs
+|   |   |       FrmCapturaAvalBF.Designer.cs
+|   |   |       FrmCapturaAvalBF.resx
+|   |   |       FrmCapturaConyugeBF.cs
+|   |   |       FrmCapturaConyugeBF.Designer.cs
+|   |   |       FrmCapturaConyugeBF.resx
+|   |   |       FrmCapturaEmpBF.cs
+|   |   |       FrmCapturaEmpBF.Designer.cs
+|   |   |       FrmCapturaEmpBF.resx
+|   |   |       FrmCtosBF.cs
+|   |   |       FrmCtosBF.designer.cs
+|   |   |       FrmCtosBF.resx
+|   |   |       FrmLecturaAvalBF.cs
+|   |   |       FrmLecturaAvalBF.cs.orig
+|   |   |       FrmLecturaAvalBF.Designer.cs
+|   |   |       FrmLecturaAvalBF.resx
+|   |   |       
+|   |   \---UtileriasSHM
+|   |           MODUL_ValiCuenBanc.cs
+|   |           MODUL_ValiCuenBanc.designer.cs
+|   |           MODUL_ValiCuenBanc.resx
+|   |           
+|   +---CargaDocs
+|   |       Control_Cam.cs
+|   |       C_CargaDoc.cs
+|   |       frmAccesoPerfilesTicket.cs
+|   |       frmAccesoPerfilesTicket.Designer.cs
+|   |       frmAccesoPerfilesTicket.resx
+|   |       frmCapturaDoc.cs
+|   |       frmCapturaDoc.Designer.cs
+|   |       frmCapturaDoc.resx
+|   |       frmCargaDocs.cs
+|   |       frmCargaDocs.Designer.cs
+|   |       frmCargaDocs.resx
+|   |       frmDatosTarjetaHabiente.cs
+|   |       frmDatosTarjetaHabiente.Designer.cs
+|   |       frmDatosTarjetaHabiente.resx
+|   |       frmExcluirSucursal.cs
+|   |       frmExcluirSucursal.Designer.cs
+|   |       frmExcluirSucursal.resx
+|   |       frmListaMovimientos.cs
+|   |       frmListaMovimientos.Designer.cs
+|   |       frmListaMovimientos.resx
+|   |       frmNombreTarjetahabiente.cs
+|   |       frmNombreTarjetahabiente.Designer.cs
+|   |       frmNombreTarjetahabiente.resx
+|   |       frmReporteDocumentos.cs
+|   |       frmReporteDocumentos.designer.cs
+|   |       frmReporteDocumentos.resx
+|   |       
+|   +---Clientes_Finales
+|   |       BancosCteFinal.cs
+|   |       Cambio_Vendedor_a_Final.cs
+|   |       Cambio_Vendedor_a_Final.Designer.cs
+|   |       Cambio_Vendedor_a_Final.resx
+|   |       CameraControls.cs
+|   |       ClaseEstaticaCoincidencias.cs
+|   |       Explorardor_ClienteFinal.cs
+|   |       Explorardor_ClienteFinal.cs.orig
+|   |       Explorardor_ClienteFinal.Designer.cs
+|   |       Explorardor_ClienteFinal.resx
+|   |       FormAccesoCargaDocumentos.cs
+|   |       FormAccesoCargaDocumentos.Designer.cs
+|   |       FormAccesoCargaDocumentos.resx
+|   |       FormCapturaImagen.cs
+|   |       FormCapturaImagen.Designer.cs
+|   |       FormCapturaImagen.resx
+|   |       FormCargaMovimeintosDoc.cs
+|   |       FormCargaMovimeintosDoc.Designer.cs
+|   |       FormCargaMovimeintosDoc.resx
+|   |       FormCargaMovimientos.cs
+|   |       FormCargaMovimientos.Designer.cs
+|   |       FormCargaMovimientos.resx
+|   |       FormValidadordeFotos.cs
+|   |       FormValidadordeFotos.Designer.cs
+|   |       FormValidadordeFotos.resx
+|   |       frmBancos.cs
+|   |       frmBancos.Designer.cs
+|   |       frmBancos.resx
+|   |       FrmCredilanaAutorizar.cs
+|   |       FrmCredilanaAutorizar.Designer.cs
+|   |       FrmCredilanaAutorizar.resx
+|   |       FrmCredilanaMsjcs.cs
+|   |       FrmCredilanaMsjcs.Designer.cs
+|   |       FrmCredilanaMsjcs.resx
+|   |       FrmDetalleDispersionConsulta.cs
+|   |       FrmDetalleDispersionConsulta.Designer.cs
+|   |       FrmDetalleDispersionConsulta.resx
+|   |       FrmVisorCliente.cs
+|   |       FrmVisorCliente.Designer.cs
+|   |       FrmVisorCliente.resx
+|   |       FRM_ACTUALIZARCTEFINAL.cs
+|   |       FRM_ACTUALIZARCTEFINAL.Designer.cs
+|   |       FRM_ACTUALIZARCTEFINAL.resx
+|   |       FRM_ACTUALIZARCTEFINAL_IFE.cs
+|   |       FRM_ACTUALIZARCTEFINAL_IFE.Designer.cs
+|   |       FRM_ACTUALIZARCTEFINAL_IFE.resx
+|   |       FRM_ACTUALIZA_NIP.cs
+|   |       FRM_ACTUALIZA_NIP.Designer.cs
+|   |       FRM_ACTUALIZA_NIP.resx
+|   |       FRM_ADJUNTAR_BOLETA.cs
+|   |       FRM_ADJUNTAR_BOLETA.Designer.cs
+|   |       FRM_ADJUNTAR_BOLETA.resx
+|   |       FRM_ALTA_NIP.cs
+|   |       FRM_ALTA_NIP.Designer.cs
+|   |       FRM_ALTA_NIP.resx
+|   |       FRM_AUTORIZA_POR_FALLA_HUELLA.cs
+|   |       FRM_AUTORIZA_POR_FALLA_HUELLA.Designer.cs
+|   |       FRM_AUTORIZA_POR_FALLA_HUELLA.resx
+|   |       FRM_BOLETA_BF.cs
+|   |       FRM_BOLETA_BF.designer.cs
+|   |       FRM_BOLETA_BF.resx
+|   |       FRM_BUSCARCLIENTEFINAL.cs
+|   |       FRM_BUSCARCLIENTEFINAL.Designer.cs
+|   |       FRM_BUSCARCLIENTEFINAL.resx
+|   |       FRM_BUSCAR_CLIENTE_FINAL.cs
+|   |       FRM_BUSCAR_CLIENTE_FINAL.Designer.cs
+|   |       FRM_BUSCAR_CLIENTE_FINAL.resx
+|   |       FRM_COINCIDENCIAS.cs
+|   |       FRM_COINCIDENCIAS.Designer.cs
+|   |       FRM_COINCIDENCIAS.resx
+|   |       FRM_COINCIDENCIASBF.cs
+|   |       FRM_COINCIDENCIASBF.designer.cs
+|   |       FRM_COINCIDENCIASBF.resx
+|   |       FRM_DETALLE_MOVIMIENTOS.cs
+|   |       FRM_DETALLE_MOVIMIENTOS.Designer.cs
+|   |       FRM_DETALLE_MOVIMIENTOS.resx
+|   |       FRM_DIMA_RECOM.cs
+|   |       FRM_DIMA_RECOM.Designer.cs
+|   |       FRM_DIMA_RECOM.resx
+|   |       FRM_EDITARTELEFONO.cs
+|   |       FRM_EDITARTELEFONO.Designer.cs
+|   |       FRM_EDITARTELEFONO.resx
+|   |       FRM_EXISTE_CTEFINAL.cs
+|   |       FRM_EXISTE_CTEFINAL.cs.orig
+|   |       FRM_EXISTE_CTEFINAL.Designer.cs
+|   |       FRM_EXISTE_CTEFINAL.resx
+|   |       FRM_FOTOSCLIENTEFINAL.cs
+|   |       FRM_FOTOSCLIENTEFINAL.Designer.cs
+|   |       FRM_FOTOSCLIENTEFINAL.resx
+|   |       FRM_HISTORIALCOINCIDENCIAsBF.cs
+|   |       FRM_HISTORIALCOINCIDENCIAsBF.Designer.cs
+|   |       FRM_HISTORIALCOINCIDENCIAsBF.resx
+|   |       FRM_HIST_MODIFI_CTEFINAL.cs
+|   |       FRM_HIST_MODIFI_CTEFINAL.Designer.cs
+|   |       FRM_HIST_MODIFI_CTEFINAL.resx
+|   |       FRM_HUELLACTEFINAL.cs
+|   |       FRM_HUELLACTEFINAL.Designer.cs
+|   |       FRM_HUELLACTEFINAL.resx
+|   |       FRM_MOTIVOS_LIBERACION_DIMA.cs
+|   |       FRM_MOTIVOS_LIBERACION_DIMA.Designer.cs
+|   |       FRM_MOTIVOS_LIBERACION_DIMA.resx
+|   |       FRM_NVO_CLIENTE_FINAL.cs
+|   |       FRM_NVO_CLIENTE_FINAL.cs.orig
+|   |       FRM_NVO_CLIENTE_FINAL.Designer.cs
+|   |       FRM_NVO_CLIENTE_FINAL.resx
+|   |       FRM_OPCIONREGISTRO.cs
+|   |       FRM_OPCIONREGISTRO.Designer.cs
+|   |       FRM_OPCIONREGISTRO.resx
+|   |       FRM_PRINT_BOLETABF.cs
+|   |       FRM_PRINT_BOLETABF.Designer.cs
+|   |       FRM_PRINT_BOLETABF.resx
+|   |       Frm_RELACIONBF.cs
+|   |       Frm_RELACIONBF.designer.cs
+|   |       Frm_RELACIONBF.resx
+|   |       Frm_RespuestaBanco.cs
+|   |       Frm_RespuestaBanco.Designer.cs
+|   |       Frm_RespuestaBanco.resx
+|   |       FRM_SUPERVISION_TELEFONICA.cs
+|   |       FRM_SUPERVISION_TELEFONICA.Designer.cs
+|   |       FRM_SUPERVISION_TELEFONICA.resx
+|   |       FRM_SUP_AUTORIZA.cs
+|   |       FRM_SUP_AUTORIZA.Designer.cs
+|   |       FRM_SUP_AUTORIZA.resx
+|   |       FRM_VALIDACIONTELEFONOS.cs
+|   |       FRM_VALIDACIONTELEFONOS.Designer.cs
+|   |       FRM_VALIDACIONTELEFONOS.resx
+|   |       FRM_VALIDACION_TELEFONICA_BF.cs
+|   |       FRM_VALIDACION_TELEFONICA_BF.Designer.cs
+|   |       FRM_VALIDACION_TELEFONICA_BF.resx
+|   |       FRM_VALIDARCLIENTEFINAL.cs
+|   |       FRM_VALIDARCLIENTEFINAL.Designer.cs
+|   |       FRM_VALIDARCLIENTEFINAL.resx
+|   |       FRM_VALIDA_BOLETA.cs
+|   |       FRM_VALIDA_BOLETA.Designer.cs
+|   |       FRM_VALIDA_BOLETA.resx
+|   |       FRM_VALIDA_HUELLA_CTEFIN.cs
+|   |       FRM_VALIDA_HUELLA_CTEFIN.Designer.cs
+|   |       FRM_VALIDA_HUELLA_CTEFIN.resx
+|   |       ImageOptions.cs
+|   |       InformacionValidaciontel.cs
+|   |       MenuActualizar.cs
+|   |       MenuActualizar.Designer.cs
+|   |       MenuActualizar.resx
+|   |       ModeloTelefono.cs
+|   |       NFIQ.cs
+|   |       ValidacionNvoCteFinal.cs
+|   |       VisorMavi.cs
+|   |       VisorMavi.Designer.cs
+|   |       VisorMavi.resx
+|   |       
+|   +---Cobranza
+|   |       FRM_DOC_CANCELA.cs
+|   |       FRM_DOC_CANCELA.Designer.cs
+|   |       FRM_DOC_CANCELA.resx
+|   |       FRM_FOTO_CTE.cs
+|   |       FRM_FOTO_CTE.Designer.cs
+|   |       FRM_FOTO_CTE.resx
+|   |       FRM_VISOR_DOC_S.cs
+|   |       FRM_VISOR_DOC_S.Designer.cs
+|   |       FRM_VISOR_DOC_S.resx
+|   |       
+|   +---Configuracion
+|   |       FormAccesosHojaVerde.cs
+|   |       FormAccesosHojaVerde.Designer.cs
+|   |       FormAccesosHojaVerde.resx
+|   |       FRM_ALTA_PERFILES.cs
+|   |       FRM_ALTA_PERFILES.Designer.cs
+|   |       FRM_ALTA_PERFILES.resx
+|   |       FRM_BLOQUEO_CLIENTE.cs
+|   |       FRM_BLOQUEO_CLIENTE.Designer.cs
+|   |       FRM_BLOQUEO_CLIENTE.resx
+|   |       FRM_CAMBIO_DIMA.cs
+|   |       FRM_CAMBIO_DIMA.Designer.cs
+|   |       FRM_CAMBIO_DIMA.resx
+|   |       FRM_CONFIGURACION.cs
+|   |       FRM_CONFIGURACION.Designer.cs
+|   |       FRM_CONFIGURACION.resx
+|   |       FRM_CONFIGURACION_DEPURACION.cs
+|   |       FRM_CONFIGURACION_DEPURACION.Designer.cs
+|   |       FRM_CONFIGURACION_DEPURACION.resx
+|   |       FRM_Configurar_Dias_Factura.cs
+|   |       FRM_Configurar_Dias_Factura.Designer.cs
+|   |       FRM_Configurar_Dias_Factura.resx
+|   |       FRM_CONFIGURA_TIEMPO_FALLA_HUELLA.cs
+|   |       FRM_CONFIGURA_TIEMPO_FALLA_HUELLA.Designer.cs
+|   |       FRM_CONFIGURA_TIEMPO_FALLA_HUELLA.resx
+|   |       FRM_DIAS_CONSULTABURO.cs
+|   |       FRM_DIAS_CONSULTABURO.Designer.cs
+|   |       FRM_DIAS_CONSULTABURO.resx
+|   |       FRM_DIAS_VALIDACION_TELEFONICA.cs
+|   |       FRM_DIAS_VALIDACION_TELEFONICA.Designer.cs
+|   |       FRM_DIAS_VALIDACION_TELEFONICA.resx
+|   |       FRM_EXCLUIR_DEPARTAMENTOPUESTO_RED_DIMA.cs
+|   |       FRM_EXCLUIR_DEPARTAMENTOPUESTO_RED_DIMA.Designer.cs
+|   |       FRM_EXCLUIR_DEPARTAMENTOPUESTO_RED_DIMA.resx
+|   |       FRM_INCLUIRDEPARTAMENTOBF.cs
+|   |       FRM_INCLUIRDEPARTAMENTOBF.Designer.cs
+|   |       FRM_INCLUIRDEPARTAMENTOBF.resx
+|   |       FRM_MODIFICA_CLAVE_BURO.cs
+|   |       FRM_MODIFICA_CLAVE_BURO.Designer.cs
+|   |       FRM_MODIFICA_CLAVE_BURO.resx
+|   |       FRM_PERFIL_USUARIO.cs
+|   |       FRM_PERFIL_USUARIO.Designer.cs
+|   |       FRM_PERFIL_USUARIO.resx
+|   |       FRM_PERMISOS_DE_CONSULTAR_BURO.cs
+|   |       FRM_PERMISOS_DE_CONSULTAR_BURO.Designer.cs
+|   |       FRM_PERMISOS_DE_CONSULTAR_BURO.resx
+|   |       FRM_USUARIO_PERFIL.cs
+|   |       FRM_USUARIO_PERFIL.Designer.cs
+|   |       FRM_USUARIO_PERFIL.resx
+|   |       
+|   +---ControlCamaraAdjuntar
+|   |       ControlCamara.cs
+|   |       FotoDoc.cs
+|   |       IFotoDoc.cs
+|   |       IFotoDocum.cs
+|   |       IFotoDocum.Designer.cs
+|   |       IFotoDocum.resx
+|   |       
+|   +---ControlCamaraFoto
+|   |       Control.cs
+|   |       Foto.cs
+|   |       IFoto.cs
+|   |       IFotoD.cs
+|   |       IFotoD.Designer.cs
+|   |       IFotoD.resx
+|   |       
+|   +---Demonio
+|   |       ActualizaExe.xml
+|   |       Demonio.exe
+|   |       Demonio.xml
+|   |       
+|   +---Herramientas
+|   |   +---Generacion
+|   |   |       CodigoGenerador.cs
+|   |   |       
+|   |   +---NewFormControlls
+|   |   |       GridViewCheckBoxColumn.cs
+|   |   |       
+|   |   \---NewFormControls
+|   |           GridViewCheckBoxColumn.cs
+|   |           
+|   +---Img
+|   |   |   cargando.gif
+|   |   |   configuracion.png
+|   |   |   GuardarL.PNG
+|   |   |   GuardarM.PNG
+|   |   |   GuardarR.JPG
+|   |   |   Huella.PNG
+|   |   |   Login.jpg
+|   |   |   Login2.jpg
+|   |   |   Login3.jpg
+|   |   |   SHM.jpg
+|   |   |   unknow_user.jpg
+|   |   |   verificar_personal.png
+|   |   |   
+|   |   +---captura
+|   |   |       contador_0000_1-copia.png
+|   |   |       contador_0001_2-copia.png
+|   |   |       contador_0002_3-copia.png
+|   |   |       contador_0003_4-copia.png
+|   |   |       contador_0004_1.png
+|   |   |       contador_0005_2.png
+|   |   |       contador_0006_3.png
+|   |   |       contador_0007_4.png
+|   |   |       contador_0008_Capa-1.png
+|   |   |       
+|   |   \---fingers
+|   |           Finger-Hand-Black_0001_Capa-2-copia-2.png
+|   |           Finger-Hand-Black_0002_Capa-3-copia.png
+|   |           Finger-Hand-Black_0003_Capa-4-copia.png
+|   |           Finger-Hand-Black_0004_Capa-5-copia.png
+|   |           Finger-Hand-Black_0005_Capa-6-copia.png
+|   |           Finger-Hand-Black_0006_Capa-2.png
+|   |           Finger-Hand-Black_0007_Capa-3.png
+|   |           Finger-Hand-Black_0008_Capa-4.png
+|   |           Finger-Hand-Black_0009_Capa-5.png
+|   |           Finger-Hand-Black_0010_Capa-6.png
+|   |           Finger-Hand_0001_Capa-2-copia-2.png
+|   |           Finger-Hand_0002_Capa-3-copia.png
+|   |           Finger-Hand_0003_Capa-4-copia.png
+|   |           Finger-Hand_0004_Capa-5-copia.png
+|   |           Finger-Hand_0005_Capa-6-copia.png
+|   |           Finger-Hand_0006_Capa-2.png
+|   |           Finger-Hand_0007_Capa-3.png
+|   |           Finger-Hand_0008_Capa-4.png
+|   |           Finger-Hand_0009_Capa-5.png
+|   |           Finger-Hand_0010_Capa-6.png
+|   |           Finger-Hand_0011_Capa-2-copia.png
+|   |           
+|   +---INTL
+|   |       cadenaINTL.cs
+|   |       DC_campoINTL.cs
+|   |       DC_segmentoAU.cs
+|   |       DC_segmentoES.cs
+|   |       DC_segmentoINTL.cs
+|   |       DC_segmentoPA.cs
+|   |       DC_segmentoPI.cs
+|   |       DC_segmentoPN.cs
+|   |       EnumINTL.cs
+|   |       
+|   +---Librerias
+|   |       AForge.Controls.dll
+|   |       AForge.dll
+|   |       AForge.Imaging.dll
+|   |       AForge.Math.dll
+|   |       AForge.Video.DirectShow.dll
+|   |       AForge.Video.dll
+|   |       AxInterop.AcroPDFLib.dll
+|   |       dbxadapter30.dll
+|   |       dbxmss.dll
+|   |       dbxmss30.dll
+|   |       DiffieHellman.dll
+|   |       Interop.AcroPDFLib.dll
+|   |       Interop.IWshRuntimeLibrary.dll
+|   |       MessagingToolkit.QRCode.dll
+|   |       MetroFramework.Design.dll
+|   |       MetroFramework.dll
+|   |       MetroFramework.Fonts.dll
+|   |       midas.dll
+|   |       MySql.Data.dll
+|   |       Nini.dll
+|   |       Org.Mentalis.Security.dll
+|   |       Tamir.SharpSSH.dll
+|   |       TFielLib.dll
+|   |       
+|   +---Localization
+|   |   |   MetroLocalize.cs
+|   |   |   
+|   |   \---es
+|   |           MetroMessageBoxControl.xml
+|   |           MetroToggle.xml
+|   |           
+|   +---MessageBox
+|   |       MetroMessageBoxProperties.cs
+|   |       RetroMessageBoxControl.cs
+|   |       RetroMessageBoxControl.Designer.cs
+|   |       RetroMessageBoxControl.resx
+|   |       
+|   +---obj
+|   |   +---Debug
+|   |   |   |   .NETFramework,Version=v4.0.AssemblyAttributes.cs
+|   |   |   |   CoreCompileInputs.cache
+|   |   |   |   Desarrollo_Huellas.csproj.App.config
+|   |   |   |   Desarrollo_Huellas.csproj.AssemblyReference.cache
+|   |   |   |   Desarrollo_Huellas.csproj.CopyComplete
+|   |   |   |   Desarrollo_Huellas.csproj.CoreCompileInputs.cache
+|   |   |   |   Desarrollo_Huellas.csproj.FileListAbsolute.txt
+|   |   |   |   Desarrollo_Huellas.csproj.GenerateResource.cache
+|   |   |   |   Desarrollo_Huellas.csproj.ResolveComReference.cache
+|   |   |   |   Desarrollo_Huellas.csprojAssemblyReference.cache
+|   |   |   |   Desarrollo_Huellas.csprojAssemblyReference.cache.orig
+|   |   |   |   Desarrollo_Huellas.csprojResolveAssemblyReference.cache
+|   |   |   |   DesignTimeResolveAssemblyReferences.cache
+|   |   |   |   DesignTimeResolveAssemblyReferencesInput.cache
+|   |   |   |   hojaverde.FRM_HOJA_VERDE.resources
+|   |   |   |   Interop.Microsoft.Office.Core.dll
+|   |   |   |   MetroFramework2.New.RetroMessageBoxControl.resources
+|   |   |   |   PreguntasDeSeguridad.FRM_PreguntasSeguridad.resources
+|   |   |   |   RdlCompile.cache
+|   |   |   |   RdlCompile.compiled
+|   |   |   |   SHM.application
+|   |   |   |   SHM.BuroDigital.Act_Por_Cobro.Frm_Datos.resources
+|   |   |   |   SHM.BuroDigital.Act_Por_Cobro.Frm_ListaHuellaPosible.resources
+|   |   |   |   SHM.BuroDigital.Act_Por_Cobro.Obciones.resources
+|   |   |   |   SHM.BuroDigital.FormNewClient.resources
+|   |   |   |   SHM.BuroDigital.FRM_ACTUALIZAR.resources
+|   |   |   |   SHM.BuroDigital.FRM_ADJUNTAR.resources
+|   |   |   |   SHM.BuroDigital.FRM_AUTORIZA_SUPER.resources
+|   |   |   |   SHM.BuroDigital.FRM_CARGA_MOVIMIENTOS_VENTA.resources
+|   |   |   |   SHM.BuroDigital.FRM_CODIGO_QR.resources
+|   |   |   |   SHM.BuroDigital.FRM_CONSULTAS.resources
+|   |   |   |   SHM.BuroDigital.Frm_HistoricoAcceso.resources
+|   |   |   |   SHM.BuroDigital.FRM_HISTORICO_ACTUALIZACION_DOCS.resources
+|   |   |   |   SHM.BuroDigital.FRM_HISTORICO_VAL_DOCS.resources
+|   |   |   |   SHM.BuroDigital.FRM_HUELLAS_EN_CAJA.resources
+|   |   |   |   SHM.BuroDigital.FRM_MACH_HUELLA.resources
+|   |   |   |   SHM.BuroDigital.FRM_MATCH_DIMA.resources
+|   |   |   |   SHM.BuroDigital.FRM_MOVIMIENTOS_VTA_CARGADOS.resources
+|   |   |   |   SHM.BuroDigital.FRM_REPORTES_DOCUMENTOS.resources
+|   |   |   |   SHM.BuroDigital.FRM_REPORTE_CAMBIO_EST.resources
+|   |   |   |   SHM.BuroDigital.FRM_REPORTE_CAMBIO_ESTATUS_HUELLA.resources
+|   |   |   |   SHM.BuroDigital.FRM_REPORTE_MOVIMIENTOS_VENTA.resources
+|   |   |   |   SHM.BuroDigital.FRM_VALIDA_POR_FALLA_HUELLA.resources
+|   |   |   |   SHM.BuroDigital.FRM_VERIFICA_DIMA.resources
+|   |   |   |   SHM.BuroDigital.FRM_VisorDocs.resources
+|   |   |   |   SHM.BuroDigital.New_Hoja_Verde.resources
+|   |   |   |   SHM.BuroDigital.TipoDocs.resources
+|   |   |   |   SHM.Capacitacion.FRM_CURSOS.resources
+|   |   |   |   SHM.Capacitacion.FRM_HORARIOS.resources
+|   |   |   |   SHM.CargaDocs.FormAccesoCargaDocumentos.resources
+|   |   |   |   SHM.CargaDocs.frmAccesoPerfilesTicket.resources
+|   |   |   |   SHM.CargaDocs.frmCapturaDoc.resources
+|   |   |   |   SHM.CargaDocs.frmCargaDocs.resources
+|   |   |   |   SHM.CargaDocs.frmDatosTarjetaHabiente.resources
+|   |   |   |   SHM.CargaDocs.frmExcluirSucursal.resources
+|   |   |   |   SHM.CargaDocs.frmListaMovimientos.resources
+|   |   |   |   SHM.CargaDocs.frmNombreTarjetahabiente.resources
+|   |   |   |   SHM.CargaDocs.frmReporteDocumentos.resources
+|   |   |   |   SHM.Clientes_Finales.Cambio_Vendedor_a_Final.resources
+|   |   |   |   SHM.Clientes_Finales.Explorardor_ClienteFinal.resources
+|   |   |   |   SHM.Clientes_Finales.FormCapturaImagen.resources
+|   |   |   |   SHM.Clientes_Finales.FormCargaMovimeintosDoc.resources
+|   |   |   |   SHM.Clientes_Finales.FormCargaMovimientos.resources
+|   |   |   |   SHM.Clientes_Finales.formReporteCargaDocumentos.resources
+|   |   |   |   SHM.Clientes_Finales.FormValidadordeFotos.resources
+|   |   |   |   SHM.Clientes_Finales.frmBancos.resources
+|   |   |   |   SHM.Clientes_Finales.FrmDetalleDispersionConsulta.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_ACTUALIZARCTEFINAL.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_ACTUALIZARCTEFINAL_IFE.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_ACTUALIZA_NIP.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_ADJUNTAR_BOLETA.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_ALTA_NIP.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_BOLETA_BF.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_BUSCARCLIENTEFINAL.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_BUSCAR_CLIENTE_FINAL.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_COINCIDENCIAS.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_COINCIDENCIASBF.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_DETALLE_MOVIMIENTOS.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_DIMA_RECOM.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_EDITARTELEFONO.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_EXISTE_CTEFINAL.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_FOTOSCLIENTEFINAL.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_HISTORIALCOINCIDENCIASBF.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_HIST_MODIFI_CTEFINAL.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_HUELLACTEFINAL.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_MOTIVOS_LIBERACION_DIMA.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_NVO_CLIENTE_FINAL.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_OPCIONREGISTRO.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_PRINT_BOLETABF.resources
+|   |   |   |   SHM.Clientes_Finales.Frm_RELACIONBF.resources
+|   |   |   |   SHM.Clientes_Finales.Frm_RespuestaBanco.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_SUPERVISION_TELEFONICA.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_VALIDACIONTELEFONOS.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_VALIDACION_TELEFONICA_BF.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_VALIDARCLIENTEFINAL.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_VALIDA_BOLETA.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_VALIDA_HUELLA_CTEFIN.resources
+|   |   |   |   SHM.Clientes_Finales.MenuActualizar.resources
+|   |   |   |   SHM.Clientes_Finales.VisorMavi.resources
+|   |   |   |   SHM.Cobranza.FRM_DOC_CANCELA.resources
+|   |   |   |   SHM.Cobranza.FRM_FOTO_CTE.resources
+|   |   |   |   SHM.Cobranza.FRM_VISOR_DOC_S.resources
+|   |   |   |   SHM.Configuracion.FormAccesosHojaVerde.resources
+|   |   |   |   SHM.Configuracion.FRM_ALTA_PERFILES.resources
+|   |   |   |   SHM.Configuracion.FRM_AUTORIZA_CAMBIO.resources
+|   |   |   |   SHM.Configuracion.FRM_BLOQUEO_CLIENTE.resources
+|   |   |   |   SHM.Configuracion.FRM_CAMBIO.resources
+|   |   |   |   SHM.Configuracion.FRM_CONFIGURACION.resources
+|   |   |   |   SHM.Configuracion.FRM_CONFIGURACION_DEPURACION.resources
+|   |   |   |   SHM.Configuracion.FRM_Configurar_Dias_Factura.resources
+|   |   |   |   SHM.Configuracion.FRM_CONFIGURA_TIEMPO_FALLA_HUELLA.resources
+|   |   |   |   SHM.Configuracion.FRM_DIAS_CONSULTABURO.resources
+|   |   |   |   SHM.Configuracion.FRM_DIAS_VALIDACION_TELEFONICA.resources
+|   |   |   |   SHM.Configuracion.FRM_EXCLUIR_DEPARTAMENTOPUESTO_RED_DIMA.resources
+|   |   |   |   SHM.Configuracion.FRM_INCLUIRDEPARTAMENTOBF.resources
+|   |   |   |   SHM.Configuracion.FRM_MODIFICA_CLAVE_BURO.resources
+|   |   |   |   SHM.Configuracion.FRM_PERFIL_USUARIO.resources
+|   |   |   |   SHM.Configuracion.FRM_PERMISOS_DE_CONSULTAR_BURO.resources
+|   |   |   |   SHM.Configuracion.FRM_USUARIO_PERFIL.resources
+|   |   |   |   SHM.ControlCamaraAdjuntar.IFotoDocum.resources
+|   |   |   |   SHM.ControlCamaraFoto.IFotoD.resources
+|   |   |   |   SHM.DatosDomicilio.resources
+|   |   |   |   SHM.exe
+|   |   |   |   SHM.exe.manifest
+|   |   |   |   SHM.FrmMensajePersonalizado.resources
+|   |   |   |   SHM.FRM_ACCESO_DENEGADO.resources
+|   |   |   |   SHM.FRM_ACCESO_NOMINA.resources
+|   |   |   |   SHM.FRM_CAMBIOS_DOMICILIO.resources
+|   |   |   |   SHM.FRM_CAPTURA.resources
+|   |   |   |   SHM.FRM_CARGANDO.resources
+|   |   |   |   SHM.FRM_DOCS_CAMBIO_DOMICILIO.resources
+|   |   |   |   SHM.FRM_GESTOR_CORREOS.resources
+|   |   |   |   SHM.FRM_HUELLAS_ILEGIBLES.resources
+|   |   |   |   SHM.FRM_MAIN.resources
+|   |   |   |   SHM.FRM_NOMINA.resources
+|   |   |   |   SHM.FRM_PRINTHOJAVERDE.resources
+|   |   |   |   SHM.FRM_REPORTE_CAMBIOS_DOMICILIO.resources
+|   |   |   |   SHM.FRM_VERIFICADORES.resources
+|   |   |   |   SHM.FRM_VisualizarRotacion.resources
+|   |   |   |   SHM.IFotosControl4.resources
+|   |   |   |   SHM.LabelMachine.resources
+|   |   |   |   SHM.ObjDateTimePicker.resources
+|   |   |   |   SHM.Obj_Adjuntar.resources
+|   |   |   |   SHM.Obj_AdjuntarCancelaSeg.resources
+|   |   |   |   SHM.Obj_AdjuntarCD.resources
+|   |   |   |   SHM.Obj_PreguntaSeguridad1.resources
+|   |   |   |   SHM.Obj_PreguntaSeguridad2.resources
+|   |   |   |   SHM.Obj_PreguntaSeguridad3.resources
+|   |   |   |   SHM.pdb
+|   |   |   |   SHM.Personal.FRM_ALTA_PERSONAL.resources
+|   |   |   |   SHM.Personal.FRM_CAPTURAR_FOTOGRAFIA.resources
+|   |   |   |   SHM.Personal.FRM_CHECAR_POR_NOMINA.resources
+|   |   |   |   SHM.Personal.FRM_REP_FOTOS.resources
+|   |   |   |   SHM.PictureButton.resources
+|   |   |   |   SHM.PreguntasDeSeguridad.FRM_NVA_OPCION.resources
+|   |   |   |   SHM.PreguntasDeSeguridad.FRM_NVA_PREGUNTA.resources
+|   |   |   |   SHM.PreguntasDeSeguridad.FRM_NVO_CONTROL.resources
+|   |   |   |   SHM.PreguntasDeSeguridad.FRM_REPORTE_CONTROLES.resources
+|   |   |   |   SHM.PreguntasDeSeguridad.FRM_REPORTE_PREGUNTAS.resources
+|   |   |   |   SHM.Properties.Resources.resources
+|   |   |   |   SHM.Reportes.FRM_AUTORIZA_POR_FALLA_HUELLA.resources
+|   |   |   |   SHM.Reportes.FRM_HistoricoBoletaBF.resources
+|   |   |   |   SHM.Reportes.FRM_Reporte_DimR.resources
+|   |   |   |   SHM.Reportes.FRM_Reporte_Telefonica.resources
+|   |   |   |   SHM.ToggleSwitch.resources
+|   |   |   |   SHM.TrustInfo.xml
+|   |   |   |   SHM.venta_vales.ClientAttentionForm.resources
+|   |   |   |   SHM.venta_vales.Forms.BaseMetro.resources
+|   |   |   |   SHM.venta_vales.Forms.ClientAttention.CaptureCode.resources
+|   |   |   |   SHM.venta_vales.Forms.ClientAttention.CaptureForm.resources
+|   |   |   |   SHM.venta_vales.Forms.LoadingScreen.resources
+|   |   |   |   SHM.venta_vales.Forms.UserControls.LoadingCircleMavi.resources
+|   |   |   |   SHM.venta_vales.FRM_ACTUALIZAR_NIPS.resources
+|   |   |   |   SHM.venta_vales.FRM_ACTUALIZA_MAX_VALES.resources
+|   |   |   |   SHM.venta_vales.FRM_ACTUALIZA_NIP.resources
+|   |   |   |   SHM.venta_vales.FRM_COBROSDIMA.resources
+|   |   |   |   SHM.venta_vales.FRM_EST_CTA.resources
+|   |   |   |   SHM.venta_vales.FRM_FOTO_CLIENTE.resources
+|   |   |   |   SHM.venta_vales.FRM_GENERAR_VALES.resources
+|   |   |   |   SHM.venta_vales.FRM_IMPRESION_VALES.resources
+|   |   |   |   SHM.venta_vales.FRM_NIPS_VALES.resources
+|   |   |   |   SHM.venta_vales.FRM_NIP_RCOBROS.resources
+|   |   |   |   SHM.venta_vales.FRM_PERIODICIDAD_COB.resources
+|   |   |   |   SHM.venta_vales.FRM_REIMPRIMIR_VALES.resources
+|   |   |   |   SHM.venta_vales.FRM_REPORTE_GRAL_VALES.resources
+|   |   |   |   SHM.venta_vales.FRM_VALIDAHUELLA_REIMP.resources
+|   |   |   |   SHM.venta_vales.MessagesTitles.resources
+|   |   |   |   SHM.venta_vales.SearchClientForm.resources
+|   |   |   |   
+|   |   |   \---TempPE
+|   |   |           BuroDigital.FRM_ACTUALIZAR.Designer.cs.dll
+|   |   |           ComercializadoraDataSet.Designer.cs.dll
+|   |   |           DataSetHojaVerde.Designer.cs.dll
+|   |   |           Properties.Resources.Designer.cs.dll
+|   |   |           Service References.Localisimo.Reference.cs.dll
+|   |   |           Service References.PruebaLocal.Reference.cs.dll
+|   |   |           Service References.ServiceDispersiones.Reference.cs.dll
+|   |   |           Service References.ServicePruebas.Reference.cs.dll
+|   |   |           Service References.ServiceReference1.Reference.cs.dll
+|   |   |           Service References.ServicioDispersiones.Reference.cs.dll
+|   |   |           Service References.TestRefer.Reference.cs.dll
+|   |   |           
+|   |   +---Release
+|   |   |   |   build.force
+|   |   |   |   Desarrollo_Huellas.csproj.CoreCompileInputs.cache
+|   |   |   |   Desarrollo_Huellas.csproj.FileListAbsolute.txt
+|   |   |   |   Desarrollo_Huellas.csproj.GenerateResource.Cache
+|   |   |   |   Desarrollo_Huellas.csproj.ResolveComReference.cache
+|   |   |   |   Desarrollo_Huellas.csprojAssemblyReference.cache
+|   |   |   |   Desarrollo_Huellas.csprojResolveAssemblyReference.cache
+|   |   |   |   DesignTimeResolveAssemblyReferences.cache
+|   |   |   |   DesignTimeResolveAssemblyReferencesInput.cache
+|   |   |   |   hojaverde.FRM_HOJA_VERDE.resources
+|   |   |   |   Interop.Microsoft.Office.Core.dll
+|   |   |   |   PreguntasDeSeguridad.FRM_PreguntasSeguridad.resources
+|   |   |   |   RdlCompile.cache
+|   |   |   |   RdlCompile.compiled
+|   |   |   |   SHM.BuroDigital.Act_Por_Cobro.Frm_Datos.resources
+|   |   |   |   SHM.BuroDigital.Act_Por_Cobro.Frm_ListaHuellaPosible.resources
+|   |   |   |   SHM.BuroDigital.Act_Por_Cobro.Obciones.resources
+|   |   |   |   SHM.BuroDigital.FormNewClient.resources
+|   |   |   |   SHM.BuroDigital.FRM_ADJUNTAR.resources
+|   |   |   |   SHM.BuroDigital.FRM_AUTORIZA_SUPER.resources
+|   |   |   |   SHM.BuroDigital.FRM_CARGA_MOVIMIENTOS_VENTA.resources
+|   |   |   |   SHM.BuroDigital.FRM_CONSULTAS.resources
+|   |   |   |   SHM.BuroDigital.Frm_HistoricoAcceso.resources
+|   |   |   |   SHM.BuroDigital.FRM_HISTORICO_ACTUALIZACION_DOCS.resources
+|   |   |   |   SHM.BuroDigital.FRM_HISTORICO_VAL_DOCS.resources
+|   |   |   |   SHM.BuroDigital.FRM_HUELLAS_EN_CAJA.resources
+|   |   |   |   SHM.BuroDigital.FRM_MACH_HUELLA.resources
+|   |   |   |   SHM.BuroDigital.FRM_MATCH_DIMA.resources
+|   |   |   |   SHM.BuroDigital.FRM_MOVIMIENTOS_VTA_CARGADOS.resources
+|   |   |   |   SHM.BuroDigital.FRM_REPORTES_DOCUMENTOS.resources
+|   |   |   |   SHM.BuroDigital.FRM_REPORTE_CAMBIO_EST.resources
+|   |   |   |   SHM.BuroDigital.FRM_REPORTE_CAMBIO_ESTATUS_HUELLA.resources
+|   |   |   |   SHM.BuroDigital.FRM_REPORTE_MOVIMIENTOS_VENTA.resources
+|   |   |   |   SHM.BuroDigital.FRM_VALIDA_POR_FALLA_HUELLA.resources
+|   |   |   |   SHM.BuroDigital.FRM_VERIFICA_DIMA.resources
+|   |   |   |   SHM.BuroDigital.FRM_VisorDocs.resources
+|   |   |   |   SHM.BuroDigital.TipoDocs.resources
+|   |   |   |   SHM.Capacitacion.FRM_CURSOS.resources
+|   |   |   |   SHM.Capacitacion.FRM_HORARIOS.resources
+|   |   |   |   SHM.CargaDocs.FormAccesoCargaDocumentos.resources
+|   |   |   |   SHM.CargaDocs.frmAccesoPerfilesTicket.resources
+|   |   |   |   SHM.CargaDocs.frmCapturaDoc.resources
+|   |   |   |   SHM.CargaDocs.frmCargaDocs.resources
+|   |   |   |   SHM.CargaDocs.frmDatosTarjetaHabiente.resources
+|   |   |   |   SHM.CargaDocs.frmExcluirSucursal.resources
+|   |   |   |   SHM.CargaDocs.frmListaMovimientos.resources
+|   |   |   |   SHM.CargaDocs.frmNombreTarjetahabiente.resources
+|   |   |   |   SHM.CargaDocs.frmReporteDocumentos.resources
+|   |   |   |   SHM.Clientes_Finales.Explorardor_ClienteFinal.resources
+|   |   |   |   SHM.Clientes_Finales.FormCapturaImagen.resources
+|   |   |   |   SHM.Clientes_Finales.FormCargaMovimeintosDoc.resources
+|   |   |   |   SHM.Clientes_Finales.FormCargaMovimientos.resources
+|   |   |   |   SHM.Clientes_Finales.formReporteCargaDocumentos.resources
+|   |   |   |   SHM.Clientes_Finales.FormValidadordeFotos.resources
+|   |   |   |   SHM.Clientes_Finales.frmBancos.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_ACTUALIZARCTEFINAL.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_ACTUALIZARCTEFINAL_IFE.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_ACTUALIZA_NIP.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_ADJUNTAR_BOLETA.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_ALTA_NIP.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_BOLETA_BF.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_BUSCARCLIENTEFINAL.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_BUSCAR_CLIENTE_FINAL.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_COINCIDENCIAS.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_DETALLE_MOVIMIENTOS.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_DIMA_RECOM.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_EDITARTELEFONO.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_EXISTE_CTEFINAL.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_FOTOSCLIENTEFINAL.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_HIST_MODIFI_CTEFINAL.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_HUELLACTEFINAL.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_MOTIVOS_LIBERACION_DIMA.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_NVO_CLIENTE_FINAL.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_OPCIONREGISTRO.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_PRINT_BOLETABF.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_SUPERVISION_TELEFONICA.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_VALIDACIONTELEFONOS.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_VALIDACION_TELEFONICA_BF.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_VALIDARCLIENTEFINAL.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_VALIDA_BOLETA.resources
+|   |   |   |   SHM.Clientes_Finales.FRM_VALIDA_HUELLA_CTEFIN.resources
+|   |   |   |   SHM.Clientes_Finales.VisorMavi.resources
+|   |   |   |   SHM.Cobranza.FRM_DOC_CANCELA.resources
+|   |   |   |   SHM.Cobranza.FRM_FOTO_CTE.resources
+|   |   |   |   SHM.Cobranza.FRM_VISOR_DOC_S.resources
+|   |   |   |   SHM.Configuracion.FormAccesosHojaVerde.resources
+|   |   |   |   SHM.Configuracion.FRM_ALTA_PERFILES.resources
+|   |   |   |   SHM.Configuracion.FRM_AUTORIZA_CAMBIO_DIMA.resources
+|   |   |   |   SHM.Configuracion.FRM_BLOQUEO_CLIENTE.resources
+|   |   |   |   SHM.Configuracion.FRM_CAMBIO_DIMA.resources
+|   |   |   |   SHM.Configuracion.FRM_CONFIGURACION.resources
+|   |   |   |   SHM.Configuracion.FRM_Configurar_Dias_Factura.resources
+|   |   |   |   SHM.Configuracion.FRM_DIAS_CONSULTABURO.resources
+|   |   |   |   SHM.Configuracion.FRM_DIAS_VALIDACION_TELEFONICA.resources
+|   |   |   |   SHM.Configuracion.FRM_EXCLUIR_DEPARTAMENTOPUESTO_RED_DIMA.resources
+|   |   |   |   SHM.Configuracion.FRM_INCLUIRDEPARTAMENTOBF.resources
+|   |   |   |   SHM.Configuracion.FRM_MODIFICA_CLAVE_BURO.resources
+|   |   |   |   SHM.Configuracion.FRM_PERFIL_USUARIO.resources
+|   |   |   |   SHM.Configuracion.FRM_PERMISOS_DE_CONSULTAR_BURO.resources
+|   |   |   |   SHM.Configuracion.FRM_USUARIO_PERFIL.resources
+|   |   |   |   SHM.ControlCamaraAdjuntar.IFotoDocum.resources
+|   |   |   |   SHM.ControlCamaraFoto.IFotoD.resources
+|   |   |   |   SHM.DatosDomicilio.resources
+|   |   |   |   SHM.FRM_ACCESO_DENEGADO.resources
+|   |   |   |   SHM.FRM_ACCESO_NOMINA.resources
+|   |   |   |   SHM.FRM_CAMBIOS_DOMICILIO.resources
+|   |   |   |   SHM.FRM_CAPTURA.resources
+|   |   |   |   SHM.FRM_CARGANDO.resources
+|   |   |   |   SHM.FRM_DOCS_CAMBIO_DOMICILIO.resources
+|   |   |   |   SHM.FRM_GESTOR_CORREOS.resources
+|   |   |   |   SHM.FRM_HUELLAS_ILEGIBLES.resources
+|   |   |   |   SHM.FRM_MAIN.resources
+|   |   |   |   SHM.FRM_NOMINA.resources
+|   |   |   |   SHM.FRM_PRINTHOJAVERDE.resources
+|   |   |   |   SHM.FRM_REPORTE_CAMBIOS_DOMICILIO.resources
+|   |   |   |   SHM.FRM_VERIFICADORES.resources
+|   |   |   |   SHM.IFotosControl4.resources
+|   |   |   |   SHM.LabelMachine.resources
+|   |   |   |   SHM.ObjDateTimePicker.resources
+|   |   |   |   SHM.Obj_Adjuntar.resources
+|   |   |   |   SHM.Obj_AdjuntarCancelaSeg.resources
+|   |   |   |   SHM.Obj_AdjuntarCD.resources
+|   |   |   |   SHM.Obj_PreguntaSeguridad1.resources
+|   |   |   |   SHM.Obj_PreguntaSeguridad2.resources
+|   |   |   |   SHM.Obj_PreguntaSeguridad3.resources
+|   |   |   |   SHM.Personal.FRM_ALTA_PERSONAL.resources
+|   |   |   |   SHM.Personal.FRM_CAPTURAR_FOTOGRAFIA.resources
+|   |   |   |   SHM.Personal.FRM_CHECAR_POR_NOMINA.resources
+|   |   |   |   SHM.Personal.FRM_REP_FOTOS.resources
+|   |   |   |   SHM.PictureButton.resources
+|   |   |   |   SHM.PreguntasDeSeguridad.FRM_NVA_OPCION.resources
+|   |   |   |   SHM.PreguntasDeSeguridad.FRM_NVA_PREGUNTA.resources
+|   |   |   |   SHM.PreguntasDeSeguridad.FRM_NVO_CONTROL.resources
+|   |   |   |   SHM.PreguntasDeSeguridad.FRM_REPORTE_CONTROLES.resources
+|   |   |   |   SHM.PreguntasDeSeguridad.FRM_REPORTE_PREGUNTAS.resources
+|   |   |   |   SHM.Properties.Resources.resources
+|   |   |   |   SHM.Reportes.FRM_AUTORIZA_POR_FALLA_HUELLA.resources
+|   |   |   |   SHM.Reportes.FRM_HistoricoBoletaBF.resources
+|   |   |   |   SHM.Reportes.FRM_Reporte_DimR.resources
+|   |   |   |   SHM.Reportes.FRM_Reporte_Telefonica.resources
+|   |   |   |   SHM.ToggleSwitch.resources
+|   |   |   |   SHM.venta_vales.FRM_ACTUALIZAR_NIPS.resources
+|   |   |   |   SHM.venta_vales.FRM_ACTUALIZA_MAX_VALES.resources
+|   |   |   |   SHM.venta_vales.FRM_ACTUALIZA_NIP.resources
+|   |   |   |   SHM.venta_vales.FRM_COBROSDIMA.resources
+|   |   |   |   SHM.venta_vales.FRM_EST_CTA.resources
+|   |   |   |   SHM.venta_vales.FRM_FOTO_CLIENTE.resources
+|   |   |   |   SHM.venta_vales.FRM_GENERAR_VALES.resources
+|   |   |   |   SHM.venta_vales.FRM_IMPRESION_VALES.resources
+|   |   |   |   SHM.venta_vales.FRM_NIPS_VALES.resources
+|   |   |   |   SHM.venta_vales.FRM_NIP_RCOBROS.resources
+|   |   |   |   SHM.venta_vales.FRM_PERIODICIDAD_COB.resources
+|   |   |   |   SHM.venta_vales.FRM_REIMPRIMIR_VALES.resources
+|   |   |   |   SHM.venta_vales.FRM_REPORTE_GRAL_VALES.resources
+|   |   |   |   SHM.venta_vales.FRM_VALIDAHUELLA_REIMP.resources
+|   |   |   |   
+|   |   |   \---TempPE
+|   |   |           ComercializadoraDataSet.Designer.cs.dll
+|   |   |           DataSetHojaVerde.Designer.cs.dll
+|   |   |           Properties.Resources.Designer.cs.dll
+|   |   |           Service References.ServiceReference1.Reference.cs.dll
+|   |   |           
+|   |   \---x86
+|   |       +---Debug
+|   |       |   |   build.force
+|   |       |   |   Desarrollo_Huellas.csproj.CoreCompileInputs.cache
+|   |       |   |   Desarrollo_Huellas.csproj.FileListAbsolute.txt
+|   |       |   |   Desarrollo_Huellas.csproj.GenerateResource.cache
+|   |       |   |   Desarrollo_Huellas.csproj.ResolveComReference.cache
+|   |       |   |   Desarrollo_Huellas.csprojAssemblyReference.cache
+|   |       |   |   hojaverde.FRM_HOJA_VERDE.resources
+|   |       |   |   PreguntasDeSeguridad.FRM_PreguntasSeguridad.resources
+|   |       |   |   RdlCompile.cache
+|   |       |   |   RdlCompile.compiled
+|   |       |   |   SHM.BuroDigital.Act_Por_Cobro.Frm_Datos.resources
+|   |       |   |   SHM.BuroDigital.Act_Por_Cobro.Frm_ListaHuellaPosible.resources
+|   |       |   |   SHM.BuroDigital.Act_Por_Cobro.Obciones.resources
+|   |       |   |   SHM.BuroDigital.FormNewClient.resources
+|   |       |   |   SHM.BuroDigital.FRM_ACTUALIZAR.resources
+|   |       |   |   SHM.BuroDigital.FRM_ADJUNTAR.resources
+|   |       |   |   SHM.BuroDigital.FRM_AUTORIZA_SUPER.resources
+|   |       |   |   SHM.BuroDigital.FRM_CARGA_MOVIMIENTOS_VENTA.resources
+|   |       |   |   SHM.BuroDigital.FRM_CONSULTAS.resources
+|   |       |   |   SHM.BuroDigital.Frm_HistoricoAcceso.resources
+|   |       |   |   SHM.BuroDigital.FRM_HISTORICO_ACTUALIZACION_DOCS.resources
+|   |       |   |   SHM.BuroDigital.FRM_HISTORICO_VAL_DOCS.resources
+|   |       |   |   SHM.BuroDigital.FRM_HUELLAS_EN_CAJA.resources
+|   |       |   |   SHM.BuroDigital.FRM_MACH_HUELLA.resources
+|   |       |   |   SHM.BuroDigital.FRM_MATCH_DIMA.resources
+|   |       |   |   SHM.BuroDigital.FRM_MOVIMIENTOS_VTA_CARGADOS.resources
+|   |       |   |   SHM.BuroDigital.FRM_REPORTES_DOCUMENTOS.resources
+|   |       |   |   SHM.BuroDigital.FRM_REPORTE_CAMBIO_EST.resources
+|   |       |   |   SHM.BuroDigital.FRM_REPORTE_CAMBIO_ESTATUS_HUELLA.resources
+|   |       |   |   SHM.BuroDigital.FRM_REPORTE_MOVIMIENTOS_VENTA.resources
+|   |       |   |   SHM.BuroDigital.FRM_VALIDA_POR_FALLA_HUELLA.resources
+|   |       |   |   SHM.BuroDigital.FRM_VERIFICA_DIMA.resources
+|   |       |   |   SHM.BuroDigital.FRM_VisorDocs.resources
+|   |       |   |   SHM.BuroDigital.New_Hoja_Verde.resources
+|   |       |   |   SHM.BuroDigital.TipoDocs.resources
+|   |       |   |   SHM.Capacitacion.FRM_CURSOS.resources
+|   |       |   |   SHM.Capacitacion.FRM_HORARIOS.resources
+|   |       |   |   SHM.CargaDocs.FormAccesoCargaDocumentos.resources
+|   |       |   |   SHM.CargaDocs.frmAccesoPerfilesTicket.resources
+|   |       |   |   SHM.CargaDocs.frmCapturaDoc.resources
+|   |       |   |   SHM.CargaDocs.frmCargaDocs.resources
+|   |       |   |   SHM.CargaDocs.frmDatosTarjetaHabiente.resources
+|   |       |   |   SHM.CargaDocs.frmExcluirSucursal.resources
+|   |       |   |   SHM.CargaDocs.frmListaMovimientos.resources
+|   |       |   |   SHM.CargaDocs.frmNombreTarjetahabiente.resources
+|   |       |   |   SHM.CargaDocs.frmReporteDocumentos.resources
+|   |       |   |   SHM.Clientes_Finales.Explorardor_ClienteFinal.resources
+|   |       |   |   SHM.Clientes_Finales.FormCapturaImagen.resources
+|   |       |   |   SHM.Clientes_Finales.FormCargaMovimeintosDoc.resources
+|   |       |   |   SHM.Clientes_Finales.FormCargaMovimientos.resources
+|   |       |   |   SHM.Clientes_Finales.formReporteCargaDocumentos.resources
+|   |       |   |   SHM.Clientes_Finales.FormValidadordeFotos.resources
+|   |       |   |   SHM.Clientes_Finales.frmBancos.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_ACTUALIZARCTEFINAL.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_ACTUALIZARCTEFINAL_IFE.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_ACTUALIZA_NIP.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_ADJUNTAR_BOLETA.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_ALTA_NIP.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_BOLETA_BF.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_BUSCARCLIENTEFINAL.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_BUSCAR_CLIENTE_FINAL.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_COINCIDENCIAS.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_DETALLE_MOVIMIENTOS.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_DIMA_RECOM.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_EDITARTELEFONO.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_EXISTE_CTEFINAL.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_FOTOSCLIENTEFINAL.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_HIST_MODIFI_CTEFINAL.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_HUELLACTEFINAL.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_MOTIVOS_LIBERACION_DIMA.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_NVO_CLIENTE_FINAL.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_OPCIONREGISTRO.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_PRINT_BOLETABF.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_SUPERVISION_TELEFONICA.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_VALIDACIONTELEFONOS.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_VALIDACION_TELEFONICA_BF.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_VALIDARCLIENTEFINAL.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_VALIDA_BOLETA.resources
+|   |       |   |   SHM.Clientes_Finales.FRM_VALIDA_HUELLA_CTEFIN.resources
+|   |       |   |   SHM.Clientes_Finales.MenuActualizar.resources
+|   |       |   |   SHM.Clientes_Finales.VisorMavi.resources
+|   |       |   |   SHM.Cobranza.FRM_DOC_CANCELA.resources
+|   |       |   |   SHM.Cobranza.FRM_FOTO_CTE.resources
+|   |       |   |   SHM.Cobranza.FRM_VISOR_DOC_S.resources
+|   |       |   |   SHM.Configuracion.FormAccesosHojaVerde.resources
+|   |       |   |   SHM.Configuracion.FRM_ALTA_PERFILES.resources
+|   |       |   |   SHM.Configuracion.FRM_AUTORIZA_CAMBIO_DIMA.resources
+|   |       |   |   SHM.Configuracion.FRM_BLOQUEO_CLIENTE.resources
+|   |       |   |   SHM.Configuracion.FRM_CAMBIO_DIMA.resources
+|   |       |   |   SHM.Configuracion.FRM_CONFIGURACION.resources
+|   |       |   |   SHM.Configuracion.FRM_CONFIGURACION_DEPURACION.resources
+|   |       |   |   SHM.Configuracion.FRM_Configurar_Dias_Factura.resources
+|   |       |   |   SHM.Configuracion.FRM_CONFIGURA_TIEMPO_FALLA_HUELLA.resources
+|   |       |   |   SHM.Configuracion.FRM_DIAS_CONSULTABURO.resources
+|   |       |   |   SHM.Configuracion.FRM_DIAS_VALIDACION_TELEFONICA.resources
+|   |       |   |   SHM.Configuracion.FRM_EXCLUIR_DEPARTAMENTOPUESTO_RED_DIMA.resources
+|   |       |   |   SHM.Configuracion.FRM_INCLUIRDEPARTAMENTOBF.resources
+|   |       |   |   SHM.Configuracion.FRM_MODIFICA_CLAVE_BURO.resources
+|   |       |   |   SHM.Configuracion.FRM_PERFIL_USUARIO.resources
+|   |       |   |   SHM.Configuracion.FRM_PERMISOS_DE_CONSULTAR_BURO.resources
+|   |       |   |   SHM.Configuracion.FRM_USUARIO_PERFIL.resources
+|   |       |   |   SHM.ControlCamaraAdjuntar.IFotoDocum.resources
+|   |       |   |   SHM.ControlCamaraFoto.IFotoD.resources
+|   |       |   |   SHM.DatosDomicilio.resources
+|   |       |   |   SHM.FRM_ACCESO_DENEGADO.resources
+|   |       |   |   SHM.FRM_ACCESO_NOMINA.resources
+|   |       |   |   SHM.FRM_CAMBIOS_DOMICILIO.resources
+|   |       |   |   SHM.FRM_CAPTURA.resources
+|   |       |   |   SHM.FRM_CARGANDO.resources
+|   |       |   |   SHM.FRM_DOCS_CAMBIO_DOMICILIO.resources
+|   |       |   |   SHM.FRM_GESTOR_CORREOS.resources
+|   |       |   |   SHM.FRM_HUELLAS_ILEGIBLES.resources
+|   |       |   |   SHM.FRM_MAIN.resources
+|   |       |   |   SHM.FRM_NOMINA.resources
+|   |       |   |   SHM.FRM_PRINTHOJAVERDE.resources
+|   |       |   |   SHM.FRM_REPORTE_CAMBIOS_DOMICILIO.resources
+|   |       |   |   SHM.FRM_VERIFICADORES.resources
+|   |       |   |   SHM.IFotosControl4.resources
+|   |       |   |   SHM.LabelMachine.resources
+|   |       |   |   SHM.ObjDateTimePicker.resources
+|   |       |   |   SHM.Obj_Adjuntar.resources
+|   |       |   |   SHM.Obj_AdjuntarCancelaSeg.resources
+|   |       |   |   SHM.Obj_AdjuntarCD.resources
+|   |       |   |   SHM.Obj_PreguntaSeguridad1.resources
+|   |       |   |   SHM.Obj_PreguntaSeguridad2.resources
+|   |       |   |   SHM.Obj_PreguntaSeguridad3.resources
+|   |       |   |   SHM.Personal.FRM_ALTA_PERSONAL.resources
+|   |       |   |   SHM.Personal.FRM_CAPTURAR_FOTOGRAFIA.resources
+|   |       |   |   SHM.Personal.FRM_CHECAR_POR_NOMINA.resources
+|   |       |   |   SHM.Personal.FRM_REP_FOTOS.resources
+|   |       |   |   SHM.PictureButton.resources
+|   |       |   |   SHM.PreguntasDeSeguridad.FRM_NVA_OPCION.resources
+|   |       |   |   SHM.PreguntasDeSeguridad.FRM_NVA_PREGUNTA.resources
+|   |       |   |   SHM.PreguntasDeSeguridad.FRM_NVO_CONTROL.resources
+|   |       |   |   SHM.PreguntasDeSeguridad.FRM_REPORTE_CONTROLES.resources
+|   |       |   |   SHM.PreguntasDeSeguridad.FRM_REPORTE_PREGUNTAS.resources
+|   |       |   |   SHM.Properties.Resources.resources
+|   |       |   |   SHM.Reportes.FRM_AUTORIZA_POR_FALLA_HUELLA.resources
+|   |       |   |   SHM.Reportes.FRM_HistoricoBoletaBF.resources
+|   |       |   |   SHM.Reportes.FRM_Reporte_DimR.resources
+|   |       |   |   SHM.Reportes.FRM_Reporte_Telefonica.resources
+|   |       |   |   SHM.ToggleSwitch.resources
+|   |       |   |   SHM.venta_vales.FRM_ACTUALIZAR_NIPS.resources
+|   |       |   |   SHM.venta_vales.FRM_ACTUALIZA_MAX_VALES.resources
+|   |       |   |   SHM.venta_vales.FRM_ACTUALIZA_NIP.resources
+|   |       |   |   SHM.venta_vales.FRM_COBROSDIMA.resources
+|   |       |   |   SHM.venta_vales.FRM_EST_CTA.resources
+|   |       |   |   SHM.venta_vales.FRM_FOTO_CLIENTE.resources
+|   |       |   |   SHM.venta_vales.FRM_GENERAR_VALES.resources
+|   |       |   |   SHM.venta_vales.FRM_IMPRESION_VALES.resources
+|   |       |   |   SHM.venta_vales.FRM_NIPS_VALES.resources
+|   |       |   |   SHM.venta_vales.FRM_NIP_RCOBROS.resources
+|   |       |   |   SHM.venta_vales.FRM_PERIODICIDAD_COB.resources
+|   |       |   |   SHM.venta_vales.FRM_REIMPRIMIR_VALES.resources
+|   |       |   |   SHM.venta_vales.FRM_REPORTE_GRAL_VALES.resources
+|   |       |   |   SHM.venta_vales.FRM_VALIDAHUELLA_REIMP.resources
+|   |       |   |   
+|   |       |   \---TempPE
+|   |       |           ComercializadoraDataSet.Designer.cs.dll
+|   |       |           DataSetHojaVerde.Designer.cs.dll
+|   |       |           Properties.Resources.Designer.cs.dll
+|   |       |           Service References.ServiceReference1.Reference.cs.dll
+|   |       |           
+|   |       \---Release
+|   |               Desarrollo_Huellas.csproj.CoreCompileInputs.cache
+|   |               Desarrollo_Huellas.csproj.ResolveComReference.cache
+|   |               Desarrollo_Huellas.csprojAssemblyReference.cache
+|   |               
+|   +---Personal
+|   |       FRM_ALTA_PERSONAL.cs
+|   |       FRM_ALTA_PERSONAL.Designer.cs
+|   |       FRM_ALTA_PERSONAL.resx
+|   |       FRM_CAPTURA.cs
+|   |       FRM_CAPTURA.designer.cs
+|   |       FRM_CAPTURA.resx
+|   |       FRM_CAPTURAR_FOTOGRAFIA.cs
+|   |       FRM_CAPTURAR_FOTOGRAFIA.Designer.cs
+|   |       FRM_CAPTURAR_FOTOGRAFIA.resx
+|   |       FRM_CHECAR_POR_NOMINA.cs
+|   |       FRM_CHECAR_POR_NOMINA.Designer.cs
+|   |       FRM_CHECAR_POR_NOMINA.resx
+|   |       FRM_REP_FOTOS.cs
+|   |       FRM_REP_FOTOS.Designer.cs
+|   |       FRM_REP_FOTOS.resx
+|   |       p.cs
+|   |       PERSONAL_VERIFICAR.cs
+|   |       
+|   +---PreguntasDeSeguridad
+|   |       FRM_NVA_OPCION.cs
+|   |       FRM_NVA_OPCION.Designer.cs
+|   |       FRM_NVA_OPCION.resx
+|   |       FRM_NVA_PREGUNTA.cs
+|   |       FRM_NVA_PREGUNTA.Designer.cs
+|   |       FRM_NVA_PREGUNTA.resx
+|   |       FRM_NVO_CONTROL.cs
+|   |       FRM_NVO_CONTROL.Designer.cs
+|   |       FRM_NVO_CONTROL.resx
+|   |       FRM_REPORTE_CONTROLES.cs
+|   |       FRM_REPORTE_CONTROLES.Designer.cs
+|   |       FRM_REPORTE_CONTROLES.resx
+|   |       FRM_REPORTE_PREGUNTAS.cs
+|   |       FRM_REPORTE_PREGUNTAS.Designer.cs
+|   |       FRM_REPORTE_PREGUNTAS.resx
+|   |       
+|   +---PreguntasSeguridad
+|   |       FRM_NVA_PREGUNTA.cs
+|   |       FRM_NVA_PREGUNTA.Designer.cs
+|   |       FRM_NVA_PREGUNTA.resx
+|   |       
+|   +---Promotores
+|   |       AgregarHuellas.cs
+|   |       ButtonImg.cs
+|   |       ButtonImg.Designer.cs
+|   |       DesignPromotores.cs
+|   |       ExploradorPromotores.cs
+|   |       FotografiaPromotor.cs
+|   |       KardexPerfil.cs
+|   |       PROMOTOR_VERIFICAR.cs
+|   |       
+|   +---Properties
+|   |   |   app.manifest
+|   |   |   AssemblyInfo.cs
+|   |   |   Resources.Designer.cs
+|   |   |   Resources.resx
+|   |   |   Settings.Designer.cs
+|   |   |   Settings.settings
+|   |   |   
+|   |   +---DataSources
+|   |   |       Desarrollo_Huellas.Reportes.REP_FOTOS_DATOS.datasource
+|   |   |       ObjectSHM.ServiceSHM.ActualizarPorCobro.datasource
+|   |   |       ObjectSHM.ServiceSHM.ActualizarPorCobro1.datasource
+|   |   |       ObjectSHM.ServiceSHM.CambioVendedor.datasource
+|   |   |       ObjectSHM.ServiceSHM.CD_CargaDeMovimientos.datasource
+|   |   |       ObjectSHM.ServiceSHM.Configuracion.datasource
+|   |   |       ObjectSHM.ServiceSHM.Configuracion1.datasource
+|   |   |       ObjectSHM.ServiceSHM.ConfiguracionVPN.datasource
+|   |   |       ObjectSHM.ServiceSHM.ConfiguracionVPN1.datasource
+|   |   |       ObjectSHM.ServiceSHM.Consultas.datasource
+|   |   |       ObjectSHM.ServiceSHM.Consultas1.datasource
+|   |   |       ObjectSHM.ServiceSHM.Datos_BF.datasource
+|   |   |       ObjectSHM.ServiceSHM.Datos_CadenaCoincidencia.datasource
+|   |   |       ObjectSHM.ServiceSHM.Datos_CteRelacion.datasource
+|   |   |       ObjectSHM.ServiceSHM.Datos_HistorialBF.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_AnalisisCondicionado.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_AsociadoContactos.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_AsociadoContactos1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_AutorizaConsulta.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_AutorizaConsulta1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_AutorizaConsulta2.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_BancosCteFinal.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_BancosCteFinal1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_CandadoFotos.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_CandadoFotos1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_CandadoRegCteFinal.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_CandadoRegCteFinal1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_ClieAtteConfigListOpc.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_Cliente.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_ClienteFinal.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_ClienteFinal1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_CoincidenciasCteFinal.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_CoincidenciasCteFinal1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_Credenciales.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_CteFingerSHM.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_DatosDimaR.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_DatosDimaR1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_DatosRecibos.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_DatosRecibos1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_DatosValera.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_DatosValera1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_DatosValera2.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_DATOS_SEGURO.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_DATOS_SEGURO1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_DetalleMovCteFinal.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_DetalleMovCteFinal1.datasource
+|   |   |       ObjectSHM.ServiceSHM.dc_DigitalizacionMovsVenta.datasource
+|   |   |       ObjectSHM.ServiceSHM.dc_DigitalizacionMovsVenta1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_DispersionConsulta.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_EditClientAttentionModel.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_EstadoCuenta.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_EstadoCuenta1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_FiltroColonias.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_FiltroColonias1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_FolioCalzado.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_FolioCalzado1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_FolioCalzado2.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_FotoNoPresente.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_FotoNoPresente1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_FotosQR.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_HuellaCliente.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_HuellaCliente1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_HuellaCliente2.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_ImagenesCargadas.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_ImagenesCargadas1.datasource
+|   |   |       ObjectSHM.ServiceSHM.dc_MatrizAutorizacion.datasource
+|   |   |       ObjectSHM.ServiceSHM.dc_MatrizAutorizacion1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_MaximoVales.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_MaximoVales1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_MotivosLiberacion.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_MotivosLiberacion1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_PreguntaSeguridad.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_PreguntaSeguridad1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_PreguntaSeguridad2.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_PreguntasSeguridadExtras.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_PreguntasSeguridadExtras1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_PreguntasSeguridadExtras2.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_RecibosPagos.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_RecibosPagos1.datasource
+|   |   |       ObjectSHM.ServiceSHM.dc_ReporteDeAutorizacion.datasource
+|   |   |       ObjectSHM.ServiceSHM.dc_ReporteDeAutorizacion1.datasource
+|   |   |       ObjectSHM.ServiceSHM.dc_ReporteDigitalizacion.datasource
+|   |   |       ObjectSHM.ServiceSHM.dc_ReporteDigitalizacion1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_Reporte_Cambio_Estatus_Huella.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_Reporte_Cambio_Estatus_Huella1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_SetIDcancelacionS.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_SetIDcancelacionS1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_Telefono.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_Ubicacion.datasource
+|   |   |       ObjectSHM.ServiceSHM.DC_Ubicacion1.datasource
+|   |   |       ObjectSHM.ServiceSHM.dc_UsuariosDigitalizacion.datasource
+|   |   |       ObjectSHM.ServiceSHM.dc_UsuariosDigitalizacion1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DocumentosValidados.datasource
+|   |   |       ObjectSHM.ServiceSHM.DocumentosValidados1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DT_CambioDomicilio.datasource
+|   |   |       ObjectSHM.ServiceSHM.DT_CambioDomicilio1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DT_CambioDomicilio2.datasource
+|   |   |       ObjectSHM.ServiceSHM.DT_ClaveINTL.datasource
+|   |   |       ObjectSHM.ServiceSHM.DT_DireccionCliente.datasource
+|   |   |       ObjectSHM.ServiceSHM.DT_DireccionCliente1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DT_DireccionCliente2.datasource
+|   |   |       ObjectSHM.ServiceSHM.DT_ReporteCambiosDomicilio.datasource
+|   |   |       ObjectSHM.ServiceSHM.DT_ReporteCambiosDomicilio1.datasource
+|   |   |       ObjectSHM.ServiceSHM.DT_ReporteCambiosDomicilio2.datasource
+|   |   |       ObjectSHM.ServiceSHM.ExisteDocumentoClass.datasource
+|   |   |       ObjectSHM.ServiceSHM.ExploradorCargaMovimientos.datasource
+|   |   |       ObjectSHM.ServiceSHM.FormatoHojaVerde.datasource
+|   |   |       ObjectSHM.ServiceSHM.FormatoHojaVerde1.datasource
+|   |   |       ObjectSHM.ServiceSHM.HistoricoActualizacionDocumentos.datasource
+|   |   |       ObjectSHM.ServiceSHM.HistoricoActualizacionDocumentos1.datasource
+|   |   |       ObjectSHM.ServiceSHM.historicoValidacion.datasource
+|   |   |       ObjectSHM.ServiceSHM.historicoValidacion1.datasource
+|   |   |       ObjectSHM.ServiceSHM.HojaVerde.datasource
+|   |   |       ObjectSHM.ServiceSHM.ImgPorCobro.datasource
+|   |   |       ObjectSHM.ServiceSHM.ImgPorCobro1.datasource
+|   |   |       ObjectSHM.ServiceSHM.ListaCargaDoc.datasource
+|   |   |       ObjectSHM.ServiceSHM.ListaCargaDoc1.datasource
+|   |   |       ObjectSHM.ServiceSHM.ListActCob.datasource
+|   |   |       ObjectSHM.ServiceSHM.ListActCob1.datasource
+|   |   |       ObjectSHM.ServiceSHM.ListaHuellasEnCaja.datasource
+|   |   |       ObjectSHM.ServiceSHM.ListaHuellasEnCaja1.datasource
+|   |   |       ObjectSHM.ServiceSHM.ListaHuellasEnCaja2.datasource
+|   |   |       ObjectSHM.ServiceSHM.ListCertifi.datasource
+|   |   |       ObjectSHM.ServiceSHM.ListCertifi1.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_AccesoHojaVerde.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_AccesoPerfiles.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_AccesoPerfiles1.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_BoletaBFExplorador.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_BoletasBF.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_BoletasBF1.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_Cambio_Vendedor_Dima.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_CatalogoDocumentos.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_Cliente_HV.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_ConfDepuracion.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_Contacto_HV.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_Departamento.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_Departamento1.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_DimR.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_DimR1.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_Documentos.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_Documentos1.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_DocumentosAdjuntos.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_DocumentosAdjuntos1.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_Excluir_DepartamentoPuesto_Red_Dima.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_Falla_Huella.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_HuellaPersonal.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_Movimientos.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_Movimientos1.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_ReporteDocumentosCargados.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_Sucursal.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_Sucursal1.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_SucursalExcenta.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_SucursalExcenta1.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_TipoBF.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_TipoBF1.datasource
+|   |   |       ObjectSHM.ServiceSHM.M_ValidacionTelefonica.datasource
+|   |   |       ObjectSHM.ServiceSHM.Perfiles.datasource
+|   |   |       ObjectSHM.ServiceSHM.PrecargarDatos.datasource
+|   |   |       ObjectSHM.ServiceSHM.PrecargarDatos1.datasource
+|   |   |       ObjectSHM.ServiceSHM.RegistroChecada.datasource
+|   |   |       ObjectSHM.ServiceSHM.RegistroChecada1.datasource
+|   |   |       ObjectSHM.ServiceSHM.RegistroImagenes.datasource
+|   |   |       ObjectSHM.ServiceSHM.RegistroImagenes1.datasource
+|   |   |       ObjectSHM.ServiceSHM.ReporteHuellasIlegibles.datasource
+|   |   |       ObjectSHM.ServiceSHM.ReporteHuellasIlegibles1.datasource
+|   |   |       ObjectSHM.ServiceSHM.SolicitudCliente.datasource
+|   |   |       ObjectSHM.ServiceSHM.SolicitudCliente1.datasource
+|   |   |       System.Drawing.Bitmap.datasource
+|   |   |       
+|   |   \---respaldo
+|   |           Resources.Designer.cs
+|   |           Resources.resx
+|   |           
+|   +---Reportes
+|   |       Color.cs
+|   |       formReporteCargaDocumentos.cs
+|   |       formReporteCargaDocumentos.Designer.cs
+|   |       formReporteCargaDocumentos.resx
+|   |       FRM_AUTORIZA_CAMBIO_DIMA.cs
+|   |       FRM_AUTORIZA_CAMBIO_DIMA.Designer.cs
+|   |       FRM_AUTORIZA_CAMBIO_DIMA.resx
+|   |       FRM_AUTORIZA_POR_FALLA_HUELLA.cs
+|   |       FRM_AUTORIZA_POR_FALLA_HUELLA.Designer.cs
+|   |       FRM_AUTORIZA_POR_FALLA_HUELLA.resx
+|   |       FRM_HistoricoBoletaBF.cs
+|   |       FRM_HistoricoBoletaBF.Designer.cs
+|   |       FRM_HistoricoBoletaBF.resx
+|   |       FRM_Reporte_DimR.cs
+|   |       FRM_Reporte_DimR.Designer.cs
+|   |       FRM_Reporte_DimR.resx
+|   |       FRM_Reporte_Telefonica.cs
+|   |       FRM_Reporte_Telefonica.Designer.cs
+|   |       FRM_Reporte_Telefonica.resx
+|   |       
+|   +---Resources
+|   |       access_32x32.png
+|   |       Acept.png
+|   |       Aceptar.png
+|   |       Aceptar1.png
+|   |       AceptGay.png
+|   |       AceptGreen.png
+|   |       actualizar.png
+|   |       ActualizarL.PNG
+|   |       ActualizarM.PNG
+|   |       add.png
+|   |       AgregarL.PNG
+|   |       AgregarM.PNG
+|   |       anadir.png
+|   |       anadir1.png
+|   |       archivos-adjuntos.png
+|   |       arrowhead-pointing-to-the-right.png
+|   |       arrowSelector.png
+|   |       bionic-eye.png
+|   |       Blanco.png
+|   |       boton-eliminar.png
+|   |       botSiguiente.png
+|   |       Buscar.png
+|   |       call_center_32x32.png
+|   |       camara3.png
+|   |       Camera-16.png
+|   |       cancel.png
+|   |       Cancelar-16.png
+|   |       CancelRed.png
+|   |       cancel_foto_1.png
+|   |       Candado-16.png
+|   |       cargando.gif
+|   |       cargandoCam.gif
+|   |       CerrarL.PNG
+|   |       CerrarM.PNG
+|   |       Check.png
+|   |       checked.png
+|   |       Close.png
+|   |       codigo-qr.png
+|   |       CodigoRecomendador MA.jpeg
+|   |       CodigoRecomendador VIU.jpeg.jpg
+|   |       coin_image.png
+|   |       Comprobar- 16.png
+|   |       configureRutas.xml
+|   |       cvs.png
+|   |       delete.png
+|   |       diskette (1).png
+|   |       diskette.png
+|   |       documento-con-marca-de-verificacion.png
+|   |       download.png
+|   |       Enviando.gif
+|   |       espera.gif
+|   |       exportando-archivo 32.png
+|   |       exportando-archivo.png
+|   |       exportar.png
+|   |       ExportarC.png
+|   |       ExportarL.png
+|   |       ExportarM.png
+|   |       Exportarpdf.png
+|   |       eye (1).png
+|   |       eye.png
+|   |       find.png
+|   |       finger-tap.png
+|   |       FingerL.PNG
+|   |       FingerM.PNG
+|   |       fist (1).png
+|   |       fist (1)1.png
+|   |       focus (1).png
+|   |       focus.png
+|   |       GradientBottom.png
+|   |       GradientTop.png
+|   |       Guardar-16.png
+|   |       hand (1).png
+|   |       hand (1)1.png
+|   |       hand.png
+|   |       hojaver.png
+|   |       image.png
+|   |       imagen.png
+|   |       impresora.png
+|   |       KardexL.PNG
+|   |       KardexM.PNG
+|   |       left-arrow.png
+|   |       Loading.gif
+|   |       load_200x200.png
+|   |       lock_32x32.png
+|   |       lock_gray_32x32.png
+|   |       MA.jpg
+|   |       magnifying-glass-zoom-in.png
+|   |       magnifying-glass-zoom-in1.png
+|   |       magnifying-glass.png
+|   |       mas.png
+|   |       match.png
+|   |       MaximizarL.PNG
+|   |       MaximizarM.PNG
+|   |       menos.png
+|   |       menos1.png
+|   |       MHV.png
+|   |       MinimizarL.PNG
+|   |       MinimizarM.PNG
+|   |       minus.png
+|   |       mobile_change_32x32.png
+|   |       mobile_change_gray_32x32.png
+|   |       ModificarL.PNG
+|   |       ModificarM.PNG
+|   |       mueblesamerica.png
+|   |       mueblesamerica_mundo.png
+|   |       multiply.png
+|   |       multiply1.png
+|   |       ok_foto_1.png
+|   |       opcionesL.png
+|   |       opcionesL1.png
+|   |       opcionesL2.png
+|   |       opcionesL3.png
+|   |       opcionesL4.png
+|   |       opcionesM.png
+|   |       opcionesM1.png
+|   |       opcionesM2.png
+|   |       opcionesM3.png
+|   |       opcionesM4.png
+|   |       opcionesS.png
+|   |       opcionesS1.png
+|   |       opcionesS2.png
+|   |       opcionesS3.png
+|   |       opcionesS4.png
+|   |       opcionesSM.PNG
+|   |       opcionesSM1.png
+|   |       opcionesSM2.png
+|   |       opcionesSM3.png
+|   |       opcionesSM4.png
+|   |       OrillaDown.png
+|   |       OrillaUp.png
+|   |       pdf.png
+|   |       PerfilL.png
+|   |       perfilM.PNG
+|   |       pulgar.png
+|   |       Puntos-16.png
+|   |       QR128.png
+|   |       QRnuevo.png
+|   |       reutilizar.png
+|   |       reutilizar16.png
+|   |       reutilizar24.png
+|   |       Save.png
+|   |       save_32x32.png
+|   |       sd-card.png
+|   |       Search-16.png
+|   |       search_32x32.png
+|   |       selection_hand_32x32.png
+|   |       selection_hand_gray_32x32.png
+|   |       seo 32.png
+|   |       SHM.jpg
+|   |       shutter.png
+|   |       SiguienteL.png
+|   |       SiguienteL1.png
+|   |       SiguienteM.png
+|   |       SiguienteM1.png
+|   |       SiguienteV.png
+|   |       sobresalir.png
+|   |       switch (1).png
+|   |       switch.png
+|   |       template1.png
+|   |       template1_old.png
+|   |       template1_sinFondo.png
+|   |       template2.png
+|   |       template2_old.png
+|   |       template2_sinFondo.png
+|   |       template3.png
+|   |       template3_old.png
+|   |       template3_sinFondo.png
+|   |       Titulo_Promo.png
+|   |       Toggle.PNG
+|   |       trash.png
+|   |       turn (1).png
+|   |       turn (1)1.png
+|   |       turn.png
+|   |       turn1.png
+|   |       unchecked (1).png
+|   |       untitled.png
+|   |       verificar_asociados.png
+|   |       verificar_huellaReimp.png
+|   |       VN1.png
+|   |       VN2.png
+|   |       VN3.png
+|   |       warning.png
+|   |       X.png
+|   |       X1.png
+|   |       zoom-out.png
+|   |       zoom-out1.png
+|   |       
+|   +---Service References
+|   |   +---ServiceReference1
+|   |   |       configuration.svcinfo
+|   |   |       configuration91.svcinfo
+|   |   |       FingerFinder.disco
+|   |   |       FingerFinder.xsd
+|   |   |       FingerFinder1.disco
+|   |   |       FingerFinder1.xsd
+|   |   |       FingerFinder10.xsd
+|   |   |       FingerFinder11.xsd
+|   |   |       FingerFinder12.xsd
+|   |   |       FingerFinder13.xsd
+|   |   |       FingerFinder14.xsd
+|   |   |       FingerFinder15.xsd
+|   |   |       FingerFinder16.xsd
+|   |   |       FingerFinder17.xsd
+|   |   |       FingerFinder18.xsd
+|   |   |       FingerFinder19.xsd
+|   |   |       FingerFinder2.xsd
+|   |   |       FingerFinder20.xsd
+|   |   |       FingerFinder21.xsd
+|   |   |       FingerFinder22.xsd
+|   |   |       FingerFinder23.xsd
+|   |   |       FingerFinder24.xsd
+|   |   |       FingerFinder25.xsd
+|   |   |       FingerFinder3.xsd
+|   |   |       FingerFinder4.xsd
+|   |   |       FingerFinder5.xsd
+|   |   |       FingerFinder6.xsd
+|   |   |       FingerFinder7.xsd
+|   |   |       FingerFinder8.xsd
+|   |   |       FingerFinder9.xsd
+|   |   |       Reference.cs
+|   |   |       Reference.svcmap
+|   |   |       Service1.wsdl
+|   |   |       Service11.wsdl
+|   |   |       
+|   |   \---ServicioDispersiones
+|   |           configuration.svcinfo
+|   |           configuration91.svcinfo
+|   |           Reference.cs
+|   |           Reference.svcmap
+|   |           SHM.ServicioDispersiones.MResultado.datasource
+|   |           SHM.ServicioDispersiones.Respuesta.datasource
+|   |           WLANServicioSTP1.disco
+|   |           WLANServicioSTP1.wsdl
+|   |           WLANServicioSTP11.disco
+|   |           
+|   +---SqlServerTypes
+|   |       Loader.cs
+|   |       readme.htm
+|   |       
+|   \---venta_vales
+|       |   ClassEan13.cs
+|       |   Cobros.cs
+|       |   Coordenadas.cs
+|       |   datosEstado.cs
+|       |   DatosVale.cs
+|       |   Folio.cs
+|       |   FoliosVales - copia.cs
+|       |   FoliosVales.cs
+|       |   FRM_ACTUALIZAR_NIPS.cs
+|       |   FRM_ACTUALIZAR_NIPS.Designer.cs
+|       |   FRM_ACTUALIZAR_NIPS.resx
+|       |   FRM_ACTUALIZA_MAX_VALES.cs
+|       |   FRM_ACTUALIZA_MAX_VALES.Designer.cs
+|       |   FRM_ACTUALIZA_MAX_VALES.resx
+|       |   FRM_ACTUALIZA_NIP.cs
+|       |   FRM_ACTUALIZA_NIP.Designer.cs
+|       |   FRM_ACTUALIZA_NIP.resx
+|       |   FRM_COBROSDIMA.cs
+|       |   FRM_COBROSDIMA.Designer.cs
+|       |   FRM_COBROSDIMA.resx
+|       |   FRM_EST_CTA.cs
+|       |   FRM_EST_CTA.Designer.cs
+|       |   FRM_EST_CTA.resx
+|       |   FRM_FOTO_CLIENTE.cs
+|       |   FRM_FOTO_CLIENTE.Designer.cs
+|       |   FRM_FOTO_CLIENTE.resx
+|       |   FRM_GENERAR_VALES.cs
+|       |   FRM_GENERAR_VALES.Designer.cs
+|       |   FRM_GENERAR_VALES.resx
+|       |   FRM_IMPRESION_VALES.cs
+|       |   FRM_IMPRESION_VALES.Designer.cs
+|       |   FRM_IMPRESION_VALES.resx
+|       |   FRM_NIPS_VALES.cs
+|       |   FRM_NIPS_VALES.Designer.cs
+|       |   FRM_NIPS_VALES.resx
+|       |   FRM_NIP_RCOBROS.cs
+|       |   FRM_NIP_RCOBROS.Designer.cs
+|       |   FRM_NIP_RCOBROS.resx
+|       |   FRM_PERIODICIDAD_COB.cs
+|       |   FRM_PERIODICIDAD_COB.Designer.cs
+|       |   FRM_PERIODICIDAD_COB.resx
+|       |   FRM_REIMPRIMIR_VALES.cs
+|       |   FRM_REIMPRIMIR_VALES.Designer.cs
+|       |   FRM_REIMPRIMIR_VALES.resx
+|       |   FRM_REPORTE_GRAL_VALES.cs
+|       |   FRM_REPORTE_GRAL_VALES.Designer.cs
+|       |   FRM_REPORTE_GRAL_VALES.resx
+|       |   FRM_VALIDAHUELLA_REIMP.cs
+|       |   FRM_VALIDAHUELLA_REIMP.Designer.cs
+|       |   FRM_VALIDAHUELLA_REIMP.resx
+|       |   Imagenes.cs
+|       |   IValidaHuellaReimp.cs
+|       |   MessagesTitles.Designer.cs
+|       |   MessagesTitles.resx
+|       |   sf.cs
+|       |   
+|       +---ClientAttentionForm
+|       |   |   ClientAttentionForm.cs
+|       |   |   ClientAttentionForm.Designer.cs
+|       |   |   ClientAttentionForm.resx
+|       |   |   Message.cs
+|       |   |   Owner.cs
+|       |   |   
+|       |   +---Forms
+|       |   |       BaseMetro.cs
+|       |   |       BaseMetro.Designer.cs
+|       |   |       BaseMetro.resx
+|       |   |       LoadingScreen.cs
+|       |   |       LoadingScreen.Designer.cs
+|       |   |       LoadingScreen.resx
+|       |   |       
+|       |   +---Forms.ClientAttention
+|       |   |       CaptureCode.cs
+|       |   |       CaptureCode.Designer.cs
+|       |   |       CaptureCode.resx
+|       |   |       CaptureForm.cs
+|       |   |       CaptureForm.Designer.cs
+|       |   |       CaptureForm.resx
+|       |   |       SearchClientForm.cs
+|       |   |       SearchClientForm.Designer.cs
+|       |   |       SearchClientForm.resx
+|       |   |       
+|       |   \---Forms.UserControls
+|       |           CheckBoxMAVI.cs
+|       |           LoadingCircleMavi.cs
+|       |           LoadingCircleMavi.Designer.cs
+|       |           LoadingCircleMavi.resx
+|       |           PictureBoxIM.cs
+|       |           
+|       +---Controlador
+|       |       Ctrl_CodigoRecomendador.cs
+|       |       Ctrl_NIP.cs
+|       |       
+|       \---Modelo
+|               CoordeCodiRecoMA.cs
+|               CordenadasCodigoReco.cs
+|               RespuestaNIP.cs
+|               
++---NDependOut
+|   |   InfoWarnings.xml
+|   |   NDependAnalysisResult_Desarrollo_Huellas_2022Oct14_17h50.ndar
+|   |   NDependReport.html
+|   |   
+|   +---2022_10
+|   |   \---14_17_50
+|   |       |   InfoWarnings.xml
+|   |       |   NDependAnalysisResult_Desarrollo_Huellas_2022Oct14_17h50.ndar
+|   |       |   NDependReport.html
+|   |       |   
+|   |       \---NDependReportFiles
+|   |               AbstractnessVSInstability.png
+|   |               assembly.png
+|   |               class.png
+|   |               ComponentDependenciesDiagram.png
+|   |               ComponentDependenciesMatrix.png
+|   |               controls.png
+|   |               ctor.png
+|   |               delegate.png
+|   |               dropdown.png
+|   |               Empty.png
+|   |               enum.png
+|   |               Error.png
+|   |               field.png
+|   |               filter.png
+|   |               FilterBlue.png
+|   |               FilterBlueBig.png
+|   |               filter_down.png
+|   |               filter_up.png
+|   |               GroupHierarchy.png
+|   |               Idea.png
+|   |               Info.png
+|   |               InfoBig.png
+|   |               interface.png
+|   |               literal.png
+|   |               li_square.png
+|   |               li_triangle.png
+|   |               loading.gif
+|   |               logo.png
+|   |               menu_black.png
+|   |               menu_black_close.png
+|   |               menu_gray.png
+|   |               menu_white.png
+|   |               method.png
+|   |               namespace.png
+|   |               NDependReport.css
+|   |               NDependReport.js
+|   |               NDependVersion.xml
+|   |               NewIssue.png
+|   |               Ok.png
+|   |               property-get.png
+|   |               property-set.png
+|   |               QGFail.png
+|   |               QGPass.png
+|   |               QGWarn.png
+|   |               search.png
+|   |               Severity_Blocker.png
+|   |               Severity_Critical.png
+|   |               Severity_High.png
+|   |               Severity_Low.png
+|   |               Severity_Medium.png
+|   |               StatusBigOk.png
+|   |               StatusError.png
+|   |               StatusQGFail.png
+|   |               StatusQGPass.png
+|   |               StatusQGWarn.png
+|   |               StatusWarning.png
+|   |               StatusWarningCritical.png
+|   |               struct.png
+|   |               TinyAbstractnessVSInstability.png
+|   |               TinyComponentDependenciesDiagram.png
+|   |               TinyComponentDependenciesMatrix.png
+|   |               TinyVisualNDependView.png
+|   |               Trend.png
+|   |               TrendIconGrayConstant.png
+|   |               TrendIconGrayDown.png
+|   |               TrendIconGrayUp.png
+|   |               TrendIconGreenDown.png
+|   |               TrendIconGreenUp.png
+|   |               TrendIconRedDown.png
+|   |               TrendIconRedUp.png
+|   |               VisualNDependView.png
+|   |               VSLogo.png
+|   |               Warning.png
+|   |               WarningCritical.png
+|   |               
+|   +---NDependReportFiles
+|   |       AbstractnessVSInstability.png
+|   |       assembly.png
+|   |       class.png
+|   |       ComponentDependenciesDiagram.png
+|   |       ComponentDependenciesMatrix.png
+|   |       controls.png
+|   |       ctor.png
+|   |       delegate.png
+|   |       dropdown.png
+|   |       Empty.png
+|   |       enum.png
+|   |       Error.png
+|   |       field.png
+|   |       filter.png
+|   |       FilterBlue.png
+|   |       FilterBlueBig.png
+|   |       filter_down.png
+|   |       filter_up.png
+|   |       GroupHierarchy.png
+|   |       Idea.png
+|   |       Info.png
+|   |       InfoBig.png
+|   |       interface.png
+|   |       literal.png
+|   |       li_square.png
+|   |       li_triangle.png
+|   |       loading.gif
+|   |       logo.png
+|   |       menu_black.png
+|   |       menu_black_close.png
+|   |       menu_gray.png
+|   |       menu_white.png
+|   |       method.png
+|   |       namespace.png
+|   |       NDependReport.css
+|   |       NDependReport.js
+|   |       NDependVersion.xml
+|   |       NewIssue.png
+|   |       Ok.png
+|   |       property-get.png
+|   |       property-set.png
+|   |       QGFail.png
+|   |       QGPass.png
+|   |       QGWarn.png
+|   |       search.png
+|   |       Severity_Blocker.png
+|   |       Severity_Critical.png
+|   |       Severity_High.png
+|   |       Severity_Low.png
+|   |       Severity_Medium.png
+|   |       StatusBigOk.png
+|   |       StatusError.png
+|   |       StatusQGFail.png
+|   |       StatusQGPass.png
+|   |       StatusQGWarn.png
+|   |       StatusWarning.png
+|   |       StatusWarningCritical.png
+|   |       struct.png
+|   |       TinyAbstractnessVSInstability.png
+|   |       TinyComponentDependenciesDiagram.png
+|   |       TinyComponentDependenciesMatrix.png
+|   |       TinyVisualNDependView.png
+|   |       Trend.png
+|   |       TrendIconGrayConstant.png
+|   |       TrendIconGrayDown.png
+|   |       TrendIconGrayUp.png
+|   |       TrendIconGreenDown.png
+|   |       TrendIconGreenUp.png
+|   |       TrendIconRedDown.png
+|   |       TrendIconRedUp.png
+|   |       VisualNDependView.png
+|   |       VSLogo.png
+|   |       Warning.png
+|   |       WarningCritical.png
+|   |       
+|   \---TrendMetrics
+|           NDependTrendData2022.xml
+|           
+\---packages
+    |   repositories.config
+    |   
+    +---MessagingToolkit.QRCode.1.3.0
+    |   |   .signature.p7s
+    |   |   MessagingToolkit.QRCode.1.3.0.nupkg
+    |   |   
+    |   \---lib
+    |           MessagingToolkit.QRCode.dll
+    |           
+    +---MetroFramework.1.2.0.3
+    |   |   MetroFramework.1.2.0.3.nupkg
+    |   |   README.TXT
+    |   |   
+    |   \---Content
+    |           MetroFramework.txt
+    |           
+    +---MetroFramework.Design.1.2.0.3
+    |   |   MetroFramework.Design.1.2.0.3.nupkg
+    |   |   README.TXT
+    |   |   
+    |   +---lib
+    |   |   \---net40
+    |   |           MetroFramework.Design.dll
+    |   |           
+    |   \---Tools
+    |           install.ps1
+    |           
+    +---MetroFramework.Fonts.1.2.0.3
+    |   |   MetroFramework.Fonts.1.2.0.3.nupkg
+    |   |   README.TXT
+    |   |   
+    |   \---lib
+    |       \---net40
+    |               MetroFramework.Fonts.dll
+    |               
+    +---MetroFramework.RunTime.1.2.0.3
+    |   |   MetroFramework.RunTime.1.2.0.3.nupkg
+    |   |   README.TXT
+    |   |   
+    |   \---lib
+    |       \---net40-Client
+    |               MetroFramework.dll
+    |               
+    +---MetroModernUI.1.4.0.0
+    |   |   MetroModernUI.1.4.0.0.nupkg
+    |   |   
+    |   \---lib
+    |       \---net
+    |               MetroFramework.Design.dll
+    |               MetroFramework.dll
+    |               MetroFramework.Fonts.dll
+    |               
+    +---Microsoft.Bcl.1.1.8
+    |   |   .signature.p7s
+    |   |   License-Stable.rtf
+    |   |   Microsoft.Bcl.1.1.8.nupkg
+    |   |   
+    |   +---content
+    |   |   +---net45
+    |   |   |       _._
+    |   |   |       
+    |   |   +---portable-net45+win8+wp8+wpa81
+    |   |   |       _._
+    |   |   |       
+    |   |   +---portable-net45+win8+wpa81
+    |   |   |       _._
+    |   |   |       
+    |   |   +---portable-net451+win81
+    |   |   |       _._
+    |   |   |       
+    |   |   +---portable-net451+win81+wpa81
+    |   |   |       _._
+    |   |   |       
+    |   |   +---portable-win81+wp81+wpa81
+    |   |   |       _._
+    |   |   |       
+    |   |   +---sl4
+    |   |   |       _._
+    |   |   |       
+    |   |   +---sl5
+    |   |   |       _._
+    |   |   |       
+    |   |   +---win8
+    |   |   |       _._
+    |   |   |       
+    |   |   +---wp8
+    |   |   |       _._
+    |   |   |       
+    |   |   \---wpa81
+    |   |           _._
+    |   |           
+    |   \---lib
+    |       +---net40
+    |       |       ensureRedirect.xml
+    |       |       System.IO.dll
+    |       |       System.IO.xml
+    |       |       System.Runtime.dll
+    |       |       System.Runtime.xml
+    |       |       System.Threading.Tasks.dll
+    |       |       System.Threading.Tasks.xml
+    |       |       
+    |       +---net45
+    |       |       _._
+    |       |       
+    |       +---portable-net40+sl4+win8
+    |       |       ensureRedirect.xml
+    |       |       System.IO.dll
+    |       |       System.IO.xml
+    |       |       System.Runtime.dll
+    |       |       System.Runtime.xml
+    |       |       System.Threading.Tasks.dll
+    |       |       System.Threading.Tasks.xml
+    |       |       
+    |       +---portable-net40+sl4+win8+wp71+wpa81
+    |       |       ensureRedirect.xml
+    |       |       System.IO.dll
+    |       |       System.IO.xml
+    |       |       System.Runtime.dll
+    |       |       System.Runtime.xml
+    |       |       System.Threading.Tasks.dll
+    |       |       System.Threading.Tasks.xml
+    |       |       
+    |       +---portable-net40+sl4+win8+wp8+wpa81
+    |       |       ensureRedirect.xml
+    |       |       System.IO.dll
+    |       |       System.IO.xml
+    |       |       System.Runtime.dll
+    |       |       System.Runtime.xml
+    |       |       System.Threading.Tasks.dll
+    |       |       System.Threading.Tasks.xml
+    |       |       
+    |       +---portable-net40+sl5+win8+wp8+wpa81
+    |       |       ensureRedirect.xml
+    |       |       System.IO.dll
+    |       |       System.IO.xml
+    |       |       System.Runtime.dll
+    |       |       System.Runtime.xml
+    |       |       System.Threading.Tasks.dll
+    |       |       System.Threading.Tasks.xml
+    |       |       
+    |       +---portable-net40+win8
+    |       |       ensureRedirect.xml
+    |       |       System.IO.dll
+    |       |       System.IO.xml
+    |       |       System.Runtime.dll
+    |       |       System.Runtime.xml
+    |       |       System.Threading.Tasks.dll
+    |       |       System.Threading.Tasks.xml
+    |       |       
+    |       +---portable-net40+win8+wp8+wpa81
+    |       |       ensureRedirect.xml
+    |       |       System.IO.dll
+    |       |       System.IO.xml
+    |       |       System.Runtime.dll
+    |       |       System.Runtime.xml
+    |       |       System.Threading.Tasks.dll
+    |       |       System.Threading.Tasks.xml
+    |       |       
+    |       +---portable-net45+win8+wp8+wpa81
+    |       |       _._
+    |       |       
+    |       +---portable-net45+win8+wpa81
+    |       |       _._
+    |       |       
+    |       +---portable-net451+win81
+    |       |       _._
+    |       |       
+    |       +---portable-net451+win81+wpa81
+    |       |       _._
+    |       |       
+    |       +---portable-win81+wp81+wpa81
+    |       |       _._
+    |       |       
+    |       +---sl4
+    |       |       System.IO.dll
+    |       |       System.IO.xml
+    |       |       System.Runtime.dll
+    |       |       System.Runtime.xml
+    |       |       System.Threading.Tasks.dll
+    |       |       System.Threading.Tasks.xml
+    |       |       
+    |       +---sl4-windowsphone71
+    |       |       ensureRedirect.xml
+    |       |       System.IO.dll
+    |       |       System.IO.xml
+    |       |       System.Runtime.dll
+    |       |       System.Runtime.xml
+    |       |       System.Threading.Tasks.dll
+    |       |       System.Threading.Tasks.xml
+    |       |       
+    |       +---sl5
+    |       |       System.IO.dll
+    |       |       System.IO.xml
+    |       |       System.Runtime.dll
+    |       |       System.Runtime.xml
+    |       |       System.Threading.Tasks.dll
+    |       |       System.Threading.Tasks.xml
+    |       |       
+    |       +---win8
+    |       |       _._
+    |       |       
+    |       +---wp8
+    |       |       _._
+    |       |       
+    |       \---wpa81
+    |               _._
+    |               
+    +---Microsoft.Bcl.Async.1.0.168
+    |   |   .signature.p7s
+    |   |   License-Stable.rtf
+    |   |   Microsoft.Bcl.Async.1.0.168.nupkg
+    |   |   
+    |   \---lib
+    |       +---net40
+    |       |       Microsoft.Threading.Tasks.dll
+    |       |       Microsoft.Threading.Tasks.Extensions.Desktop.dll
+    |       |       Microsoft.Threading.Tasks.Extensions.Desktop.xml
+    |       |       Microsoft.Threading.Tasks.Extensions.dll
+    |       |       Microsoft.Threading.Tasks.Extensions.xml
+    |       |       Microsoft.Threading.Tasks.xml
+    |       |       
+    |       +---portable-net40+sl4+win8+wp71+wpa81
+    |       |       Microsoft.Threading.Tasks.dll
+    |       |       Microsoft.Threading.Tasks.Extensions.dll
+    |       |       Microsoft.Threading.Tasks.Extensions.xml
+    |       |       Microsoft.Threading.Tasks.xml
+    |       |       
+    |       +---portable-net45+win8+wp8+wpa81
+    |       |       Microsoft.Threading.Tasks.dll
+    |       |       Microsoft.Threading.Tasks.Extensions.dll
+    |       |       Microsoft.Threading.Tasks.Extensions.xml
+    |       |       Microsoft.Threading.Tasks.xml
+    |       |       
+    |       +---portable-net45+win8+wpa81
+    |       |       Microsoft.Threading.Tasks.dll
+    |       |       Microsoft.Threading.Tasks.Extensions.dll
+    |       |       Microsoft.Threading.Tasks.Extensions.xml
+    |       |       Microsoft.Threading.Tasks.xml
+    |       |       
+    |       +---sl4
+    |       |       Microsoft.Threading.Tasks.dll
+    |       |       Microsoft.Threading.Tasks.Extensions.dll
+    |       |       Microsoft.Threading.Tasks.Extensions.Silverlight.dll
+    |       |       Microsoft.Threading.Tasks.Extensions.Silverlight.xml
+    |       |       Microsoft.Threading.Tasks.Extensions.xml
+    |       |       Microsoft.Threading.Tasks.xml
+    |       |       
+    |       +---sl4-windowsphone71
+    |       |       Microsoft.Threading.Tasks.dll
+    |       |       Microsoft.Threading.Tasks.Extensions.dll
+    |       |       Microsoft.Threading.Tasks.Extensions.Phone.dll
+    |       |       Microsoft.Threading.Tasks.Extensions.Phone.xml
+    |       |       Microsoft.Threading.Tasks.Extensions.xml
+    |       |       Microsoft.Threading.Tasks.xml
+    |       |       
+    |       +---win8
+    |       |       Microsoft.Threading.Tasks.dll
+    |       |       Microsoft.Threading.Tasks.Extensions.dll
+    |       |       Microsoft.Threading.Tasks.Extensions.xml
+    |       |       Microsoft.Threading.Tasks.xml
+    |       |       
+    |       +---wp8
+    |       |       Microsoft.Threading.Tasks.dll
+    |       |       Microsoft.Threading.Tasks.Extensions.dll
+    |       |       Microsoft.Threading.Tasks.Extensions.Phone.dll
+    |       |       Microsoft.Threading.Tasks.Extensions.Phone.xml
+    |       |       Microsoft.Threading.Tasks.Extensions.xml
+    |       |       Microsoft.Threading.Tasks.xml
+    |       |       
+    |       \---wpa81
+    |               Microsoft.Threading.Tasks.dll
+    |               Microsoft.Threading.Tasks.Extensions.dll
+    |               Microsoft.Threading.Tasks.Extensions.xml
+    |               Microsoft.Threading.Tasks.xml
+    |               
+    \---Microsoft.Bcl.Build.1.0.14
+        |   .signature.p7s
+        |   License-Stable.rtf
+        |   Microsoft.Bcl.Build.1.0.14.nupkg
+        |   
+        +---content
+        |   +---net40
+        |   |       _._
+        |   |       
+        |   +---netcore45
+        |   |       _._
+        |   |       
+        |   +---portable-net40+win8+sl4+wp71+wpa81
+        |   |       _._
+        |   |       
+        |   +---sl4
+        |   |       _._
+        |   |       
+        |   \---sl4-windowsphone71
+        |           _._
+        |           
+        \---tools
+                Install.ps1
+                Microsoft.Bcl.Build.targets
+                Microsoft.Bcl.Build.Tasks.dll
+                Uninstall.ps1
+                

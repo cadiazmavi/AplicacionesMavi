@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.7.12:1", "", "ControlCamaraAdjuntar", "EARoot/EA7/EA12/EA545.htm", "175.png", "99", "0", "", "Logical diagram0","{0248552A-EA4F-4391-A2A4-AFAC39F4DD21}");
+tocTab[tocTab.length] = new Array("0.7.12:2", "", "ControlCamara", "EARoot/EA7/EA12/EA548.htm", "5.png", "E1716", "0", "", "Class0","{EE5A9B20-EC16-40cb-B708-A179553890F2}");
+tocTab[tocTab.length] = new Array("0.7.12:3", "", "FotoDoc", "EARoot/EA7/EA12/EA549.htm", "5.png", "E1717", "0", "", "Class0","{4C7BC8DB-1243-4d07-8863-AC231F103CAD}");
+tocTab[tocTab.length] = new Array("0.7.12:4", "", "IFotoDoc", "EARoot/EA7/EA12/EA550.htm", "8.png", "E1718", "0", "", "Interface0","{77AE2661-5C3F-4a76-8CCC-85A8602F04D5}");
+tocTab[tocTab.length] = new Array("0.7.12:5", "", "IFotoDocum", "EARoot/EA7/EA12/EA551.htm", "5.png", "E1719", "0", "", "Class0","{F97AA5A9-71BE-4d92-864B-56984B5C3088}");
+tocTab[tocTab.length] = new Array("0.7.12:6", "", "IFotoDocum", "EARoot/EA7/EA12/EA552.htm", "5.png", "E1720", "0", "", "Class0","{D0441122-BD32-4653-8CA8-27AA772E8DFD}");

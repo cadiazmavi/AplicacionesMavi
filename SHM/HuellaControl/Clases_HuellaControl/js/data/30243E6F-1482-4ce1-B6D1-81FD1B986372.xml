@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.1:1", "", "DPUruNet", "EARoot/EA1/EA7.htm", "175.png", "136", "0", "", "Logical diagram0","{62434241-39CD-476c-8B82-F9546B37E5E8}");
+tocTab[tocTab.length] = new Array("0.1:2", "", "NFIQ", "EARoot/EA1/EA10.htm", "5.png", "E2347", "0", "", "Class0","{B13A2EE7-624A-4972-B0D6-D1A92E7E94C9}");
+tocTab[tocTab.length] = new Array("0.1:3", "", "WSQ", "EARoot/EA1/EA11.htm", "5.png", "E2364", "0", "", "Class0","{1299710E-5CF7-4431-9559-27490D0FC341}");
+tocTab[tocTab.length] = new Array("0.1:4", "", "NFIQ_ALGORITHM", "EARoot/EA1/EA12.htm", "247.png", "E2345", "E2347", "", "Enumeration0","{9AF43E47-2529-4bf0-B50F-2D41053CD35A}");
+tocTab[tocTab.length] = new Array("0.1:5", "", "NFIQ_SCORE", "EARoot/EA1/EA13.htm", "247.png", "E2346", "E2347", "", "Enumeration0","{EF59813B-11D8-4054-9B52-9029B88E1DCD}");
+tocTab[tocTab.length] = new Array("0.1:6", "", "IMAGE_FORMAT", "EARoot/EA1/EA14.htm", "247.png", "E2363", "E2364", "", "Enumeration0","{6473FB8F-D104-4939-9035-64AEC2ACBA33}");

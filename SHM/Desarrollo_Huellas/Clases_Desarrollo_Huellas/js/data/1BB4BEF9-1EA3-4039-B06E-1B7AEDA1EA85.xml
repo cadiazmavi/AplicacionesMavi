@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.7.19:1", "", "Promotores", "EARoot/EA7/EA19/EA614.htm", "175.png", "110", "0", "", "Logical diagram0","{6090BA73-C075-4a04-8351-F53D7085B394}");
+tocTab[tocTab.length] = new Array("0.7.19:2", "", "AgregarHuellas", "EARoot/EA7/EA19/EA617.htm", "5.png", "E1789", "0", "", "Class0","{E21B9407-8606-4420-87EF-CD182EE79D3C}");
+tocTab[tocTab.length] = new Array("0.7.19:3", "", "ButtonImg", "EARoot/EA7/EA19/EA618.htm", "5.png", "E1790", "0", "", "Class0","{566BD9AF-80A3-4344-8897-05DCA2A430CA}");
+tocTab[tocTab.length] = new Array("0.7.19:4", "", "ButtonImg", "EARoot/EA7/EA19/EA619.htm", "5.png", "E1791", "0", "", "Class0","{42A25BC9-52D0-4271-B61C-85F6045BA305}");
+tocTab[tocTab.length] = new Array("0.7.19:5", "", "DesignPromotores", "EARoot/EA7/EA19/EA620.htm", "5.png", "E1792", "0", "", "Class0","{F1872DAB-CB44-461a-98E6-A98AFB331F5B}");
+tocTab[tocTab.length] = new Array("0.7.19:6", "", "ExploradorPromotores", "EARoot/EA7/EA19/EA621.htm", "5.png", "E1794", "0", "", "Class0","{DF6EA7C3-47C1-4784-B06C-CCAEF80E464A}");
+tocTab[tocTab.length] = new Array("0.7.19:7", "", "FotografiaPromotor", "EARoot/EA7/EA19/EA622.htm", "5.png", "E1795", "0", "", "Class0","{79BCA819-92C9-4d71-8D9A-5054D1A4F6B6}");
+tocTab[tocTab.length] = new Array("0.7.19:8", "", "KardexPerfil", "EARoot/EA7/EA19/EA623.htm", "5.png", "E1796", "0", "", "Class0","{C4D1EA7E-E8D6-48ee-95DA-96F90EC3CAC3}");
+tocTab[tocTab.length] = new Array("0.7.19:9", "", "PROMOTOR_VERIFICAR", "EARoot/EA7/EA19/EA624.htm", "5.png", "E1797", "0", "", "Class0","{D6577262-EB65-4300-ADBD-CE07E41E2D10}");
+tocTab[tocTab.length] = new Array("0.7.19:10", "", "ESTATUS", "EARoot/EA7/EA19/EA625.htm", "247.png", "E1788", "E1789", "", "Enumeration0","{5FBC0299-9D0C-484d-A32B-9B971FA08F0D}");
+tocTab[tocTab.length] = new Array("0.7.19:11", "", "ItemComparer", "EARoot/EA7/EA19/EA626.htm", "5.png", "E1793", "E1794", "", "Class0","{A240F737-D876-4c77-8ACD-9ECC46E42490}");

@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.7.10:1", "", "ComercializadoraDataSetTableAdapters", "EARoot/EA7/EA10/EA501.htm", "175.png", "125", "0", "", "Logical diagram0","{A49A9777-D89F-41e2-9486-5EE41B64A797}");
+tocTab[tocTab.length] = new Array("0.7.10:2", "", "____________________________TableAdapter", "EARoot/EA7/EA10/EA504.htm", "5.png", "E1939", "0", "", "Class0","{FFA7EB79-CB61-4b53-8FFE-A1E32EC289A9}");
+tocTab[tocTab.length] = new Array("0.7.10:3", "", "TableAdapterManager", "EARoot/EA7/EA10/EA505.htm", "5.png", "E1942", "0", "", "Class0","{013F2D37-2CD2-4637-9E70-727205497980}");
+tocTab[tocTab.length] = new Array("0.7.10:4", "", "SelfReferenceComparer", "EARoot/EA7/EA10/EA506.htm", "5.png", "E1941", "E1942", "", "Class0","{5E58DEDE-853D-4918-B509-83EF3335C11B}");
+tocTab[tocTab.length] = new Array("0.7.10:5", "", "UpdateOrderOption", "EARoot/EA7/EA10/EA507.htm", "247.png", "E1940", "E1942", "", "Enumeration0","{2C67D8AB-8E6B-4c49-A334-762D177AF92C}");

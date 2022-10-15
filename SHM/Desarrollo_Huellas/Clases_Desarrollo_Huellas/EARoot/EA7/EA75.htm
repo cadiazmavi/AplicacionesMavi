@@ -1,0 +1,258 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Clientes_Finales</title>
+<link href="../../css/ea.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="../../js/displayToc.js" type="text/javascript"></script>
+<script>
+
+  function switchProjectProperties() {
+			if (document.getElementById("proj00").style.display == "none") {
+				document.getElementById("proj00").style.display = "revert";
+				document.getElementById("proj01").style.display = "revert";
+				document.getElementById("proj02").style.display = "revert";
+				document.getElementById("proj03").style.display = "revert";
+				document.getElementById("proj04").style.display = "revert";
+				document.getElementById("proj05").style.display = "revert";
+			} else {
+				document.getElementById("proj00").style.display = "none";
+				document.getElementById("proj01").style.display = "none";
+				document.getElementById("proj02").style.display = "none";
+				document.getElementById("proj03").style.display = "none";
+				document.getElementById("proj04").style.display = "none";
+				document.getElementById("proj05").style.display = "none";
+			}
+}
+
+		function switchAdvancedProperties(){
+
+			if (document.getElementById("adv00").style.display == "none") {;
+				document.getElementById("adv00").style.display = "revert";
+				document.getElementById("adv01").style.display = "revert";
+			} else {
+				document.getElementById("adv00").style.display = "none";
+				document.getElementById("adv01").style.display = "none";
+			}
+		}
+		function initPage()
+        {			
+			var divs = document.getElementsByClassName("ObjectDetailsNotes");
+			for (var j = 0; j < divs.length; j++) {
+				var tmpStr = divs[j].innerHTML;
+				tmpStr = tmpStr.replace(/&gt;/g, ">");
+				tmpStr = tmpStr.replace(/&lt;/g, "<");
+
+				tmpStr = tmpStr.replace(/#gt;/g, "&gt;");
+				tmpStr = tmpStr.replace(/#lt;/g, "&lt;");
+
+				divs[j].innerHTML = tmpStr;
+			}
+
+            if (document.getElementById('TableGroup') != null)
+            {
+                toggleItem(document.getElementById('TableGroup').getElementsByTagName('li')[0].id.replace("Title", ""));
+            }
+
+        }
+</script>
+<style>
+
+</style>
+</head>
+<body onload="initPage();">
+<div class="section group" >
+
+		<div class="col span_2_of_2 header_frame">
+			<h1> Clientes_Finales </h1>
+			<!-- <img class="header_image" src="../../images/ea-banner.png" align="right" alt="Header Image" />-->
+			<img class="header_image" src="../../images/ea-banner.png" align="right" alt="Header Image" />
+		</div>
+		<div class="col span_2_of_2 breadcrumb_frame">
+			<p><a href="../EA3.htm">Desarrollo_Huellas</a> / <a href="EA61.htm">SHM</a> / <a href="./EA8/EA395.htm">Clientes_Finales</a></p>
+		</div>
+			
+		<table class="contentmaintable">
+			<!-- <tfoot>
+				<tr>
+					<td>foot1</td>
+					<td>foot2</td>
+				</tr>
+			</tfoot> -->
+			<tbody>
+				<tr>
+					<td class="indexcell">
+						<div class="projectBrowserTitle">Project: </div>
+						<ul>
+<li><img src="../../images/175.png" alt="Diagram"/> <a href="./EA8/EA393.htm">Clientes_Finales</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA396.htm">BancosCteFinal</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA397.htm">Cambio_Vendedor_a_Final</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA398.htm">Cambio_Vendedor_a_Final</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA399.htm">CameraControls</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA400.htm">ClaseEstaticaCoincidencias</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA401.htm">Explorardor_ClienteFinal</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA402.htm">Explorardor_ClienteFinal</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA403.htm">FormCapturaImagen</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA404.htm">FormCapturaImagen</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA405.htm">FormCargaMovimeintosDoc</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA406.htm">FormCargaMovimeintosDoc</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA407.htm">FormCargaMovimientos</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA408.htm">FormCargaMovimientos</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA409.htm">formReporteCargaDocumentos</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA410.htm">formReporteCargaDocumentos</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA411.htm">FormValidadordeFotos</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA412.htm">FormValidadordeFotos</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA413.htm">FRM_ACTUALIZA_NIP</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA414.htm">FRM_ACTUALIZA_NIP</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA415.htm">FRM_ACTUALIZARCTEFINAL</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA416.htm">FRM_ACTUALIZARCTEFINAL</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA417.htm">FRM_ACTUALIZARCTEFINAL_IFE</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA418.htm">FRM_ACTUALIZARCTEFINAL_IFE</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA419.htm">FRM_ADJUNTAR_BOLETA</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA420.htm">FRM_ADJUNTAR_BOLETA</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA421.htm">FRM_ALTA_NIP</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA422.htm">FRM_ALTA_NIP</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA423.htm">FRM_BOLETA_BF</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA424.htm">FRM_BOLETA_BF</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA425.htm">FRM_BUSCAR_CLIENTE_FINAL</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA426.htm">FRM_BUSCAR_CLIENTE_FINAL</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA427.htm">FRM_BUSCARCLIENTEFINAL</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA428.htm">FRM_BUSCARCLIENTEFINAL</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA429.htm">FRM_COINCIDENCIAS</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA430.htm">FRM_COINCIDENCIAS</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA431.htm">FRM_COINCIDENCIASBF</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA432.htm">FRM_COINCIDENCIASBF</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA433.htm">FRM_DETALLE_MOVIMIENTOS</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA434.htm">FRM_DETALLE_MOVIMIENTOS</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA435.htm">FRM_DIMA_RECOM</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA436.htm">FRM_DIMA_RECOM</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA437.htm">FRM_EDITARTELEFONO</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA438.htm">FRM_EDITARTELEFONO</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA439.htm">FRM_EXISTE_CTEFINAL</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA440.htm">FRM_EXISTE_CTEFINAL</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA441.htm">FRM_FOTOSCLIENTEFINAL</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA442.htm">FRM_FOTOSCLIENTEFINAL</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA443.htm">FRM_HIST_MODIFI_CTEFINAL</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA444.htm">FRM_HIST_MODIFI_CTEFINAL</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA445.htm">FRM_HISTORIALCOINCIDENCIASBF</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA446.htm">FRM_HISTORIALCOINCIDENCIASBF</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA447.htm">FRM_HUELLACTEFINAL</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA448.htm">FRM_HUELLACTEFINAL</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA449.htm">FRM_MOTIVOS_LIBERACION_DIMA</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA450.htm">FRM_MOTIVOS_LIBERACION_DIMA</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA451.htm">FRM_NVO_CLIENTE_FINAL</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA452.htm">FRM_NVO_CLIENTE_FINAL</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA453.htm">FRM_OPCIONREGISTRO</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA454.htm">FRM_OPCIONREGISTRO</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA455.htm">FRM_PRINT_BOLETABF</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA456.htm">FRM_PRINT_BOLETABF</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA457.htm">Frm_RELACIONBF</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA458.htm">Frm_RELACIONBF</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA459.htm">Frm_RespuestaBanco</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA460.htm">Frm_RespuestaBanco</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA461.htm">FRM_SUPERVISION_TELEFONICA</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA462.htm">FRM_SUPERVISION_TELEFONICA</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA463.htm">FRM_VALIDA_BOLETA</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA464.htm">FRM_VALIDA_BOLETA</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA465.htm">FRM_VALIDA_HUELLA_CTEFIN</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA466.htm">FRM_VALIDA_HUELLA_CTEFIN</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA467.htm">FRM_VALIDACION_TELEFONICA_BF</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA468.htm">FRM_VALIDACION_TELEFONICA_BF</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA469.htm">FRM_VALIDACIONTELEFONOS</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA470.htm">FRM_VALIDACIONTELEFONOS</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA471.htm">FRM_VALIDARCLIENTEFINAL</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA472.htm">FRM_VALIDARCLIENTEFINAL</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA473.htm">frmBancos</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA474.htm">frmBancos</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA475.htm">FrmCredilanaAutorizar</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA476.htm">FrmCredilanaAutorizar</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA477.htm">FrmCredilanaMsjcs</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA478.htm">FrmCredilanaMsjcs</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA479.htm">FrmDetalleDispersionConsulta</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA480.htm">FrmDetalleDispersionConsulta</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA481.htm">FrmVisorCliente</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA482.htm">FrmVisorCliente</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA483.htm">ImageOptions</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA484.htm">InformacionValidaciontel</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA485.htm">MenuActualizar</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA486.htm">MenuActualizar</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA487.htm">ModeloTelefono</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA488.htm">ValidacionNvoCteFinal</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA489.htm">VisorMavi</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="./EA8/EA490.htm">VisorMavi</a></li>
+</ul>
+
+					</td>
+					<td class="contentcell"><div class="pageHeader"></div>
+<div class="PageBody">
+	<span class="ObjectTitle">Clientes_Finales  : Public   Package</span>
+	<table border="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">14/10/2022 08:07:11 p. m.</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">14/10/2022 08:07:11 p. m.</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><button onclick="switchProjectProperties()"><img src="../../images/plus03.gif" align="absmiddle" id="proj" /></button>Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">cadiaz</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" >Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><button onclick="switchAdvancedProperties()"><img src="../../images/plus03.gif" align="absmiddle" id="adv" /></button>Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{2516FD27-7C0D-4d91-B652-65C9A3DF615A}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+	</table>
+	
+ </div>
+ </td>
+				</tr>
+			</tbody>
+		</table>
+		
+</div>
+</body>
+</html>
+

@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("0.1.6:1", "", "INTL", "EARoot/EA1/EA6/EA147.htm", "175.png", "145", "0", "", "Logical diagram0","{DA47FF66-2BC2-4728-B566-F7C362EDAC51}");
+tocTab[tocTab.length] = new Array("0.1.6:2", "", "cadenaINTL", "EARoot/EA1/EA6/EA150.htm", "5.png", "E2474", "0", "", "Class0","{F470075F-AC90-446d-BE6F-0CD0DC32FF88}");
+tocTab[tocTab.length] = new Array("0.1.6:3", "", "ClienteINTL", "EARoot/EA1/EA6/EA151.htm", "5.png", "E2475", "0", "", "Class0","{BACCD02E-0234-4ce3-B799-3BD6DDA6F9C8}");
+tocTab[tocTab.length] = new Array("0.1.6:4", "", "DC_campoINTL", "EARoot/EA1/EA6/EA152.htm", "5.png", "E2476", "0", "", "Class0","{5E71ADBF-E1D2-4fa4-A7D6-059DCA0C2C5A}");
+tocTab[tocTab.length] = new Array("0.1.6:5", "", "DC_segmentoAU", "EARoot/EA1/EA6/EA153.htm", "5.png", "E2477", "0", "", "Class0","{873EFADF-5C90-4f1e-9D45-1D07F5FCC03F}");
+tocTab[tocTab.length] = new Array("0.1.6:6", "", "DC_segmentoES", "EARoot/EA1/EA6/EA154.htm", "5.png", "E2478", "0", "", "Class0","{F0E5969A-822C-448f-A250-D56ECC71A231}");
+tocTab[tocTab.length] = new Array("0.1.6:7", "", "DC_segmentoINTL", "EARoot/EA1/EA6/EA155.htm", "5.png", "E2479", "0", "", "Class0","{94281639-649B-4662-8C5B-14CAE516ED88}");
+tocTab[tocTab.length] = new Array("0.1.6:8", "", "DC_segmentoPA", "EARoot/EA1/EA6/EA156.htm", "5.png", "E2480", "0", "", "Class0","{2A4A381A-466D-4f9d-864F-626BDAA8700C}");
+tocTab[tocTab.length] = new Array("0.1.6:9", "", "DC_segmentoPI", "EARoot/EA1/EA6/EA157.htm", "5.png", "E2481", "0", "", "Class0","{E861F7F6-C7FB-4041-92D2-FDE72016A480}");
+tocTab[tocTab.length] = new Array("0.1.6:10", "", "DC_segmentoPN", "EARoot/EA1/EA6/EA158.htm", "5.png", "E2482", "0", "", "Class0","{34146024-D70B-426f-A977-8CC27D345699}");
+tocTab[tocTab.length] = new Array("0.1.6:11", "", "DT_ClaveINTL", "EARoot/EA1/EA6/EA159.htm", "5.png", "E2483", "0", "", "Class0","{E2507579-B7AF-4229-A6B3-E47BF4497A55}");
+tocTab[tocTab.length] = new Array("0.1.6:12", "", "LongitudCampo", "EARoot/EA1/EA6/EA160.htm", "247.png", "E2485", "0", "", "Enumeration0","{E5C7286D-D82F-4a67-8005-C9A104D8BD9F}");
+tocTab[tocTab.length] = new Array("0.1.6:13", "", "TipoCampo", "EARoot/EA1/EA6/EA161.htm", "247.png", "E2484", "0", "", "Enumeration0","{C9BE1E2B-F0F8-4b34-BD8B-0312793AB710}");
+tocTab[tocTab.length] = new Array("0.1.6:14", "", "ValidacionCampo", "EARoot/EA1/EA6/EA162.htm", "247.png", "E2486", "0", "", "Enumeration0","{7C0FDF32-9BA6-46a1-8230-CF8A0C89C0B5}");

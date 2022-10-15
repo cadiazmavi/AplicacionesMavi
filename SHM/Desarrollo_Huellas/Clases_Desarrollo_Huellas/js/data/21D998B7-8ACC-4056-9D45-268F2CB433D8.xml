@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.7.22:1", "", "ServiceReference1", "EARoot/EA7/EA22/EA645.htm", "175.png", "112", "0", "", "Logical diagram0","{78985DA3-DB93-474d-879D-B58C4178AF67}");
+tocTab[tocTab.length] = new Array("0.7.22:2", "", "FinderClient", "EARoot/EA7/EA22/EA648.htm", "5.png", "E1816", "0", "", "Class0","{EBDE3352-5692-4d5e-897A-E8E809A7A1EC}");
+tocTab[tocTab.length] = new Array("0.7.22:3", "", "IFinder", "EARoot/EA7/EA22/EA649.htm", "8.png", "E1814", "0", "", "Interface0","{9612978D-C787-4492-911B-E41ADC8FFEAD}");
+tocTab[tocTab.length] = new Array("0.7.22:4", "", "IFinderChannel", "EARoot/EA7/EA22/EA650.htm", "8.png", "E1815", "0", "", "Interface0","{5368720F-6EAA-411c-A799-5D92FB60B66D}");

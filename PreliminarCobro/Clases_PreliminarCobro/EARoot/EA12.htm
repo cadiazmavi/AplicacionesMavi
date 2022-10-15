@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Views</title>
+<link href="../css/ea.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="../js/displayToc.js" type="text/javascript"></script>
+<script>
+
+  function switchProjectProperties() {
+			if (document.getElementById("proj00").style.display == "none") {
+				document.getElementById("proj00").style.display = "revert";
+				document.getElementById("proj01").style.display = "revert";
+				document.getElementById("proj02").style.display = "revert";
+				document.getElementById("proj03").style.display = "revert";
+				document.getElementById("proj04").style.display = "revert";
+				document.getElementById("proj05").style.display = "revert";
+			} else {
+				document.getElementById("proj00").style.display = "none";
+				document.getElementById("proj01").style.display = "none";
+				document.getElementById("proj02").style.display = "none";
+				document.getElementById("proj03").style.display = "none";
+				document.getElementById("proj04").style.display = "none";
+				document.getElementById("proj05").style.display = "none";
+			}
+}
+
+		function switchAdvancedProperties(){
+
+			if (document.getElementById("adv00").style.display == "none") {;
+				document.getElementById("adv00").style.display = "revert";
+				document.getElementById("adv01").style.display = "revert";
+			} else {
+				document.getElementById("adv00").style.display = "none";
+				document.getElementById("adv01").style.display = "none";
+			}
+		}
+		function initPage()
+        {			
+			var divs = document.getElementsByClassName("ObjectDetailsNotes");
+			for (var j = 0; j < divs.length; j++) {
+				var tmpStr = divs[j].innerHTML;
+				tmpStr = tmpStr.replace(/&gt;/g, ">");
+				tmpStr = tmpStr.replace(/&lt;/g, "<");
+
+				tmpStr = tmpStr.replace(/#gt;/g, "&gt;");
+				tmpStr = tmpStr.replace(/#lt;/g, "&lt;");
+
+				divs[j].innerHTML = tmpStr;
+			}
+
+            if (document.getElementById('TableGroup') != null)
+            {
+                toggleItem(document.getElementById('TableGroup').getElementsByTagName('li')[0].id.replace("Title", ""));
+            }
+
+        }
+</script>
+<style>
+
+</style>
+</head>
+<body onload="initPage();">
+<div class="section group" >
+
+		<div class="col span_2_of_2 header_frame">
+			<h1> Views </h1>
+			<!-- <img class="header_image" src="../images/ea-banner.png" align="right" alt="Header Image" />-->
+			<img class="header_image" src="../images/ea-banner.png" align="right" alt="Header Image" />
+		</div>
+		<div class="col span_2_of_2 breadcrumb_frame">
+			<p><a href="EA3.htm">PreliminarCobro</a> / <a href="./EA5/EA86.htm">Views</a></p>
+		</div>
+			
+		<table class="contentmaintable">
+			<!-- <tfoot>
+				<tr>
+					<td>foot1</td>
+					<td>foot2</td>
+				</tr>
+			</tfoot> -->
+			<tbody>
+				<tr>
+					<td class="indexcell">
+						<div class="projectBrowserTitle">Project: </div>
+						<ul>
+<li><img src="../images/175.png" alt="Diagram"/> <a href="./EA5/EA84.htm">Views</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA87.htm">DM0312_Loading_</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA88.htm">DM0312_Loading_</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA89.htm">frmApoyoCobranzaDima</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA90.htm">frmApoyoCobranzaDima</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA91.htm">frmAvalBeneficiarioFinal</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA92.htm">frmAvalBeneficiarioFinal</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA93.htm">frmBeneficiarioFinal</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA94.htm">frmBeneficiarioFinal</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA95.htm">frmCambioDomicilio</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA96.htm">frmCambioDomicilio</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA97.htm">frmCobroXPolitica</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA98.htm">frmCobroXPolitica</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA99.htm">frmCodigoPostal</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA100.htm">frmCodigoPostal</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA101.htm">frmCorreoTelefonos</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA102.htm">frmCorreoTelefonos</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA103.htm">frmDetllesConvenioRD</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA104.htm">frmDetllesConvenioRD</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA105.htm">FrmGeneraConvenioRD</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA106.htm">FrmGeneraConvenioRD</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA107.htm">frmInfoAdicional</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA108.htm">frmInfoAdicional</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA109.htm">frmInfoCliente</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA110.htm">frmInfoCliente</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA111.htm">frmInfoDetalleVenta</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA112.htm">frmInfoDetalleVenta</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA113.htm">frmLCT</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA114.htm">frmLCT</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA115.htm">FrmMensaje</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA116.htm">FrmMensaje</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA117.htm">frmNipCobro</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA118.htm">frmNipCobro</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA119.htm">frmPreliminarCobro</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA120.htm">frmPreliminarCobro</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA121.htm">frmQuienRealizaCobro</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA122.htm">frmQuienRealizaCobro</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA123.htm">frmUsrCancelaCobro</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA124.htm">frmUsrCancelaCobro</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA125.htm">frmUsrCondonaMoratorios</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA126.htm">frmUsrCondonaMoratorios</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA127.htm">frmUsrSeguroVida</a></li>
+<li><img src="../images/5.png" alt="Class"/> <a href="./EA5/EA128.htm">frmUsrSeguroVida</a></li>
+</ul>
+
+					</td>
+					<td class="contentcell"><div class="pageHeader"></div>
+<div class="PageBody">
+	<span class="ObjectTitle">Views  : Public   Package</span>
+	<table border="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">14/10/2022 08:01:44 p. m.</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">14/10/2022 08:01:44 p. m.</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><button onclick="switchProjectProperties()"><img src="../images/plus03.gif" align="absmiddle" id="proj" /></button>Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">cadiaz</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" >Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><button onclick="switchAdvancedProperties()"><img src="../images/plus03.gif" align="absmiddle" id="adv" /></button>Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{A182399D-8E1C-4e9b-A50D-2037ADABEAB3}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+	</table>
+	
+ </div>
+ </td>
+				</tr>
+			</tbody>
+		</table>
+		
+</div>
+</body>
+</html>
+

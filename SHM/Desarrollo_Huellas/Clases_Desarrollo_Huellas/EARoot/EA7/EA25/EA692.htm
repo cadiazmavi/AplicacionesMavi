@@ -1,0 +1,230 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>venta_vales</title>
+<link href="../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="../../../js/displayToc.js" type="text/javascript"></script>
+<script>
+
+  function switchProjectProperties() {
+			if (document.getElementById("proj00").style.display == "none") {
+				document.getElementById("proj00").style.display = "revert";
+				document.getElementById("proj01").style.display = "revert";
+				document.getElementById("proj02").style.display = "revert";
+				document.getElementById("proj03").style.display = "revert";
+				document.getElementById("proj04").style.display = "revert";
+				document.getElementById("proj05").style.display = "revert";
+			} else {
+				document.getElementById("proj00").style.display = "none";
+				document.getElementById("proj01").style.display = "none";
+				document.getElementById("proj02").style.display = "none";
+				document.getElementById("proj03").style.display = "none";
+				document.getElementById("proj04").style.display = "none";
+				document.getElementById("proj05").style.display = "none";
+			}
+}
+
+		function switchAdvancedProperties(){
+
+			if (document.getElementById("adv00").style.display == "none") {;
+				document.getElementById("adv00").style.display = "revert";
+				document.getElementById("adv01").style.display = "revert";
+			} else {
+				document.getElementById("adv00").style.display = "none";
+				document.getElementById("adv01").style.display = "none";
+			}
+		}
+		function initPage()
+        {			
+			var divs = document.getElementsByClassName("ObjectDetailsNotes");
+			for (var j = 0; j < divs.length; j++) {
+				var tmpStr = divs[j].innerHTML;
+				tmpStr = tmpStr.replace(/&gt;/g, ">");
+				tmpStr = tmpStr.replace(/&lt;/g, "<");
+
+				tmpStr = tmpStr.replace(/#gt;/g, "&gt;");
+				tmpStr = tmpStr.replace(/#lt;/g, "&lt;");
+
+				divs[j].innerHTML = tmpStr;
+			}
+
+            if (document.getElementById('TableGroup') != null)
+            {
+                toggleItem(document.getElementById('TableGroup').getElementsByTagName('li')[0].id.replace("Title", ""));
+            }
+
+        }
+</script>
+<style>
+
+</style>
+</head>
+<body onload="initPage();">
+<div class="section group" >
+
+		<div class="col span_2_of_2 header_frame">
+			<h1> venta_vales </h1>
+			<!-- <img class="header_image" src="../../../images/ea-banner.png" align="right" alt="Header Image" />-->
+			<img class="header_image" src="../../../images/ea-banner.png" align="right" alt="Header Image" />
+		</div>
+		<div class="col span_2_of_2 breadcrumb_frame">
+			<p><a href="../../EA3.htm">Desarrollo_Huellas</a> / <a href="../EA61.htm">SHM</a> / <a href="EA694.htm">venta_vales</a> / <a href="EA692.htm">venta_vales</a></p>
+		</div>
+			
+		<table class="contentmaintable">
+			<!-- <tfoot>
+				<tr>
+					<td>foot1</td>
+					<td>foot2</td>
+				</tr>
+			</tfoot> -->
+			<tbody>
+				<tr>
+					<td class="indexcell">
+						<div class="projectBrowserTitle">Project: </div>
+						<ul>
+<li><img src="../../../images/4.png" alt="Package"/> <a href="./EA1/EA744.htm">Controlador</a></li>
+<li><img src="../../../images/4.png" alt="Package"/> <a href="./EA2/EA749.htm">Forms</a></li>
+<li><img src="../../../images/4.png" alt="Package"/> <a href="./EA3/EA772.htm">Modelo</a></li>
+<li><img src="../../../images/175.png" alt="Diagram"/> <a href="EA692.htm">venta_vales</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA695.htm">ClientAttentionForm</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA696.htm">ClientAttentionForm</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA697.htm">Cobros</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA699.htm">Coordenadas</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA700.htm">CordenadasCodigoReco</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA701.htm">datosEstado</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA702.htm">DatosVale</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA703.htm">Folio</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA704.htm">FoliosVales</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA705.htm">FoliosVales</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA707.htm">FRM_ACTUALIZA_MAX_VALES</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA708.htm">FRM_ACTUALIZA_MAX_VALES</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA709.htm">FRM_ACTUALIZA_NIP</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA710.htm">FRM_ACTUALIZA_NIP</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA711.htm">FRM_ACTUALIZAR_NIPS</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA712.htm">FRM_ACTUALIZAR_NIPS</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA713.htm">FRM_COBROSDIMA</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA714.htm">FRM_COBROSDIMA</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA715.htm">FRM_EST_CTA</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA716.htm">FRM_EST_CTA</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA717.htm">FRM_FOTO_CLIENTE</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA718.htm">FRM_FOTO_CLIENTE</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA719.htm">FRM_GENERAR_VALES</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA720.htm">FRM_GENERAR_VALES</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA721.htm">FRM_IMPRESION_VALES</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA722.htm">FRM_IMPRESION_VALES</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA723.htm">FRM_NIP_RCOBROS</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA724.htm">FRM_NIP_RCOBROS</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA725.htm">FRM_NIPS_VALES</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA726.htm">FRM_NIPS_VALES</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA727.htm">FRM_PERIODICIDAD_COB</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA728.htm">FRM_PERIODICIDAD_COB</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA729.htm">FRM_REIMPRIMIR_VALES</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA730.htm">FRM_REIMPRIMIR_VALES</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA731.htm">FRM_REPORTE_GRAL_VALES</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA732.htm">FRM_REPORTE_GRAL_VALES</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA733.htm">FRM_VALIDAHUELLA_REIMP</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA734.htm">FRM_VALIDAHUELLA_REIMP</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA735.htm">Imagenes</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA737.htm">MessagesTitles</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA739.htm">SearchClientForm</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA740.htm">SearchClientForm</a></li>
+<li><img src="../../../images/8.png" alt="Interface"/> <a href="EA736.htm">IValidaHuellaReimp</a></li>
+</ul>
+
+					</td>
+					<td class="contentcell"><div class="PageBody">
+	<div class=diagram_image> 
+<img src="EA693.png" usemap="#EA693" border="0" />
+
+<MAP NAME="EA693">
+<area shape="rect" coords="1515,12526,1803,12717" href="EA737.htm" target="_self">
+<area shape="rect" coords="1600,5176,1718,5266" href="EA736.htm" target="_self">
+<area shape="rect" coords="1578,1372,1740,1511" href="EA735.htm" target="_self">
+<area shape="rect" coords="1533,12222,1786,12500" href="EA734.htm" target="_self">
+<area shape="rect" coords="407,851,871,1442" href="EA733.htm" target="_self">
+<area shape="rect" coords="1491,11613,1827,12190" href="EA732.htm" target="_self">
+<area shape="rect" coords="1522,11236,1797,11576" href="EA731.htm" target="_self">
+<area shape="rect" coords="1502,10856,1817,11186" href="EA730.htm" target="_self">
+<area shape="rect" coords="917,4909,1381,5223" href="EA729.htm" target="_self">
+<area shape="rect" coords="1533,10588,1786,10814" href="EA728.htm" target="_self">
+<area shape="rect" coords="991,1550,1307,1942" href="EA727.htm" target="_self">
+<area shape="rect" coords="1533,10374,1786,10548" href="EA724.htm" target="_self">
+<area shape="rect" coords="1559,10227,1759,10346" href="EA723.htm" target="_self">
+<area shape="rect" coords="1533,9935,1786,10187" href="EA726.htm" target="_self">
+<area shape="rect" coords="1427,9681,1891,9891" href="EA725.htm" target="_self">
+<area shape="rect" coords="1514,9461,1805,9622" href="EA722.htm" target="_self">
+<area shape="rect" coords="1499,9232,1820,9420" href="EA721.htm" target="_self">
+<area shape="rect" coords="1533,8731,1786,9191" href="EA720.htm" target="_self">
+<area shape="rect" coords="480,27,799,826" href="EA719.htm" target="_self">
+<area shape="rect" coords="1516,8435,1803,8687" href="EA718.htm" target="_self">
+<area shape="rect" coords="1472,8050,1846,8403" href="EA717.htm" target="_self">
+<area shape="rect" coords="1533,7749,1786,8014" href="EA716.htm" target="_self">
+<area shape="rect" coords="407,1490,871,2003" href="EA715.htm" target="_self">
+<area shape="rect" coords="1513,7416,1806,7707" href="EA714.htm" target="_self">
+<area shape="rect" coords="35,1057,344,1475" href="EA713.htm" target="_self">
+<area shape="rect" coords="1533,7155,1786,7368" href="EA710.htm" target="_self">
+<area shape="rect" coords="1005,4455,1293,4877" href="EA709.htm" target="_self">
+<area shape="rect" coords="1483,6849,1836,7114" href="EA708.htm" target="_self">
+<area shape="rect" coords="1484,6588,1834,6824" href="EA707.htm" target="_self">
+<area shape="rect" coords="1533,6368,1786,6555" href="EA712.htm" target="_self">
+<area shape="rect" coords="1427,4426,1891,4666" href="EA711.htm" target="_self">
+<area shape="rect" coords="991,53,1307,829" href="EA705.htm" target="_self">
+<area shape="rect" coords="991,870,1307,1412" href="EA704.htm" target="_self">
+<area shape="rect" coords="1596,1000,1722,1243" href="EA703.htm" target="_self">
+<area shape="rect" coords="1029,3481,1269,4401" href="EA702.htm" target="_self">
+<area shape="rect" coords="1598,2130,1720,2633" href="EA701.htm" target="_self">
+<area shape="rect" coords="1590,3566,1728,3757" href="EA699.htm" target="_self">
+<area shape="rect" coords="1606,1557,1713,2086" href="EA697.htm" target="_self">
+<area shape="rect" coords="1035,3324,1264,3438" href="EA700.htm" target="_self">
+<area shape="rect" coords="1532,5720,1787,6323" href="EA696.htm" target="_self">
+<area shape="rect" coords="1614,5567,1704,5676" href="EA741.htm" target="_self">
+<area shape="rect" coords="1500,2681,1819,3532" href="EA695.htm" target="_self">
+<area shape="rect" coords="1504,5321,1815,5521" href="EA740.htm" target="_self">
+<area shape="rect" coords="1002,2988,1297,3215" href="EA739.htm" target="_self">
+</MAP>
+ </div>
+	<div class="ObjectTitle">venta_vales : Class diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">14/10/2022 08:07:41 p. m.</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">14/10/2022 08:08:19 p. m.</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchProjectProperties()"><img src="../../../images/plus03.gif" align="absmiddle" id="proj" /></button>Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">cadiaz</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchAdvancedProperties()"><img src="../../../images/plus03.gif" align="absmiddle" id="adv" /></button>Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{2CB2F262-1BEF-4d14-BEB4-522904236C9B}</td>
+		</tr>
+	</table>
+	
+</div>
+
+ </td>
+				</tr>
+			</tbody>
+		</table>
+		
+</div>
+</body>
+</html>
+

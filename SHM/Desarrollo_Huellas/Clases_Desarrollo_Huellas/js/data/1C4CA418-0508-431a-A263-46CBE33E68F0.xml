@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.7.21:1", "", "Reportes", "EARoot/EA7/EA21/EA632.htm", "175.png", "95", "0", "", "Logical diagram0","{B8995618-5020-45cf-8375-62C23DDFC7AA}");
+tocTab[tocTab.length] = new Array("0.7.21:2", "", "FRM_AUTORIZA_POR_FALLA_HUELLA", "EARoot/EA7/EA21/EA635.htm", "5.png", "E1608", "0", "", "Class0","{A636FFA2-6323-4ea7-8634-C7F11B6FB9FC}");
+tocTab[tocTab.length] = new Array("0.7.21:3", "", "FRM_AUTORIZA_POR_FALLA_HUELLA", "EARoot/EA7/EA21/EA636.htm", "5.png", "E1609", "0", "", "Class0","{6536338F-B9EB-46f1-913D-79A98B1AF898}");
+tocTab[tocTab.length] = new Array("0.7.21:4", "", "FRM_AUTORIZA_POR_FALLA_HUELLA", "EARoot/EA7/EA21/EA637.htm", "5.png", "E1805", "0", "", "Class0","{5257370A-9AB3-44a3-9396-710CC4A5E5F3}");
+tocTab[tocTab.length] = new Array("0.7.21:5", "", "FRM_AUTORIZA_POR_FALLA_HUELLA", "EARoot/EA7/EA21/EA638.htm", "5.png", "E1806", "0", "", "Class0","{8B3A7C3B-E571-4e33-81B8-11A848BF80A5}");
+tocTab[tocTab.length] = new Array("0.7.21:6", "", "FRM_HistoricoBoletaBF", "EARoot/EA7/EA21/EA639.htm", "5.png", "E1807", "0", "", "Class0","{D1806851-CAE7-4317-8878-D62E417531DE}");
+tocTab[tocTab.length] = new Array("0.7.21:7", "", "FRM_HistoricoBoletaBF", "EARoot/EA7/EA21/EA640.htm", "5.png", "E1808", "0", "", "Class0","{04195FBE-9E6E-410d-BA35-158FADC88AAB}");
+tocTab[tocTab.length] = new Array("0.7.21:8", "", "FRM_Reporte_DimR", "EARoot/EA7/EA21/EA641.htm", "5.png", "E1809", "0", "", "Class0","{D819EA5B-0CB9-4a28-B4D1-DAC70D5A18A9}");
+tocTab[tocTab.length] = new Array("0.7.21:9", "", "FRM_Reporte_DimR", "EARoot/EA7/EA21/EA642.htm", "5.png", "E1810", "0", "", "Class0","{4A91E48E-FA8F-4989-A81D-2BD3ED9B9A9E}");
+tocTab[tocTab.length] = new Array("0.7.21:10", "", "FRM_Reporte_Telefonica", "EARoot/EA7/EA21/EA643.htm", "5.png", "E1811", "0", "", "Class0","{BFBBDE1A-FE52-4548-BD50-2E2BA1938610}");
+tocTab[tocTab.length] = new Array("0.7.21:11", "", "FRM_Reporte_Telefonica", "EARoot/EA7/EA21/EA644.htm", "5.png", "E1812", "0", "", "Class0","{202DEC2E-336B-4669-9EFF-DE5EEEF45CEA}");

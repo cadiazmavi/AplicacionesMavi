@@ -1,0 +1,13 @@
+tocTab[tocTab.length] = new Array("0.7.17:1", "", "PreguntasDeSeguridad", "EARoot/EA7/EA17/EA594.htm", "175.png", "108", "0", "", "Logical diagram0","{C3DE8807-C27B-441d-9D78-AB671F63840C}");
+tocTab[tocTab.length] = new Array("0.7.17:2", "", "FRM_NVA_OPCION", "EARoot/EA7/EA17/EA597.htm", "5.png", "E1772", "0", "", "Class0","{CE96827B-DE0D-45f5-9DCD-ED14642F1623}");
+tocTab[tocTab.length] = new Array("0.7.17:3", "", "FRM_NVA_OPCION", "EARoot/EA7/EA17/EA598.htm", "5.png", "E1773", "0", "", "Class0","{BF94DD5E-B263-44d6-9225-4E40B0BBA35E}");
+tocTab[tocTab.length] = new Array("0.7.17:4", "", "FRM_NVA_PREGUNTA", "EARoot/EA7/EA17/EA599.htm", "5.png", "E1775", "0", "", "Class0","{234BDFCC-80A7-4d0c-B7A1-0161F8FCB390}");
+tocTab[tocTab.length] = new Array("0.7.17:5", "", "FRM_NVA_PREGUNTA", "EARoot/EA7/EA17/EA600.htm", "5.png", "E1776", "0", "", "Class0","{ED3AE31B-66D0-4896-9F93-3770FA9A05BB}");
+tocTab[tocTab.length] = new Array("0.7.17:6", "", "FRM_NVO_CONTROL", "EARoot/EA7/EA17/EA601.htm", "5.png", "E1778", "0", "", "Class0","{6B58DEA9-F534-4c8b-86E3-A23C46C39232}");
+tocTab[tocTab.length] = new Array("0.7.17:7", "", "FRM_NVO_CONTROL", "EARoot/EA7/EA17/EA602.htm", "5.png", "E1779", "0", "", "Class0","{2E820EBC-1295-4509-86EB-FE0D336AA641}");
+tocTab[tocTab.length] = new Array("0.7.17:8", "", "FRM_REPORTE_CONTROLES", "EARoot/EA7/EA17/EA603.htm", "5.png", "E1780", "0", "", "Class0","{D2D91353-9367-44d4-A028-4D8A9572367C}");
+tocTab[tocTab.length] = new Array("0.7.17:9", "", "FRM_REPORTE_CONTROLES", "EARoot/EA7/EA17/EA604.htm", "5.png", "E1781", "0", "", "Class0","{12F45D74-FF95-4ab6-B9A0-E7966B706F4E}");
+tocTab[tocTab.length] = new Array("0.7.17:10", "", "FRM_REPORTE_PREGUNTAS", "EARoot/EA7/EA17/EA605.htm", "5.png", "E1782", "0", "", "Class0","{979C85A2-853E-4db1-AD1A-C63E98390B5A}");
+tocTab[tocTab.length] = new Array("0.7.17:11", "", "FRM_REPORTE_PREGUNTAS", "EARoot/EA7/EA17/EA606.htm", "5.png", "E1783", "0", "", "Class0","{4D791AB5-46EF-4012-B7FD-5F908AF7EE97}");
+tocTab[tocTab.length] = new Array("0.7.17:12", "", "ComboboxItem", "EARoot/EA7/EA17/EA607.htm", "5.png", "E1774", "E1775", "", "Class0","{D27FA3C0-FAA3-4a83-B51D-ED4BE9CA4748}");
+tocTab[tocTab.length] = new Array("0.7.17:13", "", "ComboboxItem", "EARoot/EA7/EA17/EA608.htm", "5.png", "E1777", "E1778", "", "Class0","{AEB700FD-A5AC-4676-BF62-96C761D746D9}");

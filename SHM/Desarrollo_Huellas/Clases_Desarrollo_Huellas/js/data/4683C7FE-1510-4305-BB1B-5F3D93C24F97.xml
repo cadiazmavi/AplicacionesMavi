@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.5:1", "", "MetroFramework2", "EARoot/EA5/EA38.htm", "175.png", "105", "0", "", "Logical diagram0","{8D077F40-C505-4389-9913-2A141C87E59E}");
+tocTab[tocTab.length] = new Array("0.5:2", "", "MetroMessageBoxProperties", "EARoot/EA5/EA42.htm", "5.png", "E1753", "0", "", "Class0","{002B3D7D-ED57-486a-ABA0-2032FAE35F3A}");
+tocTab[tocTab.length] = new Array("0.5.1", "1", "Localization", "EARoot/EA5/EA1/EA46.htm", "4.png", "", "", "{6B09D182-DE29-4f79-92DD-38949E1048D9}", "Package");
+tocTab[tocTab.length] = new Array("0.5.2", "1", "New", "EARoot/EA5/EA2/EA50.htm", "4.png", "", "", "{92D48C3E-673D-4e5e-B00B-F8675D2D1C36}", "Package");

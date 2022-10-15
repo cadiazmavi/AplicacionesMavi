@@ -1,0 +1,408 @@
+Folder PATH listing
+Volume serial number is 2EFD-B616
+C:.
+|   tee.txt
+|   VerificadorDeHuellas.sln
+|   VerificadorDeHuellas.v11.suo
+|   VerificadorDeHuellas.v12.suo
+|   VerificadorDeHuellas.vssscc
+|   
++---.vs
+|   +---config
+|   |       applicationhost.config
+|   |       
+|   \---VerificadorDeHuellas
+|       +---config
+|       |       applicationhost.config
+|       |       
+|       +---v15
+|       |   |   .suo
+|       |   |   
+|       |   \---Server
+|       |       \---sqlite3
+|       |               db.lock
+|       |               storage.ide
+|       |               storage.ide-shm
+|       |               storage.ide-wal
+|       |               
+|       \---v16
+|           \---Server
+|               \---sqlite3
+|                       db.lock
+|                       storage.ide
+|                       storage.ide-shm
+|                       storage.ide-wal
+|                       
+\---VerificadorDeHuellas
+    |   Buscar.cs
+    |   ClassDiagram1.cd
+    |   ConexionTelnet.cs
+    |   ControlPersonal.cs
+    |   ExcDelphi.cs
+    |   finger.ico
+    |   FingerFinder.svc
+    |   FingerFinder.svc.cs
+    |   FingerFinder.svc.cs.orig
+    |   HistoricoActualizacionDocumentos.cs
+    |   IBuro.cs
+    |   IBuroDigital.cs
+    |   IBuroDigital.cs.orig
+    |   IConfiguraciones.cs
+    |   IControlPersonal.cs
+    |   IFinder.cs
+    |   ILiberador.cs
+    |   IOtrosProyec.cs
+    |   Liberador.cs
+    |   packages.config
+    |   VerificadorDeHuellas.csproj
+    |   VerificadorDeHuellas.csproj.orig
+    |   VerificadorDeHuellas.csproj.user
+    |   VerificadorDeHuellas.csproj.vspscc
+    |   web.config
+    |   web.Debug.config
+    |   web.Release.config
+    |   
+    +---bin
+    |       CrypterPass.dll
+    |       DPUruNet.dll
+    |       fnPassword.dll
+    |       Ionic.Zip.dll
+    |       MySql.Data.dll
+    |       Nini.dll
+    |       TFielLib.dll
+    |       VerificadorDeHuellas.dll
+    |       VerificadorDeHuellas.dll.config
+    |       VerificadorDeHuellas.pdb
+    |       
+    +---DataContracts
+    |   |   Funciones.cs
+    |   |   
+    |   +---BuroDigital
+    |   |       ActualizarPorCobro.cs
+    |   |       CambioVendedor.cs
+    |   |       Configuracion.cs
+    |   |       Consultas.cs
+    |   |       DC_AnalisisCondicionado.cs
+    |   |       DC_AutorizaConsulta.cs
+    |   |       DC_CandadoFotos.cs
+    |   |       DC_CandadoRegCteFinal.cs
+    |   |       DC_DatosDimaR.cs
+    |   |       DC_DATOS_SEGURO.cs
+    |   |       dc_DigitalizacionMovsVenta.cs
+    |   |       DC_FotosQR.cs
+    |   |       DC_HuellaCliente.cs
+    |   |       DC_ImagenesCargadas.cs
+    |   |       DC_PreguntaSeguridad.cs
+    |   |       DC_PreguntasSeguridadExtras.cs
+    |   |       dc_ReporteDigitalizacion.cs
+    |   |       DC_Reporte_Cambio_Estatus_Huella.cs
+    |   |       DC_SetIDcancelacionS.cs
+    |   |       dc_UsuariosDigitalizacion.cs
+    |   |       DocumentosValidados.cs
+    |   |       DT_CambioDomicilio.cs
+    |   |       DT_ClaveINTL.cs
+    |   |       DT_DireccionCliente.cs
+    |   |       DT_PreguntasDeSeguridad.cs
+    |   |       DT_ReporteCambioEst.cs
+    |   |       DT_ReporteCambiosDomicilio.cs
+    |   |       FormatoHojaVerde.cs
+    |   |       HistoricoActualizacionDocumentos.cs
+    |   |       HistoricoValidacion.cs
+    |   |       ImgPorCobro.cs
+    |   |       ListaCargaDoc.cs
+    |   |       ListActCob.cs
+    |   |       ListaHuellasEnCaja.cs
+    |   |       ListCertifi.cs
+    |   |       M_AccesoHojaVerde.cs
+    |   |       M_CatalogoDocumentos.cs
+    |   |       M_Cliente_HV.cs
+    |   |       M_ConfDepuracion.cs
+    |   |       M_Contacto_HV.cs
+    |   |       M_SGreanLeaf.cs
+    |   |       PrecargarDatos.cs
+    |   |       ReporteHuellasIlegibles.cs
+    |   |       SolicitudCliente.cs
+    |   |       
+    |   +---CargaDocs
+    |   |       DC_MaviDocCte.cs
+    |   |       M_AccesoPerfiles.cs
+    |   |       M_Documentos.cs
+    |   |       M_DocumentosAdjuntos.cs
+    |   |       M_Movimientos.cs
+    |   |       M_ReporteDocumentos.cs
+    |   |       M_Sucursal.cs
+    |   |       M_SucursalExcenta.cs
+    |   |       
+    |   +---Checadas
+    |   |       RegistroChecada.cs
+    |   |       
+    |   +---ClienteFinal
+    |   |       CD_CargaDeMovimientos.cs
+    |   |       DC_AsociadoContactos.cs
+    |   |       DC_BancosCteFinal.cs
+    |   |       DC_ClienteFinal.cs
+    |   |       DC_CoincidenciasCteFinal.cs
+    |   |       DC_CtoBF.cs
+    |   |       DC_DatosCredilanas.cs
+    |   |       DC_DetalleMovCteFinal.cs
+    |   |       DC_DispersionConsulta.cs
+    |   |       DC_DomicilioCtoBF.cs
+    |   |       DC_EmpleoBF.cs
+    |   |       DC_EmpleoCtoBF.cs
+    |   |       DC_FiltroColonias.cs
+    |   |       DC_FotoNoPresente.cs
+    |   |       DC_MotivosLiberacion.cs
+    |   |       DC_Ubicacion.cs
+    |   |       ExisteDocumentoClass.cs
+    |   |       ExploradorCargaMovimientos.cs
+    |   |       M_AdjuntarBoleta.cs
+    |   |       M_BoletaBFExplorador.cs
+    |   |       M_BoletasBF.cs
+    |   |       M_ReporteDocumentosCargados.cs
+    |   |       M_TipoBF.cs
+    |   |       M_ValidacionTelefonica.cs
+    |   |       ParametersClass.cs
+    |   |       Perfiles.cs
+    |   |       
+    |   +---Configuracion
+    |   |       Datos_BF.cs
+    |   |       Datos_CadenaCoincidencia.cs
+    |   |       Datos_CteRelacion.cs
+    |   |       Datos_HistorialBF.cs
+    |   |       M_Cambio_Vendedor_Dima.cs
+    |   |       M_Departamento.cs
+    |   |       M_Excluir_DepartamentoPuesto_Red_Dima.cs
+    |   |       M_HuellaPersonal.cs
+    |   |       
+    |   +---INTL
+    |   |       cadenaINTL.cs
+    |   |       ClienteINTL.cs
+    |   |       DC_campoINTL.cs
+    |   |       DC_segmentoAU.cs
+    |   |       DC_segmentoES.cs
+    |   |       DC_segmentoINTL.cs
+    |   |       DC_segmentoPA.cs
+    |   |       DC_segmentoPI.cs
+    |   |       DC_segmentoPN.cs
+    |   |       DT_ClaveINTL.cs
+    |   |       EnumINTL.cs
+    |   |       
+    |   +---OtrosProyec
+    |   |       dc_MatrizAutorizacion.cs
+    |   |       dc_ReporteDeAutorizacion.cs
+    |   |       
+    |   +---Reportes
+    |   |       M_DimR.cs
+    |   |       M_ESPE.cs
+    |   |       
+    |   +---UtileriasSHM
+    |   |       DC_EventoVenta.cs
+    |   |       DC_Persona.cs
+    |   |       DC_Tarjeta.cs
+    |   |       
+    |   \---venta_vales
+    |           DC_ClieAtteConfigListOpc.cs
+    |           DC_Cliente.cs
+    |           DC_CodigoRecomendador.cs
+    |           DC_Credencials.cs
+    |           DC_CteFingerSHM.cs
+    |           DC_DatosRecibos.cs
+    |           DC_DatosValera.cs
+    |           DC_EditClientAttentionModel.cs
+    |           DC_EncabezadoEstCta.cs
+    |           DC_EstadoCuenta.cs
+    |           DC_FiltrosReporteGeneralVales.cs
+    |           DC_FolioCalzado.cs
+    |           DC_MaximoVales.cs
+    |           DC_RecibosPagos.cs
+    |           DC_Telefono.cs
+    |           M_Falla_Huella.cs
+    |           
+    +---Datos
+    |   |   Buro.cs
+    |   |   BuroDigital.cs
+    |   |   BuroDigital.cs.orig
+    |   |   Checada.cs
+    |   |   Conexiones.cs
+    |   |   Documento.cs
+    |   |   Funciones.cs
+    |   |   OtrosProyec.cs
+    |   |   
+    |   +---B_Digital
+    |   |       BURO_DIMA.cs
+    |   |       BURO_Huella.cs
+    |   |       BURO_TarjetaMenudeo.cs
+    |   |       BURO_Telefono.cs
+    |   |       
+    |   +---Clientes_Finales
+    |   |       CF_Coincidencias.cs
+    |   |       CF_Coincidencias.cs.orig
+    |   |       CF_CteBF.cs
+    |   |       CF_CteBF.cs.orig
+    |   |       CF_CtoBF.cs
+    |   |       CF_CtoBF.cs.orig
+    |   |       CF_Foto.cs
+    |   |       CF_Tarjeta.cs
+    |   |       CF_Telefono.cs
+    |   |       
+    |   +---Documentos
+    |   |       Documento.cs
+    |   |       Documento.cs.orig
+    |   |       
+    |   +---Reportes
+    |   |       AutorizaCambioDIMA.cs
+    |   |       
+    |   +---Usuario
+    |   |       Acceso.cs
+    |   |       
+    |   +---UtileriasSHM
+    |   |       SHM_Banco.cs
+    |   |       SHM_BD.cs
+    |   |       SHM_CuentaCLABE.cs
+    |   |       SHM_Dispersion.cs
+    |   |       SHM_Persona.cs
+    |   |       SHM_Tarjeta.cs
+    |   |       SHM_Telefono.cs
+    |   |       SHM_Venta.cs
+    |   |       
+    |   \---VentaVales
+    |           CodigoRecomendador.cs
+    |           
+    +---obj
+    |   +---Debug
+    |   |   |   CoreCompileInputs.cache
+    |   |   |   DesignTimeResolveAssemblyReferences.cache
+    |   |   |   DesignTimeResolveAssemblyReferencesInput.cache
+    |   |   |   VerificadorDeHuellas.csproj.CopyComplete
+    |   |   |   VerificadorDeHuellas.csproj.CoreCompileInputs.cache
+    |   |   |   VerificadorDeHuellas.csproj.FileListAbsolute.txt
+    |   |   |   VerificadorDeHuellas.csprojResolveAssemblyReference.cache
+    |   |   |   VerificadorDeHuellas.dll
+    |   |   |   VerificadorDeHuellas.pdb
+    |   |   |   
+    |   |   \---AspnetCompileMerge
+    |   |       \---Source
+    |   |           |   ClassDiagram1.cd
+    |   |           |   finger.ico
+    |   |           |   FingerFinder.svc
+    |   |           |   web.config
+    |   |           |   
+    |   |           +---bin
+    |   |           |       CrypterPass.dll
+    |   |           |       Ionic.Zip.dll
+    |   |           |       MySql.Data.dll
+    |   |           |       Nini.dll
+    |   |           |       TFielLib.dll
+    |   |           |       VerificadorDeHuellas.dll
+    |   |           |       VerificadorDeHuellas.pdb
+    |   |           |       
+    |   |           \---RefExt
+    |   |                   CrypterPass.dll
+    |   |                   Ionic.Zip.dll
+    |   |                   MySql.Data.dll
+    |   |                   Nini.dll
+    |   |                   Tamir.SharpSSH.dll
+    |   |                   TFielLib.dll
+    |   |                   
+    |   \---Release
+    |       |   .NETFramework,Version=v4.0.AssemblyAttributes.cs
+    |       |   DesignTimeResolveAssemblyReferences.cache
+    |       |   DesignTimeResolveAssemblyReferencesInput.cache
+    |       |   VerificadorDeHuellas.csproj.AssemblyReference.cache
+    |       |   VerificadorDeHuellas.csproj.CopyComplete
+    |       |   VerificadorDeHuellas.csproj.CoreCompileInputs.cache
+    |       |   VerificadorDeHuellas.csproj.FileListAbsolute.txt
+    |       |   VerificadorDeHuellas.csprojAssemblyReference.cache
+    |       |   VerificadorDeHuellas.csprojResolveAssemblyReference.cache
+    |       |   VerificadorDeHuellas.dll
+    |       |   VerificadorDeHuellas.pdb
+    |       |   _WPPLastBuildInfo.txt
+    |       |   
+    |       +---AspnetCompileMerge
+    |       |   \---Source
+    |       |       |   finger.ico
+    |       |       |   FingerFinder.svc
+    |       |       |   web.config
+    |       |       |   
+    |       |       +---bin
+    |       |       |       CrypterPass.dll
+    |       |       |       Ionic.Zip.dll
+    |       |       |       MySql.Data.dll
+    |       |       |       Nini.dll
+    |       |       |       TFielLib.dll
+    |       |       |       VerificadorDeHuellas.dll
+    |       |       |       
+    |       |       \---RefExt
+    |       |               CrypterPass.dll
+    |       |               Ionic.Zip.dll
+    |       |               MySql.Data.dll
+    |       |               Nini.dll
+    |       |               Tamir.SharpSSH.dll
+    |       |               TFielLib.dll
+    |       |               
+    |       +---Package
+    |       |   \---PackageTmp
+    |       |       |   ClassDiagram1.cd
+    |       |       |   finger.ico
+    |       |       |   FingerFinder.svc
+    |       |       |   web.config
+    |       |       |   
+    |       |       +---bin
+    |       |       |       CrypterPass.dll
+    |       |       |       DPUruNet.dll
+    |       |       |       fnPassword.dll
+    |       |       |       Ionic.Zip.dll
+    |       |       |       MySql.Data.dll
+    |       |       |       Nini.dll
+    |       |       |       TFielLib.dll
+    |       |       |       VerificadorDeHuellas.dll
+    |       |       |       VerificadorDeHuellas.pdb
+    |       |       |       
+    |       |       \---RefExt
+    |       |               CrypterPass.dll
+    |       |               dpfj.dll
+    |       |               Ionic.Zip.dll
+    |       |               MySql.Data.dll
+    |       |               Nini.dll
+    |       |               Tamir.SharpSSH.dll
+    |       |               TFielLib.dll
+    |       |               
+    |       +---TempPE
+    |       \---TransformWebConfig
+    |           +---assist
+    |           |       web.config
+    |           |       
+    |           +---original
+    |           |       web.config
+    |           |       
+    |           \---transformed
+    |                   web.config
+    |                   
+    +---Objetos
+    |       EnumAndStruct.cs
+    |       Promotores.cs
+    |       
+    +---Properties
+    |   |   AssemblyInfo.cs
+    |   |   
+    |   \---PublishProfiles
+    |           EquipoLocal.pubxml
+    |           EquipoLocal.pubxml.user
+    |           LOCAL.pubxml
+    |           LOCAL.pubxml.user
+    |           SIDCUBOS.pubxml
+    |           SIDCUBOS.pubxml.user
+    |           SIDCUBOS_OLD.pubxml
+    |           SIDCUBOS_OLD.pubxml.user
+    |           SIDREAL.pubxml
+    |           SIDREAL.pubxml.user
+    |           
+    \---RefExt
+            CrypterPass.dll
+            dpfj.dll
+            Ionic.Zip.dll
+            MySql.Data.dll
+            Nini.dll
+            Tamir.SharpSSH.dll
+            TFielLib.dll
+            

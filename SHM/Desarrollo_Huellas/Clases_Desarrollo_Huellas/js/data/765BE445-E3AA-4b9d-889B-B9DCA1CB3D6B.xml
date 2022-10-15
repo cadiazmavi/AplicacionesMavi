@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.3:1", "", "DPUruNet", "EARoot/EA3/EA26.htm", "175.png", "96", "0", "", "Logical diagram0","{4C9DB13F-D102-4d7c-A99E-E8A744E83547}");
+tocTab[tocTab.length] = new Array("0.3:2", "", "NFIQ", "EARoot/EA3/EA29.htm", "5.png", "E1671", "0", "", "Class0","{A3B2A60F-BA17-411f-BEE1-90D6E440CF9E}");
+tocTab[tocTab.length] = new Array("0.3:3", "", "NFIQ_ALGORITHM", "EARoot/EA3/EA30.htm", "247.png", "E1669", "E1671", "", "Enumeration0","{3CBFCD18-A2D9-4680-B2A8-27C586A31E7D}");
+tocTab[tocTab.length] = new Array("0.3:4", "", "NFIQ_SCORE", "EARoot/EA3/EA31.htm", "247.png", "E1670", "E1671", "", "Enumeration0","{62E3DB2D-EEDC-49c7-A233-D3F02C2BEFCE}");

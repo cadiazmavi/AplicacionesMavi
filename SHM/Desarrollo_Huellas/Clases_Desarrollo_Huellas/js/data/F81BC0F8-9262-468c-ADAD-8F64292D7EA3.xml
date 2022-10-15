@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.4:1", "", "hojaverde", "EARoot/EA4/EA32.htm", "175.png", "126", "0", "", "Logical diagram0","{91499B09-3706-4303-826B-16DEC6CE9F98}");
+tocTab[tocTab.length] = new Array("0.4:2", "", "FRM_HOJA_VERDE", "EARoot/EA4/EA35.htm", "5.png", "E1972", "0", "", "Class0","{DB3C3FF5-4835-4bec-BB25-B9C0FF12356F}");
+tocTab[tocTab.length] = new Array("0.4:3", "", "FRM_HOJA_VERDE", "EARoot/EA4/EA36.htm", "5.png", "E1973", "0", "", "Class0","{FB475EDB-0C7C-4c19-868F-AC1741D414F2}");
+tocTab[tocTab.length] = new Array("0.4:4", "", "ComboboxItem", "EARoot/EA4/EA37.htm", "5.png", "E1971", "E1972", "", "Class0","{907D9E7E-B9CF-4a3a-B0CF-99E1E78E9013}");

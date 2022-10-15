@@ -1,0 +1,16 @@
+tocTab[tocTab.length] = new Array("0.2:1", "", "Datos", "EARoot/EA2/EA201.htm", "175.png", "157", "0", "", "Logical diagram0","{7F9EE6C0-B6DB-47ff-858B-08EC5340FB3F}");
+tocTab[tocTab.length] = new Array("0.2:2", "", "Buro", "EARoot/EA2/EA205.htm", "5.png", "E2543", "0", "", "Class0","{61A83792-BF0A-4a5e-BC52-1CA8F72A5385}");
+tocTab[tocTab.length] = new Array("0.2:3", "", "BuroDigital", "EARoot/EA2/EA206.htm", "5.png", "E2545", "0", "", "Class0","{1639E996-3695-4731-8121-97345E795110}");
+tocTab[tocTab.length] = new Array("0.2:4", "", "Checada", "EARoot/EA2/EA207.htm", "5.png", "E2546", "0", "", "Class0","{77E75124-049B-4a4c-A76B-EA2666DFF744}");
+tocTab[tocTab.length] = new Array("0.2:5", "", "Conexiones", "EARoot/EA2/EA209.htm", "5.png", "E2547", "0", "", "Class0","{4654CD7D-0822-41a9-A5AD-3F2CE9503B2A}");
+tocTab[tocTab.length] = new Array("0.2:6", "", "ControlPersonal", "EARoot/EA2/EA210.htm", "5.png", "E2569", "0", "", "Class0","{226FE73C-0F91-4418-8E19-A7B5625D2F0A}");
+tocTab[tocTab.length] = new Array("0.2:7", "", "Funciones", "EARoot/EA2/EA212.htm", "5.png", "E2549", "0", "", "Class0","{CDDE8EE4-8C9F-4e3e-B7D0-ABE7B807053B}");
+tocTab[tocTab.length] = new Array("0.2:8", "", "OtrosProyec", "EARoot/EA2/EA213.htm", "5.png", "E2550", "0", "", "Class0","{F5D7F382-6E2E-4589-9903-90346E43D06F}");
+tocTab[tocTab.length] = new Array("0.2:9", "", "«struct» cte", "EARoot/EA2/EA218.htm", "5.png", "E2544", "E2545", "", "Class0","{571B4F3D-A913-405c-9381-D352AAF76D0E}");
+tocTab[tocTab.length] = new Array("0.2.1", "1", "B_Digital", "EARoot/EA2/EA1/EA221.htm", "4.png", "", "", "{0AEF83ED-CD5E-4191-989E-FBDA45AE2F5A}", "Package");
+tocTab[tocTab.length] = new Array("0.2.2", "1", "Clientes_Finales", "EARoot/EA2/EA2/EA229.htm", "4.png", "", "", "{4CDC67FD-9CF7-4487-8758-A76EDC99739C}", "Package");
+tocTab[tocTab.length] = new Array("0.2.3", "1", "Documentos", "EARoot/EA2/EA3/EA237.htm", "4.png", "", "", "{209E69AD-4AB8-481d-A5D0-17D67FBCC459}", "Package");
+tocTab[tocTab.length] = new Array("0.2.4", "1", "Permisos", "EARoot/EA2/EA4/EA242.htm", "4.png", "", "", "{BB33409A-65E6-4cfb-8B94-E47B40267424}", "Package");
+tocTab[tocTab.length] = new Array("0.2.5", "1", "Reportes", "EARoot/EA2/EA5/EA246.htm", "4.png", "", "", "{7F43C53D-6D7F-4908-A700-0530B408F4C0}", "Package");
+tocTab[tocTab.length] = new Array("0.2.6", "1", "UtileriasSHM", "EARoot/EA2/EA6/EA250.htm", "4.png", "", "", "{5D03362F-95B3-45fe-8F92-D0CF29963F46}", "Package");
+tocTab[tocTab.length] = new Array("0.2.7", "1", "VentaVales", "EARoot/EA2/EA7/EA260.htm", "4.png", "", "", "{7184CE6F-BCA6-44eb-BCB0-8A9DAF0EEBC1}", "Package");

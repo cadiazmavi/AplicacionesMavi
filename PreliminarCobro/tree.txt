@@ -1,0 +1,226 @@
+Folder PATH listing
+Volume serial number is 2EFD-B616
+PreliminarCobro
+|   .gitignore
+|   PreliminarCobro.sln
+|   tree.txt
+|   
++---packages
+|   +---BouncyCastle.1.8.3.1
+|   |           
+|   +---Google.Protobuf.3.6.1
+|   |               
+|   +---K4os.Compression.LZ4.1.1.11
+|   |               
+|   +---K4os.Compression.LZ4.Streams.1.1.11
+|   |               
+|   +---K4os.Hash.xxHash.1.0.6
+|   |               
+|   +---MetroModernUI.1.4.0.0
+|   |               
+|   +---MySql.Data.8.0.11
+|   |               
+|   +---SSH.NET.2016.1.0
+|   |               
+|   +---System.Buffers.4.5.0
+|   |               
+|   +---System.Memory.4.5.3
+|   |               
+|   \---System.Runtime.CompilerServices.Unsafe.4.6.0
+|                   
+\---PreliminarCobro
+    |   app.config
+    |   ColoresApp.cs
+    |   ConectaSql.dll
+    |   ConectaSql.dll.config
+    |   Conexion.dll
+    |   Extensiones.cs
+    |   finance-calculator.ico
+    |   fnPassword.dll
+    |   Global.cs
+    |   MySql.Data.dll
+    |   MySql.Data.xml
+    |   packages.config
+    |   PreliminarCobro.csproj
+    |   PreliminarCobro.csproj.user
+    |   Program.cs
+    |               
+    +---Controllers
+    |       ApoyoCobranzaDimaController.cs
+    |       AsignacionAvalesClientesJobController.cs
+    |       AvalController.cs
+    |       ClienteInfoController.cs
+    |       CobroXPoliticaHistMAVIController.cs
+    |       CodigoPostalInfoController.cs
+    |       Conecta.cs
+    |       ConfigPreliminarController.cs
+    |       ConvenioLCTController.cs
+    |       ConvenioRDController.cs
+    |       Cte_FinalController.cs
+    |       DetalleVentaController.cs
+    |       DM0253CXCFacturaCteAsociadoMaviController.cs
+    |       DoctosController.cs
+    |       FuncionesGlobales.cs
+    |       FuncionesGlobalesSQL.cs
+    |       GestionCobranzaController.cs
+    |       GestorCobranzaController.cs
+    |       NotasBitacoraController.cs
+    |       ReferenciaDineraliaController.cs
+    |       TcIRM0906_ConfigDivisionYParamController.cs
+    |       TIDCtrlSesionesAppController.cs
+    |       UsuarioInfoController.cs
+    |       
+    +---Models
+    |       ApoyoCobranzaDima.cs
+    |       AsignacionAvalesClientesJob.cs
+    |       Aval.cs
+    |       AvalBF.cs
+    |       ClienteInfo.cs
+    |       ClientePromesasPago.cs
+    |       CobroXPoliticaHistMAVI.cs
+    |       CodigoPostalInfo.cs
+    |       ConfigPreliminar.cs
+    |       ConvenioLCT.cs
+    |       ConvenioRD.cs
+    |       ConvenioRDConfig.cs
+    |       Cte_Final.cs
+    |       DetalleVenta.cs
+    |       DM0253CXCFacturaCteAsociadoMavi.cs
+    |       DoctosHijos.cs
+    |       DoctosPadres.cs
+    |       ExisteLoc.cs
+    |       GestionCobranza.cs
+    |       GestorCobranza.cs
+    |       NotasBitacora.cs
+    |       ReferenciaDineralia.cs
+    |       SPCXCCalculadorRDPreliminar.cs
+    |       TcIRM0906_ConfigDivisionYParam.cs
+    |       TIDCtrlSesionesApp.cs
+    |       UsuarioInfo.cs
+    |       
+    +---Properties
+    |       AssemblyInfo.cs
+    |       Resources.Designer.cs
+    |       Resources.resx
+    |       Settings.Designer.cs
+    |       Settings.settings
+    |       
+    +---Resources
+    |       1486564168-finance-bank-check_81495.png
+    |       1486564170-finance-replenishment_81502.png
+    |       1486564179-finance-saving_81499.png
+    |       1486564180-finance-financial-report_81493.ico
+    |       1486564399-close_81512.png
+    |       1491254077-11document-remove_82912.png
+    |       1492692368-7email_83536.png
+    |       administrativetools_administrativas_3899.ico
+    |       Afectar.png
+    |       angle-arrow-down_icon-icons.com_73683.png
+    |       ApoyoCobranza.png
+    |       caja.png
+    |       caja1.png
+    |       caja2.png
+    |       Cash_register.png
+    |       check_ok_accept_apply_1582.png
+    |       contactlist_theuser_804.png
+    |       Dinero Flecha.png
+    |       emailmessage_correoelectronic_6970.png
+    |       finance-calculator.ico
+    |       finance-calculator.png
+    |       fingerprint.png
+    |       generatetables_ok_home_out_edit_generar_1491.ico
+    |       grafica.png
+    |       kmail_mail_pen_817.png
+    |       Limpiar.png
+    |       Loading.gif
+    |       MailCelTel2.png
+    |       mayor que.jpg
+    |       menor que.jpg
+    |       moneda.png
+    |       nip.png
+    |       RD.ico
+    |       RD.png
+    |       savedisk_floppydisk_guardar_1543.png
+    |       Search.png
+    |       servicios.png
+    |       SHMFinger.png
+    |       Sin t¡tulo-1.png
+    |       tarjeta2.png
+    |       tarjetaMA.png
+    |       tarjetaMA2.png
+    |       tarjetaVIU2.png
+    |       TerminalPagos.png
+    |       TiempoAire.png
+    |       unlock.png
+    |       User_Manual-80_icon-icons.com_57245.ico
+    |       warning-error-icon-png-33.png
+    |       XFMail_mail_contacts_5985.png
+    |       
+    +---Utils
+    |       XmlConvert.cs
+    |       
+    \---Views
+            DM0312_Loading_.cs
+            DM0312_Loading_.Designer.cs
+            DM0312_Loading_.resx
+            frmApoyoCobranzaDima.cs
+            frmApoyoCobranzaDima.Designer.cs
+            frmApoyoCobranzaDima.resx
+            frmAvalBeneficiarioFinal.cs
+            frmAvalBeneficiarioFinal.Designer.cs
+            frmAvalBeneficiarioFinal.resx
+            frmBeneficiarioFinal.cs
+            frmBeneficiarioFinal.Designer.cs
+            frmBeneficiarioFinal.resx
+            frmCambioDomicilio.cs
+            frmCambioDomicilio.Designer.cs
+            frmCambioDomicilio.resx
+            frmCobroXPolitica.cs
+            frmCobroXPolitica.Designer.cs
+            frmCobroXPolitica.resx
+            frmCodigoPostal.cs
+            frmCodigoPostal.Designer.cs
+            frmCodigoPostal.resx
+            frmCorreoTelefonos.cs
+            frmCorreoTelefonos.Designer.cs
+            frmCorreoTelefonos.resx
+            frmDetllesConvenioRD.cs
+            frmDetllesConvenioRD.Designer.cs
+            frmDetllesConvenioRD.resx
+            FrmGeneraConvenioRD.cs
+            FrmGeneraConvenioRD.Designer.cs
+            FrmGeneraConvenioRD.resx
+            frmInfoAdicional.cs
+            frmInfoAdicional.Designer.cs
+            frmInfoAdicional.resx
+            frmInfoCliente.cs
+            frmInfoCliente.Designer.cs
+            frmInfoCliente.resx
+            frmInfoDetalleVenta.cs
+            frmInfoDetalleVenta.Designer.cs
+            frmInfoDetalleVenta.resx
+            frmLCT.cs
+            frmLCT.Designer.cs
+            frmLCT.resx
+            FrmMensaje.cs
+            FrmMensaje.Designer.cs
+            FrmMensaje.resx
+            frmNipCobro.cs
+            frmNipCobro.Designer.cs
+            frmNipCobro.resx
+            frmPreliminarCobro.cs
+            frmPreliminarCobro.Designer.cs
+            frmPreliminarCobro.resx
+            frmQuienRealizaCobro.cs
+            frmQuienRealizaCobro.Designer.cs
+            frmQuienRealizaCobro.resx
+            frmUsrCancelaCobro.cs
+            frmUsrCancelaCobro.Designer.cs
+            frmUsrCancelaCobro.resx
+            frmUsrCondonaMoratorios.cs
+            frmUsrCondonaMoratorios.Designer.cs
+            frmUsrCondonaMoratorios.resx
+            frmUsrSeguroVida.cs
+            frmUsrSeguroVida.Designer.cs
+            frmUsrSeguroVida.resx
+            

@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.7.25.3:1", "", "Modelo", "EARoot/EA7/EA25/EA3/EA770.htm", "175.png", "122", "0", "", "Logical diagram0","{4A9B35DA-6C3F-4147-A00A-825A5EAC82CF}");
+tocTab[tocTab.length] = new Array("0.7.25.3:2", "", "CoordeCodiRecoMA", "EARoot/EA7/EA25/EA3/EA773.htm", "5.png", "E1881", "0", "", "Class0","{CAFCE3CC-23C1-4d9f-872A-412E5C9EBFA1}");
+tocTab[tocTab.length] = new Array("0.7.25.3:3", "", "RespuestaNIP", "EARoot/EA7/EA25/EA3/EA774.htm", "5.png", "E1883", "0", "", "Class0","{519583CE-3685-4af1-AD83-4CF2E0105341}");

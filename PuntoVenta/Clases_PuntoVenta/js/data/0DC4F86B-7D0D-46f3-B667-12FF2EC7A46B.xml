@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.6:1", "", "Utilidades", "EARoot/EA6/EA300.htm", "175.png", "19", "0", "", "Logical diagram0","{CCE74055-F620-4925-8484-DAD54C56D6E5}");
+tocTab[tocTab.length] = new Array("0.6:2", "", "SqlDataReaderList", "EARoot/EA6/EA303.htm", "5.png", "E371", "0", "", "Class0","{638300B9-27B6-4629-9FB8-B330B040A694}");
+tocTab[tocTab.length] = new Array("0.6:3", "", "Utilidades", "EARoot/EA6/EA304.htm", "5.png", "E373", "0", "", "Class0","{5CF10F67-5E69-4aeb-BAD2-5496286B39FF}");
+tocTab[tocTab.length] = new Array("0.6:4", "", "ValadorFormulario", "EARoot/EA6/EA305.htm", "5.png", "E372", "0", "", "Class0","{D9E9AC7E-34DD-4f1d-A9A5-377FB3614300}");

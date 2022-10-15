@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0:1", "", "PreliminarCobro", "EARoot/EA1.htm", "175.png", "27", "0", "", "Logical diagram0","{582B892E-380E-4b40-B8F7-F77F2C94C656}");
+tocTab[tocTab.length] = new Array("0:2", "", "ColoresApp", "EARoot/EA4.htm", "5.png", "E687", "0", "", "Class0","{8640E8BB-EB44-4147-911E-09E36D33F009}");
+tocTab[tocTab.length] = new Array("0:3", "", "Extensiones", "EARoot/EA6.htm", "5.png", "E688", "0", "", "Class0","{A8390030-484C-4f49-8A28-34BFC75643C2}");
+tocTab[tocTab.length] = new Array("0:4", "", "Global", "EARoot/EA7.htm", "5.png", "E689", "0", "", "Class0","{BE2F4A9C-6596-4b1c-B3C0-29961F14D75C}");
+tocTab[tocTab.length] = new Array("0:5", "", "Program", "EARoot/EA9.htm", "5.png", "E690", "0", "", "Class0","{2B9C2C79-B711-495e-9AFD-151CF6DE7DD0}");
+tocTab[tocTab.length] = new Array("0.1", "1", "Controllers", "EARoot/EA1/EA15.htm", "4.png", "", "", "{01431F47-BCD2-4d24-BC18-E38BC441BDC5}", "Package");
+tocTab[tocTab.length] = new Array("0.2", "1", "Models", "EARoot/EA2/EA42.htm", "4.png", "", "", "{5B203CA9-11C1-4da3-9495-32E9A040653C}", "Package");
+tocTab[tocTab.length] = new Array("0.3", "1", "Properties", "EARoot/EA3/EA77.htm", "4.png", "", "", "{C390438C-D294-46db-977E-9F1550366711}", "Package");
+tocTab[tocTab.length] = new Array("0.4", "1", "Utils", "EARoot/EA4/EA82.htm", "4.png", "", "", "{13BC58B5-C765-45a9-BD36-1C3CD9C0363C}", "Package");
+tocTab[tocTab.length] = new Array("0.5", "1", "Views", "EARoot/EA5/EA86.htm", "4.png", "", "", "{A182399D-8E1C-4e9b-A50D-2037ADABEAB3}", "Package");

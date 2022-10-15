@@ -1,0 +1,206 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>BuroDigital</title>
+<link href="../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="../../../js/displayToc.js" type="text/javascript"></script>
+<script>
+
+  function switchProjectProperties() {
+			if (document.getElementById("proj00").style.display == "none") {
+				document.getElementById("proj00").style.display = "revert";
+				document.getElementById("proj01").style.display = "revert";
+				document.getElementById("proj02").style.display = "revert";
+				document.getElementById("proj03").style.display = "revert";
+				document.getElementById("proj04").style.display = "revert";
+				document.getElementById("proj05").style.display = "revert";
+			} else {
+				document.getElementById("proj00").style.display = "none";
+				document.getElementById("proj01").style.display = "none";
+				document.getElementById("proj02").style.display = "none";
+				document.getElementById("proj03").style.display = "none";
+				document.getElementById("proj04").style.display = "none";
+				document.getElementById("proj05").style.display = "none";
+			}
+}
+
+		function switchAdvancedProperties(){
+
+			if (document.getElementById("adv00").style.display == "none") {;
+				document.getElementById("adv00").style.display = "revert";
+				document.getElementById("adv01").style.display = "revert";
+			} else {
+				document.getElementById("adv00").style.display = "none";
+				document.getElementById("adv01").style.display = "none";
+			}
+		}
+		function initPage()
+        {			
+			var divs = document.getElementsByClassName("ObjectDetailsNotes");
+			for (var j = 0; j < divs.length; j++) {
+				var tmpStr = divs[j].innerHTML;
+				tmpStr = tmpStr.replace(/&gt;/g, ">");
+				tmpStr = tmpStr.replace(/&lt;/g, "<");
+
+				tmpStr = tmpStr.replace(/#gt;/g, "&gt;");
+				tmpStr = tmpStr.replace(/#lt;/g, "&lt;");
+
+				divs[j].innerHTML = tmpStr;
+			}
+
+            if (document.getElementById('TableGroup') != null)
+            {
+                toggleItem(document.getElementById('TableGroup').getElementsByTagName('li')[0].id.replace("Title", ""));
+            }
+
+        }
+</script>
+<style>
+
+</style>
+</head>
+<body onload="initPage();">
+<div class="section group" >
+
+		<div class="col span_2_of_2 header_frame">
+			<h1> BuroDigital </h1>
+			<!-- <img class="header_image" src="../../../images/ea-banner.png" align="right" alt="Header Image" />-->
+			<img class="header_image" src="../../../images/ea-banner.png" align="right" alt="Header Image" />
+		</div>
+		<div class="col span_2_of_2 breadcrumb_frame">
+			<p><a href="../../EA3.htm">VerificadorDeHuellas</a> / <a href="../EA35.htm">DataContracts</a> / <a href="EA49.htm">BuroDigital</a></p>
+		</div>
+			
+		<table class="contentmaintable">
+			<!-- <tfoot>
+				<tr>
+					<td>foot1</td>
+					<td>foot2</td>
+				</tr>
+			</tfoot> -->
+			<tbody>
+				<tr>
+					<td class="indexcell">
+						<div class="projectBrowserTitle">Project: </div>
+						<ul>
+<li><img src="../../../images/175.png" alt="Diagram"/> <a href="EA47.htm">BuroDigital</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA50.htm">ActualizarPorCobro</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA51.htm">Configuracion</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA52.htm">Consultas</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA53.htm">DC_AnalisisCondicionado</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA54.htm">DC_AutorizaConsulta</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA55.htm">DC_CandadoFotos</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA56.htm">DC_CandadoRegCteFinal</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA57.htm">DC_DATOS_SEGURO</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA58.htm">DC_DatosDimaR</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA59.htm">dc_DigitalizacionMovsVenta</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA60.htm">DC_FotosQR</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA61.htm">DC_HuellaCliente</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA62.htm">DC_ImagenesCargadas</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA63.htm">DC_PreguntaSeguridad</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA64.htm">DC_PreguntasSeguridadExtras</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA65.htm">DC_Reporte_Cambio_Estatus_Huella</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA66.htm">dc_ReporteDigitalizacion</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA67.htm">DC_SetIDcancelacionS</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA68.htm">dc_UsuariosDigitalizacion</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA69.htm">DocumentosValidados</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA70.htm">DT_CambioDomicilio</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA71.htm">DT_ClaveINTL</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA72.htm">DT_DireccionCliente</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA73.htm">DT_PreguntasDeSeguridad</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA74.htm">DT_ReporteCambioEst</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA75.htm">DT_ReporteCambiosDomicilio</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA76.htm">FormatoHojaVerde</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA77.htm">HistoricoActualizacionDocumentos</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA78.htm">historicoValidacion</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA79.htm">ImgPorCobro</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA80.htm">ListaCargaDoc</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA81.htm">ListActCob</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA82.htm">ListaHuellasEnCaja</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA83.htm">ListCertifi</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA84.htm">M_AccesoHojaVerde</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA85.htm">M_CatalogoDocumentos</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA86.htm">M_Cliente_HV</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA87.htm">M_ConfDepuracion</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA88.htm">M_Contacto_HV</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA89.htm">M_SGreanLeaf</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA90.htm">PrecargarDatos</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA91.htm">ReporteHuellasIlegibles</a></li>
+<li><img src="../../../images/5.png" alt="Class"/> <a href="EA92.htm">SolicitudCliente</a></li>
+</ul>
+
+					</td>
+					<td class="contentcell"><div class="pageHeader"></div>
+<div class="PageBody">
+	<span class="ObjectTitle">BuroDigital  : Public   Package</span>
+	<table border="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">14/10/2022 08:10:48 p. m.</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">14/10/2022 08:10:48 p. m.</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><button onclick="switchProjectProperties()"><img src="../../../images/plus03.gif" align="absmiddle" id="proj" /></button>Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">cadiaz</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" >Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><button onclick="switchAdvancedProperties()"><img src="../../../images/plus03.gif" align="absmiddle" id="adv" /></button>Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{0DB9F18D-7A8C-4ef6-807C-EFA89C141374}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+	</table>
+	
+ </div>
+ </td>
+				</tr>
+			</tbody>
+		</table>
+		
+</div>
+</body>
+</html>
+

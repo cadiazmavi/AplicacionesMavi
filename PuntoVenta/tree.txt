@@ -1,0 +1,748 @@
+Folder PATH listing
+Volume serial number is 2EFD-B616
+C:.
+|   .gitignore
+|   App.config
+|   ClaseEstatica.cs
+|   DM0312_Loading_.cs
+|   DM0312_Loading_.Designer.cs
+|   DM0312_Loading_.resx
+|   packages.config
+|   Program.cs
+|   PuntoVenta.csproj
+|   PuntoVenta.csproj.orig
+|   PuntoVenta.csproj.user
+|   PuntoVenta.csproj.user.orig
+|   PuntoVenta.sln
+|   PuntoVenta.v11.suo
+|   PuntoVenta.v12.suo
+|           
++---Controller
+|       AccesosDeUsuario.cs
+|       AgenteController.cs
+|       CAlmacenes.cs
+|       CDetalleEnganche.cs
+|       CDetalleVenta.cs
+|       CDetalleVenta.cs.orig
+|       CDetalleVenta.SalidaDiversa.cs
+|       CInfoArticulos.cs
+|       CInfoSerieArticulos.cs
+|       ClienteController.cs
+|       clsControladorPromociones.cs
+|       clsControladorPromociones.cs.orig
+|       clsPosicionDelMovimiento.cs
+|       clsSolicitudCodigo.cs
+|       clsStd.cs
+|       Conexion.cs
+|       ConfigColumnas.cs
+|       ControlAgregarEvento.cs
+|       ControlAyudaAgente.cs
+|       CReporteServicios.cs
+|       CrtlConsultaEvento.cs
+|       CrtlHistorialSolicitudes.cs
+|       CrtlsTiemposUsuarios.cs
+|       CSancion.cs
+|       CSerieArticulos.cs
+|       CSituaciones.cs
+|       CSituaciones.cs.orig
+|       CStorePickupList.cs
+|       CtrlClaveSeguimiento.cs
+|       DM0312_CAdminDoc.cs
+|       DM0312_CAnexoCta.cs
+|       DM0312_CCapRelacionado.cs
+|       DM0312_CContactos.cs
+|       DM0312_CLoginAutorizacion.cs
+|       DM0312_CLoginCancelacion.cs
+|       DM0312_CMonederoxRedimir.cs
+|       DM0312_CPuntoDeVenta.AfectarYAnticipos.cs
+|       DM0312_CPuntoDeVenta.cs
+|       DM0312_CRegistroCte.cs
+|       DM0312_CSucursal.cs
+|       DM0312_CVentanaEntrada.cs
+|       DM0312_C_CampoExtra.cs
+|       DM0312_C_CatalogoCalificaciones.cs
+|       DM0312_C_ComentariosVenta.cs
+|       DM0312_C_ConfiguracionColumnas.cs
+|       DM0312_C_Contactos.cs
+|       DM0312_C_DevolucionesAdj.cs
+|       DM0312_C_EscanearValeDigital.cs
+|       DM0312_C_ExploradorVenta.cs
+|       DM0312_C_InformacionClientes.cs
+|       DM0312_C_Login.cs
+|       DM0312_C_Promociones.cs
+|       DM0312_C_Prospecto_A_Cliente.cs
+|       DM0312_C_Redime.cs
+|       DM0312_C_Relaciones.cs
+|       DM0312_C_SolicitudValera.cs
+|       DM0312_C_TiempoTotal.cs
+|       DM0312_C_UpdPrecioEmp.cs
+|       DM0312_C_UsuarioDescuentoIncremento.cs
+|       DM0312_ErrorLog.cs
+|       EventoController.cs
+|       Funciones.cs
+|       fusionAppControlador.cs
+|       MaviRM0855AHojaVerdeController.cs
+|       SancionController.cs
+|       SolicitudCancelacionesController.cs
+|       sqlHelper.cs
+|       UsuarioController.cs
+|       VentaController.cs
+|       
++---dlls
+|       Conexion.dll
+|       Conexion_P.dll
+|       itextsharp.dll
+|       Microsoft.ReportViewer.Common.dll
+|       Microsoft.ReportViewer.WinForms.dll
+|       pvCon_01.dll
+|       
++---Model
+|       Abono.cs
+|       AbonoDetalle.cs
+|       AccesoColumnas.cs
+|       AccesoUsuario.cs
+|       Agente.cs
+|       AnalistaCreditoModel.cs
+|       appFusionModel.cs
+|       ArticuloAlmacenes.cs
+|       ArticulosDetalleVenta.cs
+|       CancelacionMasiva.cs
+|       Cliente.cs
+|       ClienteModel.cs
+|       clsDatosEntregaCliente.cs
+|       clsModeloArtPromocion.cs
+|       clsModeloOrdenCompra.cs
+|       clsModeloPosicionDelMovimiento.cs
+|       clsModeloPromocion.cs
+|       clsModeloPromocionDetalle.cs
+|       clsModeloRecarga.cs
+|       clsModeloTipoPromocion.cs
+|       ConfiguracionesUsuario.cs
+|       DatosEntrega.cs
+|       DM0312_MAdminDoc.cs
+|       DM0312_MAnexoCta.cs
+|       DM0312_MCamposExtra.cs
+|       DM0312_MClaveSeguimiento.cs
+|       DM0312_MComentariosVenta.cs
+|       DM0312_MConfiguracionColumnas.cs
+|       DM0312_MConsultarEvento.cs
+|       DM0312_MCte.cs
+|       DM0312_MCteContacto.cs
+|       DM0312_MExploradorVenta.cs
+|       DM0312_MHistorialSolicitudes.cs
+|       DM0312_MPromociones.cs
+|       DM0312_MPuntoDeVentaAgente.cs
+|       DM0312_MPuntoDeVentaAlmacen.cs
+|       DM0312_MPuntoDeVentaArt.cs
+|       DM0312_MPuntoDeVentaCanales.cs
+|       DM0312_MPuntoDeVentaCliente.cs
+|       DM0312_MPuntoVentaCampoExtra.cs
+|       DM0312_MRefLaboral.cs
+|       DM0312_MRefPersonal.cs
+|       DM0312_MRegistroCte.cs
+|       DM0312_MSolicitudValera.cs
+|       DM0312_MSucursal.cs
+|       DM0312_MUsuariosTmp.cs
+|       DM0312_MVentaDetalle.cs
+|       DM0312_MVentanaEntrada.cs
+|       DM0312_MVerificaConfiguracionUsuario.cs
+|       DM0312_M_ArticulosAdjudicados.cs
+|       DM0312_M_DetalleDev.cs
+|       Enumeradores.cs
+|       enumTablaSTD.cs
+|       Evento.cs
+|       ListaNegraHistorico.cs
+|       MAlmacen.cs
+|       MAnticipos.cs
+|       MArticulosEditar.cs
+|       MArtVPendientes.cs
+|       MaviRM0855AHojaVerde.cs
+|       MBeneficiarioFinal.cs
+|       MCodigosPostales.cs
+|       MDetalleEnganchePendientes.cs
+|       MDetalleEngancheRealizados.cs
+|       MDetalleVenta.cs
+|       MFacturaMAVIMayoreo12Imp.cs
+|       MImpresionVenta.cs
+|       MInfoCat.cs
+|       MInfoSerieArticulos.cs
+|       ModelAgregaEvento.cs
+|       ModelColumnas.cs
+|       modeloHistorialId.cs
+|       modeloLinea.cs
+|       modeloSucursalesVentaCruzadas.cs
+|       mopsModel.cs
+|       MovPropiedadesData.cs
+|       MReportesServicio.cs
+|       MRM0847BSolCredito.cs
+|       MRM0847FSolCredito.cs
+|       MRM0847MaviCredRelPedXClienteMayRepImp.cs
+|       MRM0847MaviCredRelPedXClienteRepImp.cs
+|       MSerieArticulos.cs
+|       MSituaciones.cs
+|       MStorePickupList.cs
+|       MTasaInternaRetorno.cs
+|       MValeDigital.cs
+|       PosicionMovimientoData.cs
+|       Reanalisis.cs
+|       SolicitudCancelaciones.cs
+|       TableroDetalleVenta.cs
+|       Usuario.cs
+|           
++---packages
+|   |   repositories.config
+|   |   
+|   \---Microsoft.Office.Interop.Excel.15.0.4795.1000
+|           Microsoft.Office.Interop.Excel.15.0.4795.1000.nupkg
+|           
++---Properties
+|   |   AssemblyInfo.cs
+|   |   Resources.Designer.cs
+|   |   Resources.resx
+|   |   Settings.Designer.cs
+|   |   Settings.settings
+|   |   
+|   \---DataSources
+|           AgregarEvento.datasource
+|           CatalogoDeCalificaciones.datasource
+|           Conexion.datasource
+|           ConfiguracionColumnas.datasource
+|           ConsultarEvento.datasource
+|           CteExpress.datasource
+|           DM0312_DetalleVenta.datasource
+|           DM0312_EventosNotasCitas.datasource
+|           DM0312_ExploradorVentas.datasource
+|           FRM_HOJA_VERDE.ComboboxItem.datasource
+|           FRM_HOJA_VERDE.datasource
+|           HistorialSolicitudes.datasource
+|           InfoArticulo.datasource
+|           InformacionCliente.datasource
+|           IngresoDimar.datasource
+|           InvestigacionTelefonica.datasource
+|           Login.datasource
+|           ModelColumnas.datasource
+|           MonederoPorRedimir.datasource
+|           Program.datasource
+|           PuntoDeVenta.datasource
+|           PuntoVenta.Controller.Funciones.datasource
+|           PuntoVenta.Model.AccesoColumnas.datasource
+|           PuntoVenta.Model.AccesoUsuario.datasource
+|           PuntoVenta.Model.ArticuloAlmacenes.datasource
+|           PuntoVenta.Model.ArticulosDetalleVenta.datasource
+|           PuntoVenta.Model.CodigosPostales.datasource
+|           PuntoVenta.Model.ConfiguracionesUsuario.datasource
+|           PuntoVenta.Model.DatosEntrega.datasource
+|           PuntoVenta.Model.DetalleVenta.datasource
+|           PuntoVenta.Model.DetalleVenta1.datasource
+|           PuntoVenta.Model.DM0312_MAdminDoc.datasource
+|           PuntoVenta.Model.DM0312_MAnexoCta.datasource
+|           PuntoVenta.Model.DM0312_MAnexoCta1.datasource
+|           PuntoVenta.Model.DM0312_MComentariosVenta.datasource
+|           PuntoVenta.Model.DM0312_MConfiguracionColumnas.datasource
+|           PuntoVenta.Model.DM0312_MCteContacto.datasource
+|           PuntoVenta.Model.DM0312_MExploradorVenta.datasource
+|           PuntoVenta.Model.DM0312_MHistorialSolicitudes.datasource
+|           PuntoVenta.Model.DM0312_MRefLaboral.datasource
+|           PuntoVenta.Model.DM0312_MRefPersonal.datasource
+|           PuntoVenta.Model.DM0312_MRegistroCte.datasource
+|           PuntoVenta.Model.DM0312_MSucursal.datasource
+|           PuntoVenta.Model.DM0312_MVentanaEntrada.datasource
+|           PuntoVenta.Model.MAlmacen.datasource
+|           PuntoVenta.Model.MBSolCreditoInsPisoRep.datasource
+|           PuntoVenta.Model.MDetalleEnganchePendientes.datasource
+|           PuntoVenta.Model.MDetalleEngancheRealizados.datasource
+|           PuntoVenta.Model.MDetalleVenta.datasource
+|           PuntoVenta.Model.MFacturaMAVIMayoreo12Imp.datasource
+|           PuntoVenta.Model.MImpresionVenta.datasource
+|           PuntoVenta.Model.MInfoCat.datasource
+|           PuntoVenta.Model.MInfoSerieArticulos.datasource
+|           PuntoVenta.Model.ModelAgregaEvento.datasource
+|           PuntoVenta.Model.MovPropiedadesData.datasource
+|           PuntoVenta.Model.MovPropiedadesData1.datasource
+|           PuntoVenta.Model.MRM0847BSolCredito.datasource
+|           PuntoVenta.Model.MRM0847FSolCredito.datasource
+|           PuntoVenta.Model.MRM0847FSolCredito1.datasource
+|           PuntoVenta.Model.MRM0847MaviCredRelPedXClienteMayRepImp.datasource
+|           PuntoVenta.Model.MSituaciones.datasource
+|           PuntoVenta.Model.MTasaInternaRetorno.datasource
+|           PuntoVenta.Model.PosicionMovimientoData.datasource
+|           PuntoVenta.Model.SerieArticulos.datasource
+|           PuntoVenta.Model.TablaDatosGlobal.datasource
+|           PuntoVenta.Model.TableroDetalleVenta.datasource
+|           PuntoVenta.Model.Usuario.datasource
+|           PuntoVenta.Model.Usuario1.datasource
+|           PuntoVenta.Properties.Resources.datasource
+|           PuntoVenta.Properties.Settings.datasource
+|           PuntoVenta.View.DM0312_DetalleVentaData.datasource
+|           PuntoVenta.View.DM0312_MovimientoData.datasource
+|           PuntoVenta.View.ReportePosicionMov.datasource
+|           RegistroDeHuellaCliente.datasource
+|           Relaciones.datasource
+|           SerieArt.datasource
+|           TiemposUsuarios.datasource
+|           TiempoTotal.datasource
+|           VentanaEntrada.datasource
+|               
++---Reports
+|       DM0312_BSolCreditoInsPisoRep.cs
+|       DM0312_BSolCreditoInsPisoRep.Designer.cs
+|       DM0312_BSolCreditoInsPisoRep.resx
+|       DM0312_FacturaMAVIMayoreo12Imp.cs
+|       DM0312_FacturaMAVIMayoreo12Imp.Designer.cs
+|       DM0312_FacturaMAVIMayoreo12Imp.resx
+|       DM0312_MaviCredMayRepImp.cs
+|       DM0312_MaviCredMayRepImp.Designer.cs
+|       DM0312_MaviCredMayRepImp.resx
+|       DM0312_MaviCredRelPedXClienteRepImp.cs
+|       DM0312_MaviCredRelPedXClienteRepImp.Designer.cs
+|       DM0312_MaviCredRelPedXClienteRepImp.resx
+|       DM0312_MovimientoData.cs
+|       DM0312_MovimientoData.Designer.cs
+|       DM0312_MovimientoData.resx
+|       DM0312_MovPropiedades.rdlc
+|       DM0312_PosicionMovimiento.rdlc
+|       DM0312_RegistroHuellasFotos.rdlc
+|       DM0312_ReporteClienteHuellasFotos.cs
+|       DM0312_ReporteClienteHuellasFotos.Designer.cs
+|       DM0312_ReporteClienteHuellasFotos.resx
+|       DM0312_ReportePosicionMov.cs
+|       DM0312_ReportePosicionMov.Designer.cs
+|       DM0312_ReportePosicionMov.resx
+|       DM0312_RM0855A_ClienteExpress.cs
+|       DM0312_RM0855A_ClienteExpress.Designer.cs
+|       DM0312_RM0855A_ClienteExpress.rdlc
+|       DM0312_RM0855A_ClienteExpress.resx
+|       DM0312_RM0855A_ClienteExpress_Empresario.rdlc
+|       DM0312_SolCreditoF.cs
+|       DM0312_SolCreditoF.Designer.cs
+|       DM0312_SolCreditoF.resx
+|       FacturaMAVIMayoreo12Imp.rdlc
+|       ReporteVenta.cs
+|       ReporteVenta.Designer.cs
+|       ReporteVenta.resx
+|       RM0847BSolCreditoInsPisoRep.rdlc
+|       RM0847FSolCredVntValeRep.rdlc
+|       RM0847MaviCredRelPedXClienteMayRepImp.rdlc
+|       RM0847MaviCredRelPedXClienteRepImp.rdlc
+|       VTAS.rdlc
+|       
++---Resources
+|       1492632353_New.png
+|       1492633113_Delete.png
+|       1492638222_black_2_audio_simple_repeat_2.png
+|       1492638794_Information.png
+|       1492639055_calendar.png
+|       1492639162_icons_user.ico
+|       1492639162_icons_user.png
+|       1492639446_Location01.png
+|       1492639865_order-history.png
+|       1492640112_Single_Tap.png
+|       1492640647_edit-find-replace.png
+|       1492640682_edit-find.png
+|       1492640758_Relation.png
+|       1492642215_edit-find.png
+|       1492642230_edit-find-replace.png
+|       1492642625_office-06.png
+|       1492642889_aiga_cashier.png
+|       1492643287_credit_debit_atm_card_coin_currency_euro_money_price_finance_financial.png
+|       1495141562_ic_keyboard_arrow_up_48px.png
+|       1495142736_ic_keyboard_arrow_down_48px.png
+|       1496345901_Gnome-Go-Next-48 - copia.png
+|       1496345901_Gnome-Go-Next-48.png
+|       1496357934_EBay.png
+|       50offL2.png
+|       Actualizar-50.png
+|       actualizar.png
+|       AddArticulo_opt.png
+|       alert1.png
+|       anadir-nuevo-documento.png
+|       archivo-pdf.png
+|       Atenci¢n Filled-50.png
+|       Atenci¢n-48.png
+|       back-icon.png
+|       barcode-icon.png
+|       barcode.ico
+|       barcode.png
+|       Basura-50.png
+|       Basura-64.png
+|       bell.png
+|       bell_disable.png
+|       bell_notification.png
+|       bloggif_59a1a7a26e5b9.png
+|       bloggif_59a1a84cabc47.png
+|       bloggif_59a1ad2badda4.png
+|       btnAceptar.Image.jpg
+|       btnActualizarAval.png
+|       btnActualizarBeneficiario.png
+|       btnActualizarCliente.png
+|       btnCancelar.Image.png
+|       btnKardex.Image.png
+|       Button-Info-icon.png
+|       B£squeda-48.png
+|       Cancelar-50.png
+|       cancelar.png
+|       candado.png
+|       CapRelacionado.png
+|       CapRelacionado_1.png
+|       check1.png
+|       Comprobado-48.png
+|       comprobar.png
+|       comprobar1.png
+|       Copiar-50.png
+|       credit-card.png
+|       Cursor de mano-64.png
+|       DownArrow.png
+|       drodpownArrow.png
+|       duplicar-contenido.png
+|       edit.png
+|       Editar-50.png
+|       employee.png
+|       fingerprint.png
+|       flecha.png
+|       floppy_icon.png
+|       floppy_icon1.png
+|       fnPassword.dll
+|       garantia.ico
+|       Guardar archivo-48.png
+|       Guardar cerrar-50.png
+|       hierarchy.png
+|       icons8-folder-64.png
+|       icons8_ayuda_30.png
+|       icons8_calendario_m s_16.png
+|       icons8_calendar_31_48.png
+|       icons8_calendar_plus_48.png
+|       icons8_campana_16.png
+|       icons8_cancelar_30.png
+|       icons8_cancelar_blue_30.png
+|       icons8_cancelar_suscripci¢n_30.png
+|       icons8_cancelar_suscripci¢n_64.png
+|       icons8_cerrar_ventana_30.png
+|       icons8_cross_mark_30.png
+|       icons8_date_from_48.png
+|       icons8_event48.gif
+|       icons8_event_48.png
+|       icons8_folder_50.png
+|       icons8_folder_501.png
+|       icons8_folder_64.png
+|       icons8_volver_30.png
+|       iiiii.png
+|       imagen.png
+|       imagen1.png
+|       imagen2.png
+|       import.png
+|       indice.png
+|       itextsharp.dll
+|       Loading.gif
+|       Loading_icon.ico
+|       MenuGiro1.png
+|       MenuGiro2.png
+|       MenuInicioDrow.png
+|       MenuInicioUp.bmp
+|       MenuInicioUp.png
+|       Microsoft.Office.Interop.Excel.dll
+|       money (2).png
+|       MoneyCalendar.png
+|       nip.png
+|       pause-icon.png
+|       pdf.png
+|       pvCon_01.dll
+|       question_icon.png
+|       question_icon1.png
+|       responder.png
+|       rotar izq.png
+|       sandclock.gif
+|       sandclock2.gif
+|       satisfaction.png
+|       save_1.png
+|       System-Info-icon.png
+|       upArrow.png
+|       usuario.png
+|       Utilities_google_calendar_icon.ico
+|       zoom-in.png
+|       zoom-out.png
+|       zwCzBBxN.png
+|       
++---SQL Stored Procedures
+|       spCondicionNivelAccesoFiltrado.sql
+|       spCondicionNivelAccesoFiltradoCanalVenta.sql
+|       SpCREDIValeDigital.sql
+|       SP_DM0312OperacionesInsDelVentaD.sql
+|       
+\---View
+    |   AyudaAgente.cs
+    |   AyudaAgente.Designer.cs
+    |   AyudaAgente.resx
+    |   CalcularAbono.cs
+    |   CalcularAbono.Designer.cs
+    |   CalcularAbono.resx
+    |   CancelarEcommerce.cs
+    |   CancelarEcommerce.Designer.cs
+    |   CancelarEcommerce.resx
+    |   ClaveSeguimiento.cs
+    |   ClaveSeguimiento.Designer.cs
+    |   ClaveSeguimiento.resx
+    |   ClientesRedDIMA.cs
+    |   ClientesRedDIMA.Designer.cs
+    |   ClientesRedDIMA.resx
+    |   CteExpress.cs
+    |   CteExpress.Designer.cs
+    |   CteExpress.resx
+    |   DM0312_Adjudicaciones.cs
+    |   DM0312_Adjudicaciones.Designer.cs
+    |   DM0312_Adjudicaciones.resx
+    |   DM0312_AgregarEvento.cs
+    |   DM0312_AgregarEvento.Designer.cs
+    |   DM0312_AgregarEvento.resx
+    |   DM0312_ArticulosAdj.cs
+    |   DM0312_ArticulosAdj.Designer.cs
+    |   DM0312_ArticulosAdj.resx
+    |   DM0312_AyudaCodigoPostal.cs
+    |   DM0312_AyudaCodigoPostal.Designer.cs
+    |   DM0312_AyudaCodigoPostal.resx
+    |   DM0312_CamposExtra.cs
+    |   DM0312_CamposExtra.Designer.cs
+    |   DM0312_CamposExtra.resx
+    |   DM0312_CapRelacionado.cs
+    |   DM0312_CapRelacionado.Designer.cs
+    |   DM0312_CapRelacionado.resx
+    |   DM0312_CatalogoArticulos.cs
+    |   DM0312_CatalogoArticulos.Designer.cs
+    |   DM0312_CatalogoArticulos.resx
+    |   DM0312_CatalogoDeCalificaciones.cs
+    |   DM0312_CatalogoDeCalificaciones.Designer.cs
+    |   DM0312_CatalogoDeCalificaciones.resx
+    |   DM0312_CatalogosPuntoDeVenta.cs
+    |   DM0312_CatalogosPuntoDeVenta.Designer.cs
+    |   DM0312_CatalogosPuntoDeVenta.resx
+    |   DM0312_ComentariosVenta.cs
+    |   DM0312_ComentariosVenta.Designer.cs
+    |   DM0312_ComentariosVenta.resx
+    |   DM0312_ConfiguracionColumnas.cs
+    |   DM0312_ConfiguracionColumnas.Designer.cs
+    |   DM0312_ConfiguracionColumnas.resx
+    |   DM0312_ConsultarEvento.cs
+    |   DM0312_ConsultarEvento.Designer.cs
+    |   DM0312_ConsultarEvento.resx
+    |   DM0312_CteAval.cs
+    |   DM0312_CteAval.Designer.cs
+    |   DM0312_CteAval.resx
+    |   DM0312_DetalleArtVentaPendiente.cs
+    |   DM0312_DetalleArtVentaPendiente.Designer.cs
+    |   DM0312_DetalleArtVentaPendiente.resx
+    |   DM0312_DetalleCambiarAlmacen.cs
+    |   DM0312_DetalleCambiarAlmacen.Designer.cs
+    |   DM0312_DetalleCambiarAlmacen.resx
+    |   DM0312_DetalleCodigoPostal.cs
+    |   DM0312_DetalleCodigoPostal.Designer.cs
+    |   DM0312_DetalleCodigoPostal.resx
+    |   DM0312_DetalleEnganches.cs
+    |   DM0312_DetalleEnganches.Designer.cs
+    |   DM0312_DetalleEnganches.resx
+    |   DM0312_DetalleInformacionArticulo.cs
+    |   DM0312_DetalleInformacionArticulo.Designer.cs
+    |   DM0312_DetalleInformacionArticulo.resx
+    |   DM0312_DetalleInfoSerieArticulo.cs
+    |   DM0312_DetalleInfoSerieArticulo.Designer.cs
+    |   DM0312_DetalleInfoSerieArticulo.resx
+    |   DM0312_DetalleLoginMotos.cs
+    |   DM0312_DetalleLoginMotos.Designer.cs
+    |   DM0312_DetalleLoginMotos.resx
+    |   DM0312_DetalleSerieArticulo.cs
+    |   DM0312_DetalleSerieArticulo.Designer.cs
+    |   DM0312_DetalleSerieArticulo.resx
+    |   DM0312_DetalleSeriesConsulta.cs
+    |   DM0312_DetalleSeriesConsulta.Designer.cs
+    |   DM0312_DetalleSeriesConsulta.resx
+    |   DM0312_DetalleSituaciones.cs
+    |   DM0312_DetalleSituaciones.Designer.cs
+    |   DM0312_DetalleSituaciones.resx
+    |   DM0312_DetalleValidaReporteServicio.cs
+    |   DM0312_DetalleValidaReporteServicio.Designer.cs
+    |   DM0312_DetalleValidaReporteServicio.resx
+    |   DM0312_DetalleVenta.Configuraciones.cs
+    |   DM0312_DetalleVenta.Configuraciones.resx
+    |   DM0312_DetalleVenta.cs
+    |   DM0312_DetalleVenta.Designer.cs
+    |   DM0312_DetalleVenta.resx
+    |   DM0312_DevolucionAdj.cs
+    |   DM0312_DevolucionAdj.Designer.cs
+    |   DM0312_DevolucionAdj.resx
+    |   DM0312_DevSerieArticulo.cs
+    |   DM0312_DevSerieArticulo.Designer.cs
+    |   DM0312_DevSerieArticulo.resx
+    |   DM0312_EscanearValeDigital.cs
+    |   DM0312_EscanearValeDigital.Designer.cs
+    |   DM0312_EscanearValeDigital.resx
+    |   DM0312_EventosNotasCitas.cs
+    |   DM0312_EventosNotasCitas.Designer.cs
+    |   DM0312_EventosNotasCitas.resx
+    |   DM0312_ExploradorVentaDoctsAdj.cs
+    |   DM0312_ExploradorVentaDoctsAdj.Designer.cs
+    |   DM0312_ExploradorVentaDoctsAdj.resx
+    |   DM0312_ExploradorVentaRegistroFoto.cs
+    |   DM0312_ExploradorVentaRegistroFoto.Designer.cs
+    |   DM0312_ExploradorVentaRegistroFoto.resx
+    |   DM0312_ExploradorVentas.cs
+    |   DM0312_ExploradorVentas.cs.orig
+    |   DM0312_ExploradorVentas.Designer.cs
+    |   DM0312_ExploradorVentas.resx
+    |   DM0312_Forma_NvoProp_Autorizo.cs
+    |   DM0312_Forma_NvoProp_Autorizo.Designer.cs
+    |   DM0312_Forma_NvoProp_Autorizo.resx
+    |   DM0312_HistorialSolicitudes.cs
+    |   DM0312_HistorialSolicitudes.Designer.cs
+    |   DM0312_HistorialSolicitudes.resx
+    |   DM0312_InformacionCliente.cs
+    |   DM0312_InformacionCliente.Designer.cs
+    |   DM0312_InformacionCliente.resx
+    |   DM0312_InvestigacionTelefonica.cs
+    |   DM0312_InvestigacionTelefonica.Designer.cs
+    |   DM0312_InvestigacionTelefonica.resx
+    |   DM0312_LineaCredito.cs
+    |   DM0312_LineaCredito.Designer.cs
+    |   DM0312_LineaCredito.resx
+    |   DM0312_LoginBloqueoCargaPrecios.cs
+    |   DM0312_LoginBloqueoCargaPrecios.Designer.cs
+    |   DM0312_LoginBloqueoCargaPrecios.resx
+    |   DM0312_LoginCancelacion.cs
+    |   DM0312_LoginCancelacion.Designer.cs
+    |   DM0312_LoginCancelacion.resx
+    |   DM0312_MenuDeConfiguraciones.cs
+    |   DM0312_MenuDeConfiguraciones.Designer.cs
+    |   DM0312_MenuDeConfiguraciones.resx
+    |   DM0312_MonederoPorRedimir.cs
+    |   DM0312_MonederoPorRedimir.Designer.cs
+    |   DM0312_MonederoPorRedimir.resx
+    |   DM0312_MostrarPosiciones.cs
+    |   DM0312_MostrarPosiciones.Designer.cs
+    |   DM0312_MostrarPosiciones.resx
+    |   DM0312_PermisosConfiguracion.cs
+    |   DM0312_PermisosConfiguracion.Designer.cs
+    |   DM0312_PermisosConfiguracion.resx
+    |   DM0312_PreciosArticulos.cs
+    |   DM0312_PreciosArticulos.Designer.cs
+    |   DM0312_PreciosArticulos.resx
+    |   DM0312_Promociones.cs
+    |   DM0312_Promociones.Designer.cs
+    |   DM0312_Promociones.resx
+    |   DM0312_PuntoDeVenta.AfectarYAnticipos.cs
+    |   DM0312_PuntoDeVenta.cs
+    |   DM0312_PuntoDeVenta.cs.orig
+    |   DM0312_PuntoDeVenta.Designer.cs
+    |   DM0312_PuntoDeVenta.resx
+    |   DM0312_PuntoDeVentaCanalNuevo.cs
+    |   DM0312_PuntoDeVentaCanalNuevo.Designer.cs
+    |   DM0312_PuntoDeVentaCanalNuevo.resx
+    |   DM0312_PuntoDeVenta_Garantias.cs
+    |   DM0312_PuntoDeVenta_Garantias.Designer.cs
+    |   DM0312_PuntoDeVenta_Garantias.resx
+    |   DM0312_Reanalisis.cs
+    |   DM0312_Reanalisis.Designer.cs
+    |   DM0312_Reanalisis.resx
+    |   DM0312_Redime.cs
+    |   DM0312_Redime.Designer.cs
+    |   DM0312_Redime.resx
+    |   DM0312_RegistroDeHuellaCliente.cs
+    |   DM0312_RegistroDeHuellaCliente.Designer.cs
+    |   DM0312_RegistroDeHuellaCliente.resx
+    |   DM0312_RegistroDeHuellaFechas.cs
+    |   DM0312_RegistroDeHuellaFechas.Designer.cs
+    |   DM0312_RegistroDeHuellaFechas.resx
+    |   DM0312_Relaciones.cs
+    |   DM0312_Relaciones.Designer.cs
+    |   DM0312_Relaciones.resx
+    |   DM0312_SeleccAgenteReanalisis.cs
+    |   DM0312_SeleccAgenteReanalisis.Designer.cs
+    |   DM0312_SeleccAgenteReanalisis.resx
+    |   DM0312_SolicitudValera.cs
+    |   DM0312_SolicitudValera.Designer.cs
+    |   DM0312_SolicitudValera.resx
+    |   DM0312_TiemposUsuarios.cs
+    |   DM0312_TiemposUsuarios.Designer.cs
+    |   DM0312_TiemposUsuarios.resx
+    |   DM0312_TiempoTotal.cs
+    |   DM0312_TiempoTotal.Designer.cs
+    |   DM0312_TiempoTotal.resx
+    |   DM0312_UsuarioDescuentoIncremento.cs
+    |   DM0312_UsuarioDescuentoIncremento.Designer.cs
+    |   DM0312_UsuarioDescuentoIncremento.resx
+    |   DM0312_VentaEntrada.cs
+    |   DM0312_VentaEntrada.Designer.cs
+    |   DM0312_VentaEntrada.resx
+    |   editarEvento.cs
+    |   editarEvento.Designer.cs
+    |   editarEvento.resx
+    |   EnviarConAnalista.cs
+    |   EnviarConAnalista.Designer.cs
+    |   EnviarConAnalista.resx
+    |   EscanearArticuloPequeno.cs
+    |   EscanearArticuloPequeno.Designer.cs
+    |   EscanearArticuloPequeno.resx
+    |   Form1.cs
+    |   Form1.Designer.cs
+    |   Form1.resx
+    |   Form2.cs
+    |   Form2.Designer.cs
+    |   Form2.resx
+    |   frmArticulosPromocion.cs
+    |   frmArticulosPromocion.Designer.cs
+    |   frmArticulosPromocion.resx
+    |   frmCoincidencias.cs
+    |   frmCoincidencias.Designer.cs
+    |   frmCoincidencias.resx
+    |   frmDatosDima.cs
+    |   frmDatosDima.Designer.cs
+    |   frmDatosDima.resx
+    |   frmEventoReactivacion.cs
+    |   frmEventoReactivacion.Designer.cs
+    |   frmEventoReactivacion.resx
+    |   frmListadoImagenes.cs
+    |   frmListadoImagenes.Designer.cs
+    |   frmListadoImagenes.resx
+    |   frmObservaciones.cs
+    |   frmObservaciones.Designer.cs
+    |   frmObservaciones.resx
+    |   frmOrdenCompra.cs
+    |   frmOrdenCompra.Designer.cs
+    |   frmOrdenCompra.resx
+    |   frmPosicionDeMovimiento.cs
+    |   frmPosicionDeMovimiento.Designer.cs
+    |   frmPosicionDeMovimiento.resx
+    |   frmSancion.cs
+    |   frmSancion.Designer.cs
+    |   frmSancion.resx
+    |   frmSolicitudContrase¤a.cs
+    |   frmSolicitudContrase¤a.Designer.cs
+    |   frmSolicitudContrase¤a.resx
+    |   frmVisorImagenes.cs
+    |   frmVisorImagenes.Designer.cs
+    |   FRM_HOJA_VERDE.cs
+    |   FRM_HOJA_VERDE.designer.cs
+    |   FRM_HOJA_VERDE.resx
+    |   HistorialSolicitudCancelacion.cs
+    |   HistorialSolicitudCancelacion.Designer.cs
+    |   HistorialSolicitudCancelacion.resx
+    |   Login.cs
+    |   Login.Designer.cs
+    |   Login.resx
+    |   LoginAutorizacion.cs
+    |   LoginAutorizacion.Designer.cs
+    |   LoginAutorizacion.resx
+    |   RedDima.cs
+    |   RedDima.Designer.cs
+    |   RedDima.resx
+    |   StorePickupList.cs
+    |   StorePickupList.Designer.cs
+    |   StorePickupList.resx
+    |   
+    \---Evento
+            EventoView.cs
+            EventoView.Designer.cs
+            EventoView.resx
+            RechazoSolicitudCancelacion.cs
+            RechazoSolicitudCancelacion.Designer.cs
+            RechazoSolicitudCancelacion.resx
+            SolicitudCancelacionMovimiento.cs
+            SolicitudCancelacionMovimiento.Designer.cs
+            SolicitudCancelacionMovimiento.resx
+            

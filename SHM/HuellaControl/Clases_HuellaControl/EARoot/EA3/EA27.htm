@@ -1,0 +1,223 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>ObjectSHM</title>
+<link href="../../css/ea.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="../../js/displayToc.js" type="text/javascript"></script>
+<script>
+
+  function switchProjectProperties() {
+			if (document.getElementById("proj00").style.display == "none") {
+				document.getElementById("proj00").style.display = "revert";
+				document.getElementById("proj01").style.display = "revert";
+				document.getElementById("proj02").style.display = "revert";
+				document.getElementById("proj03").style.display = "revert";
+				document.getElementById("proj04").style.display = "revert";
+				document.getElementById("proj05").style.display = "revert";
+			} else {
+				document.getElementById("proj00").style.display = "none";
+				document.getElementById("proj01").style.display = "none";
+				document.getElementById("proj02").style.display = "none";
+				document.getElementById("proj03").style.display = "none";
+				document.getElementById("proj04").style.display = "none";
+				document.getElementById("proj05").style.display = "none";
+			}
+}
+
+		function switchAdvancedProperties(){
+
+			if (document.getElementById("adv00").style.display == "none") {;
+				document.getElementById("adv00").style.display = "revert";
+				document.getElementById("adv01").style.display = "revert";
+			} else {
+				document.getElementById("adv00").style.display = "none";
+				document.getElementById("adv01").style.display = "none";
+			}
+		}
+		function initPage()
+        {			
+			var divs = document.getElementsByClassName("ObjectDetailsNotes");
+			for (var j = 0; j < divs.length; j++) {
+				var tmpStr = divs[j].innerHTML;
+				tmpStr = tmpStr.replace(/&gt;/g, ">");
+				tmpStr = tmpStr.replace(/&lt;/g, "<");
+
+				tmpStr = tmpStr.replace(/#gt;/g, "&gt;");
+				tmpStr = tmpStr.replace(/#lt;/g, "&lt;");
+
+				divs[j].innerHTML = tmpStr;
+			}
+
+            if (document.getElementById('TableGroup') != null)
+            {
+                toggleItem(document.getElementById('TableGroup').getElementsByTagName('li')[0].id.replace("Title", ""));
+            }
+
+        }
+</script>
+<style>
+
+</style>
+</head>
+<body onload="initPage();">
+<div class="section group" >
+
+		<div class="col span_2_of_2 header_frame">
+			<h1> ObjectSHM </h1>
+			<!-- <img class="header_image" src="../../images/ea-banner.png" align="right" alt="Header Image" />-->
+			<img class="header_image" src="../../images/ea-banner.png" align="right" alt="Header Image" />
+		</div>
+		<div class="col span_2_of_2 breadcrumb_frame">
+			<p><a href="../EA1.htm">HuellaControl</a> / <a href="EA29.htm">ObjectSHM</a> / <a href="EA27.htm">ObjectSHM</a></p>
+		</div>
+			
+		<table class="contentmaintable">
+			<!-- <tfoot>
+				<tr>
+					<td>foot1</td>
+					<td>foot2</td>
+				</tr>
+			</tfoot> -->
+			<tbody>
+				<tr>
+					<td class="indexcell">
+						<div class="projectBrowserTitle">Project: </div>
+						<ul>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA1/EA76.htm">Properties</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA2/EA82.htm">ServiceSHM</a></li>
+<li><img src="../../images/4.png" alt="Package"/> <a href="./EA3/EA222.htm">Visores</a></li>
+<li><img src="../../images/175.png" alt="Diagram"/> <a href="EA27.htm">ObjectSHM</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA30.htm">ControlCamara</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA31.htm">ControlCamara4</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA32.htm">Foto</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA33.htm">Foto4</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA34.htm">FotoPersonal4</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA35.htm">Funciones</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA36.htm">Huella</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA37.htm">HuellaUnica</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA41.htm">IFotosControl</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA42.htm">IFotosControl</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA43.htm">IFotosControl4</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA44.htm">IFotosControl4</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA45.htm">IFotosControlPersonal4</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA46.htm">IFotosControlPersonal4</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA48.htm">IHuellaControl</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA49.htm">IHuellaControl</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA51.htm">IHuellaUnicaControl</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA52.htm">IHuellaUnicaControl</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA55.htm">IVerifyAsociados</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA56.htm">IVerifyAsociados</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA57.htm">IVerifyControl</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA58.htm">IVerifyControl</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA59.htm">PictureButton</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA60.htm">PictureButton</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA61.htm">PictureButton</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA62.htm">Program</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA64.htm">Prueba_de_Control</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA65.htm">Prueba_de_Control</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA67.htm">Ventana</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA68.htm">Verify</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA69.htm">VerifyAsociados</a></li>
+<li><img src="../../images/5.png" alt="Class"/> <a href="EA70.htm">VerifyDatos</a></li>
+<li><img src="../../images/8.png" alt="Interface"/> <a href="EA38.htm">IFoto</a></li>
+<li><img src="../../images/8.png" alt="Interface"/> <a href="EA39.htm">IFoto4</a></li>
+<li><img src="../../images/8.png" alt="Interface"/> <a href="EA40.htm">IFotoPersonal4</a></li>
+<li><img src="../../images/8.png" alt="Interface"/> <a href="EA47.htm">IHuella</a></li>
+<li><img src="../../images/8.png" alt="Interface"/> <a href="EA50.htm">IHuellaUnica</a></li>
+<li><img src="../../images/8.png" alt="Interface"/> <a href="EA53.htm">IVentana</a></li>
+<li><img src="../../images/8.png" alt="Interface"/> <a href="EA54.htm">IVerify</a></li>
+</ul>
+
+					</td>
+					<td class="contentcell"><div class="PageBody">
+	<div class=diagram_image> 
+<img src="EA28.png" usemap="#EA28" border="0" />
+
+<MAP NAME="EA28">
+<area shape="rect" coords="1120,6753,1373,6849" href="EA65.htm" target="_self">
+<area shape="rect" coords="10,1694,202,1878" href="EA64.htm" target="_self">
+<area shape="rect" coords="1201,6646,1291,6716" href="EA62.htm" target="_self">
+<area shape="rect" coords="1161,1127,1332,1275" href="EA70.htm" target="_self">
+<area shape="rect" coords="1145,6546,1347,6616" href="EA69.htm" target="_self">
+<area shape="rect" coords="293,1448,519,1684" href="EA68.htm" target="_self">
+<area shape="rect" coords="691,3887,901,3996" href="EA67.htm" target="_self">
+<area shape="rect" coords="1102,6372,1390,6511" href="EA61.htm" target="_self">
+<area shape="rect" coords="1120,6227,1373,6336" href="EA60.htm" target="_self">
+<area shape="rect" coords="1121,5927,1371,6206" href="EA59.htm" target="_self">
+<area shape="rect" coords="1120,5714,1373,5888" href="EA58.htm" target="_self">
+<area shape="rect" coords="611,1177,981,1755" href="EA57.htm" target="_self">
+<area shape="rect" coords="1120,5540,1373,5662" href="EA56.htm" target="_self">
+<area shape="rect" coords="1126,5266,1367,5506" href="EA55.htm" target="_self">
+<area shape="rect" coords="1168,1796,1325,1886" href="EA54.htm" target="_self">
+<area shape="rect" coords="1187,3796,1306,3886" href="EA53.htm" target="_self">
+<area shape="rect" coords="1120,5008,1373,5234" href="EA52.htm" target="_self">
+<area shape="rect" coords="664,434,929,1099" href="EA51.htm" target="_self">
+<area shape="rect" coords="1145,480,1348,602" href="EA50.htm" target="_self">
+<area shape="rect" coords="1120,4880,1373,4963" href="EA49.htm" target="_self">
+<area shape="rect" coords="1201,4701,1291,4822" href="EA73.htm" target="_self">
+<area shape="rect" coords="635,1809,958,2764" href="EA48.htm" target="_self">
+<area shape="rect" coords="1156,2674,1337,2809" href="EA47.htm" target="_self">
+<area shape="rect" coords="1120,4520,1373,4642" href="EA46.htm" target="_self">
+<area shape="rect" coords="1130,3427,1363,3585" href="EA45.htm" target="_self">
+<area shape="rect" coords="1120,4334,1373,4469" href="EA44.htm" target="_self">
+<area shape="rect" coords="1144,35,1349,258" href="EA43.htm" target="_self">
+<area shape="rect" coords="1120,4160,1373,4282" href="EA42.htm" target="_self">
+<area shape="rect" coords="1152,2860,1340,2992" href="EA41.htm" target="_self">
+<area shape="rect" coords="1121,3614,1372,3749" href="EA40.htm" target="_self">
+<area shape="rect" coords="1121,294,1372,429" href="EA39.htm" target="_self">
+<area shape="rect" coords="1137,3287,1356,3396" href="EA38.htm" target="_self">
+<area shape="rect" coords="305,349,508,614" href="EA37.htm" target="_self">
+<area shape="rect" coords="1194,1399,1298,1484" href="EA72.htm" target="_self">
+<area shape="rect" coords="330,2612,483,2790" href="EA36.htm" target="_self">
+<area shape="rect" coords="1128,3934,1364,4108" href="EA35.htm" target="_self">
+<area shape="rect" coords="281,3250,532,3473" href="EA34.htm" target="_self">
+<area shape="rect" coords="281,90,532,313" href="EA33.htm" target="_self">
+<area shape="rect" coords="297,2974,516,3158" href="EA32.htm" target="_self">
+<area shape="rect" coords="1055,1536,1438,1746" href="EA31.htm" target="_self">
+<area shape="rect" coords="1141,3026,1351,3256" href="EA30.htm" target="_self">
+</MAP>
+ </div>
+	<div class="ObjectTitle">ObjectSHM : Class diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">14/10/2022 08:10:07 p. m.</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">14/10/2022 08:10:20 p. m.</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchProjectProperties()"><img src="../../images/plus03.gif" align="absmiddle" id="proj" /></button>Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">cadiaz</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchAdvancedProperties()"><img src="../../images/plus03.gif" align="absmiddle" id="adv" /></button>Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{21EC4DEC-1C56-47ff-BC70-8D523EA15665}</td>
+		</tr>
+	</table>
+	
+</div>
+
+ </td>
+				</tr>
+			</tbody>
+		</table>
+		
+</div>
+</body>
+</html>
+

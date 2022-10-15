@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.7.9:1", "", "Cobranza", "EARoot/EA7/EA9/EA492.htm", "175.png", "97", "0", "", "Logical diagram0","{E5927530-BE38-498f-821D-178F782E59AC}");
+tocTab[tocTab.length] = new Array("0.7.9:2", "", "FRM_DOC_CANCELA", "EARoot/EA7/EA9/EA495.htm", "5.png", "E1676", "0", "", "Class0","{FC3BDD55-EAE0-44b4-A014-7CBD9E8F03B3}");
+tocTab[tocTab.length] = new Array("0.7.9:3", "", "FRM_DOC_CANCELA", "EARoot/EA7/EA9/EA496.htm", "5.png", "E1677", "0", "", "Class0","{E9C27DB2-B88B-46ad-8C14-C2B3A74C81B1}");
+tocTab[tocTab.length] = new Array("0.7.9:4", "", "FRM_FOTO_CTE", "EARoot/EA7/EA9/EA497.htm", "5.png", "E1678", "0", "", "Class0","{5A5988F9-73CE-43c8-B1A6-143F8BB14527}");
+tocTab[tocTab.length] = new Array("0.7.9:5", "", "FRM_FOTO_CTE", "EARoot/EA7/EA9/EA498.htm", "5.png", "E1679", "0", "", "Class0","{0F812EF4-A9C4-4309-94B3-0E44ACFF7849}");
+tocTab[tocTab.length] = new Array("0.7.9:6", "", "FRM_VISOR_DOC_S", "EARoot/EA7/EA9/EA499.htm", "5.png", "E1680", "0", "", "Class0","{925021D2-933A-4cc4-B881-6888E969F7B7}");
+tocTab[tocTab.length] = new Array("0.7.9:7", "", "FRM_VISOR_DOC_S", "EARoot/EA7/EA9/EA500.htm", "5.png", "E1681", "0", "", "Class0","{89111A2E-A4B7-4a22-8173-90C386FA1F53}");

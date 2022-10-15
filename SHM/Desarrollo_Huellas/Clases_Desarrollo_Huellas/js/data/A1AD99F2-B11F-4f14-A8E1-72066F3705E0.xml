@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0.7.15:1", "", "INTL", "EARoot/EA7/EA15/EA567.htm", "175.png", "103", "0", "", "Logical diagram0","{89D9B3FD-B9FE-4494-B749-4E194298C0D2}");
+tocTab[tocTab.length] = new Array("0.7.15:2", "", "cadenaINTL", "EARoot/EA7/EA15/EA570.htm", "5.png", "E1739", "0", "", "Class0","{84A90B36-3E26-4159-9463-16F2F2D491FB}");
+tocTab[tocTab.length] = new Array("0.7.15:3", "", "DC_campoINTL", "EARoot/EA7/EA15/EA571.htm", "5.png", "E1740", "0", "", "Class0","{3EB67341-70A3-4617-BE82-743557577ECF}");
+tocTab[tocTab.length] = new Array("0.7.15:4", "", "DC_segmentoAU", "EARoot/EA7/EA15/EA572.htm", "5.png", "E1741", "0", "", "Class0","{14BCA558-B64A-4e93-95F4-AA5CE58B8AED}");
+tocTab[tocTab.length] = new Array("0.7.15:5", "", "DC_segmentoES", "EARoot/EA7/EA15/EA573.htm", "5.png", "E1742", "0", "", "Class0","{C10C8FD7-9430-4d4d-B14A-62ACF8323349}");
+tocTab[tocTab.length] = new Array("0.7.15:6", "", "DC_segmentoINTL", "EARoot/EA7/EA15/EA574.htm", "5.png", "E1743", "0", "", "Class0","{2223387E-DCEF-4587-B09B-E6DD4EE0FCB2}");
+tocTab[tocTab.length] = new Array("0.7.15:7", "", "DC_segmentoPA", "EARoot/EA7/EA15/EA575.htm", "5.png", "E1744", "0", "", "Class0","{EEC84E31-C321-4661-ACFA-0B43987D5336}");
+tocTab[tocTab.length] = new Array("0.7.15:8", "", "DC_segmentoPI", "EARoot/EA7/EA15/EA576.htm", "5.png", "E1745", "0", "", "Class0","{E5D9CF18-1406-4efd-9F12-4400823A13C8}");
+tocTab[tocTab.length] = new Array("0.7.15:9", "", "DC_segmentoPN", "EARoot/EA7/EA15/EA577.htm", "5.png", "E1746", "0", "", "Class0","{BEFCF147-D6A8-45a3-8CD5-2CEB9A34B5BA}");
+tocTab[tocTab.length] = new Array("0.7.15:10", "", "LongitudCampo", "EARoot/EA7/EA15/EA578.htm", "247.png", "E1748", "0", "", "Enumeration0","{637C7586-6006-471c-9690-611577CF13ED}");
+tocTab[tocTab.length] = new Array("0.7.15:11", "", "TipoCampo", "EARoot/EA7/EA15/EA579.htm", "247.png", "E1747", "0", "", "Enumeration0","{F51967FB-17F4-4599-B962-12387D5AE81D}");
+tocTab[tocTab.length] = new Array("0.7.15:12", "", "ValidacionCampo", "EARoot/EA7/EA15/EA580.htm", "247.png", "E1749", "0", "", "Enumeration0","{47B5B4FF-141B-4c73-A97A-8D4566DF7D34}");

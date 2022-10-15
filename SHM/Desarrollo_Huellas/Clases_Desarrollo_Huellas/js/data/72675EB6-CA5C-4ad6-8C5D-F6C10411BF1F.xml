@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.7.25.2.2:1", "", "UserControls", "EARoot/EA7/EA25/EA2/EA2/EA763.htm", "175.png", "118", "0", "", "Logical diagram0","{452F04CA-3D82-47a7-8E32-74B99199E1AB}");
+tocTab[tocTab.length] = new Array("0.7.25.2.2:2", "", "CheckBoxMAVI", "EARoot/EA7/EA25/EA2/EA2/EA766.htm", "5.png", "E1866", "0", "", "Class0","{C7C3AC99-B9CF-48a9-B966-D90CC1A6AF5E}");
+tocTab[tocTab.length] = new Array("0.7.25.2.2:3", "", "LoadingCircleMavi", "EARoot/EA7/EA25/EA2/EA2/EA767.htm", "5.png", "E1867", "0", "", "Class0","{5A538BB0-8695-4080-BFC5-EE31E60A3E05}");
+tocTab[tocTab.length] = new Array("0.7.25.2.2:4", "", "LoadingCircleMavi", "EARoot/EA7/EA25/EA2/EA2/EA768.htm", "5.png", "E1868", "0", "", "Class0","{D5C7EC68-1309-4f56-86CC-C4F0FF037CBD}");
+tocTab[tocTab.length] = new Array("0.7.25.2.2:5", "", "PictureBoxIM", "EARoot/EA7/EA25/EA2/EA2/EA769.htm", "5.png", "E1869", "0", "", "Class0","{9373E0C7-2421-4ce9-A769-650E4CCDD590}");

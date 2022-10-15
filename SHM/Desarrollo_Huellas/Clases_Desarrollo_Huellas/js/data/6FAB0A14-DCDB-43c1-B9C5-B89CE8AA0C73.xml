@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.7.1.2:1", "", "FolderNewClient", "EARoot/EA7/EA1/EA2/EA283.htm", "175.png", "81", "0", "", "Logical diagram0","{F411A223-ECC2-4998-86D8-022D4ED13BC3}");
+tocTab[tocTab.length] = new Array("0.7.1.2:2", "", "CyberLogic", "EARoot/EA7/EA1/EA2/EA286.htm", "5.png", "E1421", "0", "", "Class0","{2408ADD7-E05B-4724-98E2-190F7BA1EB72}");
+tocTab[tocTab.length] = new Array("0.7.1.2:3", "", "Dibujo", "EARoot/EA7/EA1/EA2/EA287.htm", "5.png", "E1422", "0", "", "Class0","{B6D98858-2EB1-4154-A775-C30A60EBC482}");
+tocTab[tocTab.length] = new Array("0.7.1.2:4", "", "HuellaControl", "EARoot/EA7/EA1/EA2/EA288.htm", "5.png", "E1423", "0", "", "Class0","{C39E8A48-D01E-46ef-BB94-FC970A37286D}");
+tocTab[tocTab.length] = new Array("0.7.1.2:5", "", "Movimientos", "EARoot/EA7/EA1/EA2/EA289.htm", "5.png", "E1424", "0", "", "Class0","{07FE56C0-EEA7-46d2-B72E-0513D835313D}");
+tocTab[tocTab.length] = new Array("0.7.1.2:6", "", "WSQ", "EARoot/EA7/EA1/EA2/EA290.htm", "5.png", "E1426", "0", "", "Class0","{821260BC-61C5-4c71-A417-D49A15965894}");
+tocTab[tocTab.length] = new Array("0.7.1.2:7", "", "IMAGE_FORMAT", "EARoot/EA7/EA1/EA2/EA291.htm", "247.png", "E1425", "E1426", "", "Enumeration0","{DD805B07-5CD5-482c-B926-AE2331EC1F5E}");

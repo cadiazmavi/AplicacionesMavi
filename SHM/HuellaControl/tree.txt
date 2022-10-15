@@ -1,0 +1,589 @@
+Folder PATH listing
+Volume serial number is 2EFD-B616
+C:.
+|   HuellaControl.ndproj
+|   HuellaControl.sln
+|   HuellaControl.v11.suo
+|   HuellaControl.v12.suo
+|   HuellaControl.vssscc
+|   HuellaControl1.ndproj
+|   tee.txt
+|   
++---.vs
+|   \---HuellaControl
+|       +---v15
+|       |   |   .suo
+|       |   |   
+|       |   \---Server
+|       |       \---sqlite3
+|       |               db.lock
+|       |               storage.ide
+|       |               storage.ide-shm
+|       |               storage.ide-wal
+|       |               
+|       \---v16
+|           \---Server
+|               \---sqlite3
+|                       db.lock
+|                       storage.ide
+|                       
++---ControlHuella
+|   |   app.config
+|   |   ClassDiagram1.cd
+|   |   ControlCamara.cs
+|   |   ControlCamara4.cs
+|   |   Crypt.cs
+|   |   Foto.cs
+|   |   Foto4.cs
+|   |   FotoPersonal4.cs
+|   |   FRM_PreguntasSeguridad.cs
+|   |   FRM_PreguntasSeguridad.designer.cs
+|   |   FRM_PreguntasSeguridad.resx
+|   |   Funciones.cs
+|   |   Huella.cs
+|   |   HuellaUnica.cs
+|   |   IFoto.cs
+|   |   IFoto4.cs
+|   |   IFotoPersonal4.cs
+|   |   IFotosControl.cs
+|   |   IFotosControl.Designer.cs
+|   |   IFotosControl.resx
+|   |   IFotosControl4.cs
+|   |   IFotosControl4.Designer.cs
+|   |   IFotosControl4.resx
+|   |   IFotosControlPersonal4.cs
+|   |   IFotosControlPersonal4.Designer.cs
+|   |   IFotosControlPersonal4.resx
+|   |   IHuella.cs
+|   |   IHuellaControl.cs
+|   |   IHuellaControl.Designer.cs
+|   |   IHuellaControl.resx
+|   |   IHuellaUnica.cs
+|   |   IHuellaUnicaControl.cs
+|   |   IHuellaUnicaControl.Designer.cs
+|   |   IHuellaUnicaControl.resx
+|   |   IVentana.cs
+|   |   IVerify.cs
+|   |   IVerifyAsociados.cs
+|   |   IVerifyAsociados.Designer.cs
+|   |   IVerifyAsociados.resx
+|   |   IVerifyControl.cs
+|   |   IVerifyControl.Designer.cs
+|   |   IVerifyControl.resx
+|   |   NFIQ.cs
+|   |   ObjectSHM.csproj
+|   |   ObjectSHM.csproj.user
+|   |   ObjectSHM.csproj.vspscc
+|   |   Obj_PreguntaSeguridad1.cs
+|   |   Obj_PreguntaSeguridad1.designer.cs
+|   |   Obj_PreguntaSeguridad1.resx
+|   |   Obj_PreguntaSeguridad2.cs
+|   |   Obj_PreguntaSeguridad2.designer.cs
+|   |   Obj_PreguntaSeguridad2.resx
+|   |   Obj_PreguntaSeguridad3.cs
+|   |   Obj_PreguntaSeguridad3.designer.cs
+|   |   Obj_PreguntaSeguridad3.resx
+|   |   PictureButton.cs
+|   |   PictureButton.Designer.cs
+|   |   PictureButton.resx
+|   |   PictureButton1.Designer.cs
+|   |   Ventana.cs
+|   |   Verify.cs
+|   |   VerifyAsociados.cs
+|   |   VerifyDatos.cs
+|   |   WSQ.cs
+|   |   
+|   +---bin
+|   |   +---Debug
+|   |   |       AForge.Controls.dll
+|   |   |       AForge.dll
+|   |   |       AForge.Imaging.dll
+|   |   |       AForge.Math.dll
+|   |   |       AForge.Video.DirectShow.dll
+|   |   |       AForge.Video.dll
+|   |   |       AxInterop.AcroPDFLib.dll
+|   |   |       Interop.AcroPDFLib.dll
+|   |   |       Nini.dll
+|   |   |       ObjectSHM.dll
+|   |   |       ObjectSHM.dll.config
+|   |   |       ObjectSHM.pdb
+|   |   |       
+|   |   \---x86
+|   |       \---Debug
+|   |               AForge.Controls.dll
+|   |               AForge.dll
+|   |               AForge.Imaging.dll
+|   |               AForge.Math.dll
+|   |               AForge.Video.DirectShow.dll
+|   |               AForge.Video.dll
+|   |               AxInterop.AcroPDFLib.dll
+|   |               dlls.zip
+|   |               Interop.AcroPDFLib.dll
+|   |               Microsoft.VisualBasic.PowerPacks.Vs.dll
+|   |               MySql.Data.dll
+|   |               Nini.dll
+|   |               ObjectSHM.dll
+|   |               ObjectSHM.dll.config
+|   |               ObjectSHM.pdb
+|   |               ObjectSHM_.dll
+|   |               ObjectSHM_.dll.config
+|   |               
+|   +---obj
+|   |   +---Debug
+|   |   |   |   .NETFramework,Version=v4.0.AssemblyAttributes.cs
+|   |   |   |   AxInterop.AcroPDFLib.dll
+|   |   |   |   CoreCompileInputs.cache
+|   |   |   |   DesignTimeResolveAssemblyReferences.cache
+|   |   |   |   DesignTimeResolveAssemblyReferencesInput.cache
+|   |   |   |   Interop.AcroPDFLib.dll
+|   |   |   |   ObjectSHM.csproj.AssemblyReference.cache
+|   |   |   |   ObjectSHM.csproj.CopyComplete
+|   |   |   |   ObjectSHM.csproj.CoreCompileInputs.cache
+|   |   |   |   ObjectSHM.csproj.FileListAbsolute.txt
+|   |   |   |   ObjectSHM.csproj.GenerateResource.Cache
+|   |   |   |   ObjectSHM.csproj.ResolveComReference.cache
+|   |   |   |   ObjectSHM.csprojAssemblyReference.cache
+|   |   |   |   ObjectSHM.csprojResolveAssemblyReference.cache
+|   |   |   |   ObjectSHM.dll
+|   |   |   |   ObjectSHM.IFotosControl.resources
+|   |   |   |   ObjectSHM.IFotosControl4.resources
+|   |   |   |   ObjectSHM.IFotosControlPersonal4.resources
+|   |   |   |   ObjectSHM.IHuellaControl.resources
+|   |   |   |   ObjectSHM.IHuellaUnicaControl.resources
+|   |   |   |   ObjectSHM.IVerifyAsociados.resources
+|   |   |   |   ObjectSHM.IVerifyControl.resources
+|   |   |   |   ObjectSHM.pdb
+|   |   |   |   ObjectSHM.PictureButton.resources
+|   |   |   |   ObjectSHM.Properties.Resources.resources
+|   |   |   |   ObjectSHM.Visores.VisorImgControl.resources
+|   |   |   |   ObjectSHM.Visores.VisorPDFControl.resources
+|   |   |   |   PreguntasDeSeguridad.FRM_PreguntasSeguridad.resources
+|   |   |   |   SHM.Obj_PreguntaSeguridad1.resources
+|   |   |   |   SHM.Obj_PreguntaSeguridad2.resources
+|   |   |   |   SHM.Obj_PreguntaSeguridad3.resources
+|   |   |   |   
+|   |   |   \---TempPE
+|   |   |           PictureButton1.Designer.cs.dll
+|   |   |           Properties.Resources.Designer.cs.dll
+|   |   |           Service References.ServiceSHM.Reference.cs.dll
+|   |   |           
+|   |   +---Release
+|   |   |       Interop.AcroPDFLib.dll
+|   |   |       ObjectSHM.csproj.CoreCompileInputs.cache
+|   |   |       ObjectSHM.csproj.ResolveComReference.cache
+|   |   |       
+|   |   \---x86
+|   |       +---Debug
+|   |       |   |   AxInterop.AcroPDFLib.dll
+|   |       |   |   DesignTimeResolveAssemblyReferences.cache
+|   |       |   |   DesignTimeResolveAssemblyReferencesInput.cache
+|   |       |   |   Interop.AcroPDFLib.dll
+|   |       |   |   ObjectSHM.csproj.CopyComplete
+|   |       |   |   ObjectSHM.csproj.CoreCompileInputs.cache
+|   |       |   |   ObjectSHM.csproj.FileListAbsolute.txt
+|   |       |   |   ObjectSHM.csproj.GenerateResource.Cache
+|   |       |   |   ObjectSHM.csproj.ResolveComReference.cache
+|   |       |   |   ObjectSHM.csprojAssemblyReference.cache
+|   |       |   |   ObjectSHM.dll
+|   |       |   |   ObjectSHM.IFotosControl.resources
+|   |       |   |   ObjectSHM.IFotosControl4.resources
+|   |       |   |   ObjectSHM.IFotosControlPersonal4.resources
+|   |       |   |   ObjectSHM.IHuellaControl.resources
+|   |       |   |   ObjectSHM.IHuellaUnicaControl.resources
+|   |       |   |   ObjectSHM.IVerifyAsociados.resources
+|   |       |   |   ObjectSHM.IVerifyControl.resources
+|   |       |   |   ObjectSHM.pdb
+|   |       |   |   ObjectSHM.PictureButton.resources
+|   |       |   |   ObjectSHM.Properties.Resources.resources
+|   |       |   |   ObjectSHM.Visores.VisorImgControl.resources
+|   |       |   |   ObjectSHM.Visores.VisorPDFControl.resources
+|   |       |   |   PreguntasDeSeguridad.FRM_PreguntasSeguridad.resources
+|   |       |   |   SHM.Obj_PreguntaSeguridad1.resources
+|   |       |   |   SHM.Obj_PreguntaSeguridad2.resources
+|   |       |   |   SHM.Obj_PreguntaSeguridad3.resources
+|   |       |   |   
+|   |       |   \---TempPE
+|   |       |           Properties.Resources.Designer.cs.dll
+|   |       |           Service References.ServiceSHM.Reference.cs.dll
+|   |       |           Service References.ServicesSHM.Reference.cs.dll
+|   |       |           
+|   |       \---Release
+|   |               Interop.AcroPDFLib.dll
+|   |               ObjectSHM.csproj.CoreCompileInputs.cache
+|   |               ObjectSHM.csproj.ResolveComReference.cache
+|   |               ObjectSHM.csprojAssemblyReference.cache
+|   |               
+|   +---Properties
+|   |   |   AssemblyInfo.cs
+|   |   |   Resources.Designer.cs
+|   |   |   Resources.resx
+|   |   |   
+|   |   \---DataSources
+|   |           System.Drawing.Bitmap.datasource
+|   |           
+|   +---Resources
+|   |       AceptGay.png
+|   |       AceptGreen.png
+|   |       cam.jpg
+|   |       cargando.gif
+|   |       CerrarL.PNG
+|   |       CerrarM.PNG
+|   |       contador_0000_1-copia.png
+|   |       contador_0001_2-copia.png
+|   |       contador_0002_3-copia.png
+|   |       contador_0003_4-copia.png
+|   |       contador_0004_1.png
+|   |       contador_0005_2.png
+|   |       contador_0006_3.png
+|   |       contador_0007_4.png
+|   |       contador_0008_Capa-1.png
+|   |       Finger-Hand-Black_0001_Capa-2-copia-2.png
+|   |       Finger-Hand-Black_0002_Capa-3-copia.png
+|   |       Finger-Hand-Black_0003_Capa-4-copia.png
+|   |       Finger-Hand-Black_0004_Capa-5-copia.png
+|   |       Finger-Hand-Black_0005_Capa-6-copia.png
+|   |       Finger-Hand-Black_0006_Capa-2.png
+|   |       Finger-Hand-Black_0007_Capa-3.png
+|   |       Finger-Hand-Black_0008_Capa-4.png
+|   |       Finger-Hand-Black_0009_Capa-5.png
+|   |       Finger-Hand-Black_0010_Capa-6.png
+|   |       Finger-Hand_0001_Capa-2-copia-2.png
+|   |       Finger-Hand_0002_Capa-3-copia.png
+|   |       Finger-Hand_0003_Capa-4-copia.png
+|   |       Finger-Hand_0004_Capa-5-copia.png
+|   |       Finger-Hand_0005_Capa-6-copia.png
+|   |       Finger-Hand_0006_Capa-2.png
+|   |       Finger-Hand_0007_Capa-3.png
+|   |       Finger-Hand_0008_Capa-4.png
+|   |       Finger-Hand_0009_Capa-5.png
+|   |       Finger-Hand_0010_Capa-6.png
+|   |       Finger-Hand_0011_Capa-2-copia.png
+|   |       magnifying-glass-zoom-in.png
+|   |       MaximizarL.PNG
+|   |       MaximizarM.PNG
+|   |       MinimizarL.PNG
+|   |       MinimizarM.PNG
+|   |       Titulo_Promo.png
+|   |       turn (1)1.png
+|   |       turn.png
+|   |       unknow_user.jpg
+|   |       zoom-out.png
+|   |       
+|   +---Service References
+|   |   \---ServiceSHM
+|   |           configuration.svcinfo
+|   |           configuration91.svcinfo
+|   |           FingerFinder.disco
+|   |           FingerFinder4.xsd
+|   |           FingerFinder41.xsd
+|   |           FingerFinder410.xsd
+|   |           FingerFinder411.xsd
+|   |           FingerFinder412.xsd
+|   |           FingerFinder413.xsd
+|   |           FingerFinder414.xsd
+|   |           FingerFinder415.xsd
+|   |           FingerFinder42.xsd
+|   |           FingerFinder43.xsd
+|   |           FingerFinder44.xsd
+|   |           FingerFinder45.xsd
+|   |           FingerFinder46.xsd
+|   |           FingerFinder47.xsd
+|   |           FingerFinder48.xsd
+|   |           FingerFinder49.xsd
+|   |           ObjectSHM.ServiceSHM.ActualizarPorCobro.datasource
+|   |           ObjectSHM.ServiceSHM.CambioVendedor.datasource
+|   |           ObjectSHM.ServiceSHM.CD_CargaDeMovimientos.datasource
+|   |           ObjectSHM.ServiceSHM.Configuracion.datasource
+|   |           ObjectSHM.ServiceSHM.ConfiguracionVPN.datasource
+|   |           ObjectSHM.ServiceSHM.Consultas.datasource
+|   |           ObjectSHM.ServiceSHM.Datos_BF.datasource
+|   |           ObjectSHM.ServiceSHM.Datos_CadenaCoincidencia.datasource
+|   |           ObjectSHM.ServiceSHM.Datos_CteRelacion.datasource
+|   |           ObjectSHM.ServiceSHM.Datos_HistorialBF.datasource
+|   |           ObjectSHM.ServiceSHM.DC_AnalisisCondicionado.datasource
+|   |           ObjectSHM.ServiceSHM.DC_AsociadoContactos.datasource
+|   |           ObjectSHM.ServiceSHM.DC_AutorizaConsulta.datasource
+|   |           ObjectSHM.ServiceSHM.DC_BancosCteFinal.datasource
+|   |           ObjectSHM.ServiceSHM.DC_CandadoFotos.datasource
+|   |           ObjectSHM.ServiceSHM.DC_CandadoRegCteFinal.datasource
+|   |           ObjectSHM.ServiceSHM.DC_ClieAtteConfigListOpc.datasource
+|   |           ObjectSHM.ServiceSHM.DC_Cliente.datasource
+|   |           ObjectSHM.ServiceSHM.DC_ClienteFinal.datasource
+|   |           ObjectSHM.ServiceSHM.DC_CodigoRecomendador.datasource
+|   |           ObjectSHM.ServiceSHM.DC_CoincidenciasCteFinal.datasource
+|   |           ObjectSHM.ServiceSHM.DC_Credenciales.datasource
+|   |           ObjectSHM.ServiceSHM.DC_CteFingerSHM.datasource
+|   |           ObjectSHM.ServiceSHM.DC_CtoBF.datasource
+|   |           ObjectSHM.ServiceSHM.DC_DatosCredilanas.datasource
+|   |           ObjectSHM.ServiceSHM.DC_DatosDimaR.datasource
+|   |           ObjectSHM.ServiceSHM.DC_DatosRecibos.datasource
+|   |           ObjectSHM.ServiceSHM.DC_DatosValera.datasource
+|   |           ObjectSHM.ServiceSHM.DC_DATOS_SEGURO.datasource
+|   |           ObjectSHM.ServiceSHM.DC_DetalleMovCteFinal.datasource
+|   |           ObjectSHM.ServiceSHM.dc_DigitalizacionMovsVenta.datasource
+|   |           ObjectSHM.ServiceSHM.DC_DispersionConsulta.datasource
+|   |           ObjectSHM.ServiceSHM.DC_DomicilioCtoBF.datasource
+|   |           ObjectSHM.ServiceSHM.DC_EditClientAttentionModel.datasource
+|   |           ObjectSHM.ServiceSHM.DC_EmpleoBF.datasource
+|   |           ObjectSHM.ServiceSHM.DC_EmpleoCtoBF.datasource
+|   |           ObjectSHM.ServiceSHM.DC_EstadoCuenta.datasource
+|   |           ObjectSHM.ServiceSHM.DC_EventoVenta.datasource
+|   |           ObjectSHM.ServiceSHM.DC_FiltroColonias.datasource
+|   |           ObjectSHM.ServiceSHM.DC_FolioCalzado.datasource
+|   |           ObjectSHM.ServiceSHM.DC_FotoNoPresente.datasource
+|   |           ObjectSHM.ServiceSHM.DC_FotosQR.datasource
+|   |           ObjectSHM.ServiceSHM.DC_HuellaCliente.datasource
+|   |           ObjectSHM.ServiceSHM.DC_ImagenesCargadas.datasource
+|   |           ObjectSHM.ServiceSHM.dc_MatrizAutorizacion.datasource
+|   |           ObjectSHM.ServiceSHM.DC_MaviDocCte.datasource
+|   |           ObjectSHM.ServiceSHM.DC_MaximoVales.datasource
+|   |           ObjectSHM.ServiceSHM.DC_MotivosLiberacion.datasource
+|   |           ObjectSHM.ServiceSHM.DC_PreguntaSeguridad.datasource
+|   |           ObjectSHM.ServiceSHM.DC_PreguntasSeguridadExtras.datasource
+|   |           ObjectSHM.ServiceSHM.DC_RecibosPagos.datasource
+|   |           ObjectSHM.ServiceSHM.dc_ReporteDeAutorizacion.datasource
+|   |           ObjectSHM.ServiceSHM.dc_ReporteDigitalizacion.datasource
+|   |           ObjectSHM.ServiceSHM.DC_Reporte_Cambio_Estatus_Huella.datasource
+|   |           ObjectSHM.ServiceSHM.DC_SetIDcancelacionS.datasource
+|   |           ObjectSHM.ServiceSHM.DC_Tarjeta.datasource
+|   |           ObjectSHM.ServiceSHM.DC_Telefono.datasource
+|   |           ObjectSHM.ServiceSHM.DC_Ubicacion.datasource
+|   |           ObjectSHM.ServiceSHM.dc_UsuariosDigitalizacion.datasource
+|   |           ObjectSHM.ServiceSHM.DocumentosValidados.datasource
+|   |           ObjectSHM.ServiceSHM.DT_CambioDomicilio.datasource
+|   |           ObjectSHM.ServiceSHM.DT_ClaveINTL.datasource
+|   |           ObjectSHM.ServiceSHM.DT_DireccionCliente.datasource
+|   |           ObjectSHM.ServiceSHM.DT_ReporteCambiosDomicilio.datasource
+|   |           ObjectSHM.ServiceSHM.ExisteDocumentoClass.datasource
+|   |           ObjectSHM.ServiceSHM.ExploradorCargaMovimientos.datasource
+|   |           ObjectSHM.ServiceSHM.FormatoHojaVerde.datasource
+|   |           ObjectSHM.ServiceSHM.HistoricoActualizacionDocumentos.datasource
+|   |           ObjectSHM.ServiceSHM.historicoValidacion.datasource
+|   |           ObjectSHM.ServiceSHM.ImgPorCobro.datasource
+|   |           ObjectSHM.ServiceSHM.ListaCargaDoc.datasource
+|   |           ObjectSHM.ServiceSHM.ListActCob.datasource
+|   |           ObjectSHM.ServiceSHM.ListaHuellasEnCaja.datasource
+|   |           ObjectSHM.ServiceSHM.ListCertifi.datasource
+|   |           ObjectSHM.ServiceSHM.M_AccesoHojaVerde.datasource
+|   |           ObjectSHM.ServiceSHM.M_AccesoPerfiles.datasource
+|   |           ObjectSHM.ServiceSHM.M_BoletaBFExplorador.datasource
+|   |           ObjectSHM.ServiceSHM.M_BoletasBF.datasource
+|   |           ObjectSHM.ServiceSHM.M_Cambio_Vendedor_Dima.datasource
+|   |           ObjectSHM.ServiceSHM.M_CatalogoDocumentos.datasource
+|   |           ObjectSHM.ServiceSHM.M_Cliente_HV.datasource
+|   |           ObjectSHM.ServiceSHM.M_ConfDepuracion.datasource
+|   |           ObjectSHM.ServiceSHM.M_Contacto_HV.datasource
+|   |           ObjectSHM.ServiceSHM.M_Departamento.datasource
+|   |           ObjectSHM.ServiceSHM.M_DimR.datasource
+|   |           ObjectSHM.ServiceSHM.M_Documentos.datasource
+|   |           ObjectSHM.ServiceSHM.M_DocumentosAdjuntos.datasource
+|   |           ObjectSHM.ServiceSHM.M_Excluir_DepartamentoPuesto_Red_Dima.datasource
+|   |           ObjectSHM.ServiceSHM.M_Falla_Huella.datasource
+|   |           ObjectSHM.ServiceSHM.M_HuellaPersonal.datasource
+|   |           ObjectSHM.ServiceSHM.M_Movimientos.datasource
+|   |           ObjectSHM.ServiceSHM.M_ReporteDocumentosCargados.datasource
+|   |           ObjectSHM.ServiceSHM.M_Sucursal.datasource
+|   |           ObjectSHM.ServiceSHM.M_SucursalExcenta.datasource
+|   |           ObjectSHM.ServiceSHM.M_TipoBF.datasource
+|   |           ObjectSHM.ServiceSHM.M_ValidacionTelefonica.datasource
+|   |           ObjectSHM.ServiceSHM.Perfiles.datasource
+|   |           ObjectSHM.ServiceSHM.PrecargarDatos.datasource
+|   |           ObjectSHM.ServiceSHM.RegistroChecada.datasource
+|   |           ObjectSHM.ServiceSHM.RegistroImagenes.datasource
+|   |           ObjectSHM.ServiceSHM.ReporteHuellasIlegibles.datasource
+|   |           ObjectSHM.ServiceSHM.SolicitudCliente.datasource
+|   |           ObjectSHM.ServiceSHM.ValueTupleOfbase64BinarydateTime.datasource
+|   |           Reference.cs
+|   |           Reference.svcmap
+|   |           Service1.wsdl
+|   |           
+|   \---Visores
+|           FrmDocumentos.cs
+|           IVisorImg.cs
+|           IVisorPDF.cs
+|           VisorImg.cs
+|           VisorImgControl.cs
+|           VisorImgControl.Designer.cs
+|           VisorImgControl.resx
+|           VisorPDF.cs
+|           VisorPDFControl.cs
+|           VisorPDFControl.Designer.cs
+|           VisorPDFControl.resx
+|           
++---HuellaControl
+|   |   app.config
+|   |   HuellaControl.csproj
+|   |   HuellaControl.csproj.vspscc
+|   |   Program.cs
+|   |   Prueba_de_Control.cs
+|   |   Prueba_de_Control.Designer.cs
+|   |   Prueba_de_Control.resx
+|   |   
+|   +---bin
+|   |   \---Debug
+|   |           AForge.Video.DirectShow.dll
+|   |           AForge.Video.dll
+|   |           
+|   +---obj
+|   |   +---Debug
+|   |   |       HuellaControl.csproj.CoreCompileInputs.cache
+|   |   |       HuellaControl.csprojAssemblyReference.cache
+|   |   |       
+|   |   \---Release
+|   |           HuellaControl.csproj.CoreCompileInputs.cache
+|   |           HuellaControl.csprojAssemblyReference.cache
+|   |           
+|   +---Properties
+|   |       AssemblyInfo.cs
+|   |       Resources.Designer.cs
+|   |       Resources.resx
+|   |       Settings.Designer.cs
+|   |       Settings.settings
+|   |       
+|   \---Resources
+|           contador_0000_1-copia.png
+|           contador_0001_2-copia.png
+|           contador_0002_3-copia.png
+|           contador_0003_4-copia.png
+|           contador_0004_1.png
+|           contador_0005_2.png
+|           contador_0006_3.png
+|           contador_0007_4.png
+|           contador_0008_Capa-1.png
+|           ExportarM.png
+|           Finger-Hand-Black_0001_Capa-2-copia-2.png
+|           Finger-Hand-Black_0002_Capa-3-copia.png
+|           Finger-Hand-Black_0003_Capa-4-copia.png
+|           Finger-Hand-Black_0004_Capa-5-copia.png
+|           Finger-Hand-Black_0005_Capa-6-copia.png
+|           Finger-Hand-Black_0006_Capa-2.png
+|           Finger-Hand-Black_0007_Capa-3.png
+|           Finger-Hand-Black_0008_Capa-4.png
+|           Finger-Hand-Black_0009_Capa-5.png
+|           Finger-Hand-Black_0010_Capa-6.png
+|           Finger-Hand_0001_Capa-2-copia-2.png
+|           Finger-Hand_0002_Capa-3-copia.png
+|           Finger-Hand_0003_Capa-4-copia.png
+|           Finger-Hand_0004_Capa-5-copia.png
+|           Finger-Hand_0005_Capa-6-copia.png
+|           Finger-Hand_0006_Capa-2.png
+|           Finger-Hand_0007_Capa-3.png
+|           Finger-Hand_0008_Capa-4.png
+|           Finger-Hand_0009_Capa-5.png
+|           Finger-Hand_0010_Capa-6.png
+|           Finger-Hand_0011_Capa-2-copia.png
+|           unknow_user.jpg
+|           
+\---ObjectPruebas
+    |   app.config
+    |   Form1.cs
+    |   Form1.Designer.cs
+    |   Form1.resx
+    |   ObjectPruebas.csproj
+    |   ObjectPruebas.csproj.vspscc
+    |   Program.cs
+    |   
+    +---bin
+    |   +---Debug
+    |   |       AForge.Controls.dll
+    |   |       AForge.dll
+    |   |       AForge.Imaging.dll
+    |   |       AForge.Math.dll
+    |   |       AForge.Video.DirectShow.dll
+    |   |       AForge.Video.dll
+    |   |       AxInterop.AcroPDFLib.dll
+    |   |       Microsoft.VisualBasic.PowerPacks.Vs.dll
+    |   |       ObjectPruebas.exe
+    |   |       ObjectPruebas.exe.config
+    |   |       ObjectPruebas.pdb
+    |   |       ObjectPruebas.vshost.exe
+    |   |       ObjectPruebas.vshost.exe.config
+    |   |       ObjectPruebas.vshost.exe.manifest
+    |   |       ObjectSHM.dll
+    |   |       ObjectSHM.dll.config
+    |   |       ObjectSHM.pdb
+    |   |       
+    |   \---x86
+    |       \---Debug
+    |           |   AForge.Controls.dll
+    |           |   AForge.dll
+    |           |   AForge.Imaging.dll
+    |           |   AForge.Math.dll
+    |           |   AForge.Video.DirectShow.dll
+    |           |   AForge.Video.dll
+    |           |   AxInterop.AcroPDFLib.dll
+    |           |   Interop.AcroPDFLib.dll
+    |           |   Microsoft.VisualBasic.PowerPacks.Vs.dll
+    |           |   Nini.dll
+    |           |   ObjectPruebas.exe
+    |           |   ObjectPruebas.exe.config
+    |           |   ObjectPruebas.pdb
+    |           |   ObjectPruebas.vshost.exe
+    |           |   ObjectPruebas.vshost.exe.config
+    |           |   ObjectPruebas.vshost.exe.manifest
+    |           |   ObjectSHM.dll
+    |           |   ObjectSHM.dll.config
+    |           |   ObjectSHM.pdb
+    |           |   
+    |           \---es
+    |                   Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+    |                   
+    +---obj
+    |   +---Debug
+    |   |       DesignTimeResolveAssemblyReferencesInput.cache
+    |   |       ObjectPruebas.csproj.CopyComplete
+    |   |       ObjectPruebas.csproj.CoreCompileInputs.cache
+    |   |       ObjectPruebas.csproj.FileListAbsolute.txt
+    |   |       ObjectPruebas.csproj.GenerateResource.Cache
+    |   |       ObjectPruebas.csprojAssemblyReference.cache
+    |   |       ObjectPruebas.csprojResolveAssemblyReference.cache
+    |   |       ObjectPruebas.exe
+    |   |       ObjectPruebas.Form1.resources
+    |   |       ObjectPruebas.pdb
+    |   |       ObjectPruebas.Properties.Resources.resources
+    |   |       
+    |   +---Release
+    |   |       build.force
+    |   |       ObjectPruebas.csproj.CoreCompileInputs.cache
+    |   |       ObjectPruebas.csprojAssemblyReference.cache
+    |   |       
+    |   \---x86
+    |       +---Debug
+    |       |   |   .NETFramework,Version=v4.0.AssemblyAttributes.cs
+    |       |   |   CoreCompileInputs.cache
+    |       |   |   DesignTimeResolveAssemblyReferences.cache
+    |       |   |   DesignTimeResolveAssemblyReferencesInput.cache
+    |       |   |   ObjectPruebas.csproj.AssemblyReference.cache
+    |       |   |   ObjectPruebas.csproj.CopyComplete
+    |       |   |   ObjectPruebas.csproj.CoreCompileInputs.cache
+    |       |   |   ObjectPruebas.csproj.FileListAbsolute.txt
+    |       |   |   ObjectPruebas.csproj.GenerateResource.Cache
+    |       |   |   ObjectPruebas.csprojAssemblyReference.cache
+    |       |   |   ObjectPruebas.csprojResolveAssemblyReference.cache
+    |       |   |   ObjectPruebas.exe
+    |       |   |   ObjectPruebas.Form1.resources
+    |       |   |   ObjectPruebas.pdb
+    |       |   |   ObjectPruebas.Properties.Resources.resources
+    |       |   |   
+    |       |   \---TempPE
+    |       \---Release
+    |               ObjectPruebas.csproj.CoreCompileInputs.cache
+    |               
+    \---Properties
+        |   AssemblyInfo.cs
+        |   Resources.Designer.cs
+        |   Resources.resx
+        |   Settings.Designer.cs
+        |   Settings.settings
+        |   
+        \---DataSources
+                ObjectSHM.ServiceSHM.Configuracion.datasource
+                ObjectSHM.ServiceSHM.ConfiguracionVPN.datasource
+                ObjectSHM.ServiceSHM.Consultas.datasource
+                ObjectSHM.ServiceSHM.ListaCargaDoc.datasource
+                ObjectSHM.ServiceSHM.PrecargarDatos.datasource
+                ObjectSHM.ServiceSHM.RegistroChecada.datasource
+                ObjectSHM.ServiceSHM.RegistroImagenes.datasource
+                ObjectSHM.ServiceSHM.ReporteHuellasIlegibles.datasource
+                ObjectSHM.ServiceSHM.SolicitudCliente.datasource
+                
